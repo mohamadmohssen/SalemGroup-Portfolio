@@ -1,15 +1,15 @@
 {
     "service" : [
         {
-            "title": "Web Development",
+            "title": "Consulting",
             "imageUrl": "assets/images/Web.png"
         },
         {
-            "title": "Mobile Development",
+            "title": "Marketing",
             "imageUrl": "assets/images/Mobile.png"
         },
         {
-            "title": "UI/UX Design",
+            "title": "Technologies",
             "imageUrl": "assets/images/Design.png"
         }
     ],

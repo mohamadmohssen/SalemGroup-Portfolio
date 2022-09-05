@@ -2,6 +2,11 @@
 @tailwind components;
 @tailwind utilities;
 
+.iconImg{
+  margin-left: 15%;
+  padding-top: 7%;
+}
+
 section {
   @apply mb-28;
 }
@@ -11,7 +16,7 @@ section {
 }
 
 .header {
-  @apply flex flex-col py-4 mb-4 justify-between;
+  @apply flex flex-col py-2 justify-between;
 }
 
 .hero {
@@ -24,12 +29,11 @@ section {
 
 @media (min-width: 1024px) {
   .header {
-    @apply container w-full flex-row py-8 px-10 mt-2 mb-4 mx-auto items-center content-center border-b border-gray-100;
+    @apply container w-full flex-row py-3 px-5 mt-1  mx-auto items-center content-center border-b border-gray-100;
   }
 
   .hero {
     @apply container flex-row mx-auto mt-8;
   }
 }
-
 

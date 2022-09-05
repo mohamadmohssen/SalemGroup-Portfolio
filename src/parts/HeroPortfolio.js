@@ -22,6 +22,7 @@ export default function HeroPortfolio() {
           <img src={heroPortfolio} alt="Hero" />
         </div>
       </Fade>
+
     </section>
   );
 }

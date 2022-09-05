@@ -2,15 +2,18 @@
     "service" : [
         {
             "title": "Consulting",
-            "imageUrl": "assets/images/Web.png"
+            "imageUrl": "assets/images/Web.png",
+            "pagePath": "/consulting"       
         },
         {
             "title": "Marketing",
-            "imageUrl": "assets/images/Mobile.png"
+            "imageUrl": "assets/images/Mobile.png",
+            "pagePath": "/Marketing"       
         },
         {
             "title": "Technologies",
-            "imageUrl": "assets/images/Design.png"
+            "imageUrl": "assets/images/Design.png",
+            "pagePath": "/Marketing"       
         }
     ],
     "portfolio" : [

@@ -4,131 +4,226 @@
 /* eslint-disable no-trailing-spaces */
 /* eslint-disable react/jsx-filename-extension */
 /* eslint-disable react/prop-types */
-import React from 'react';
+import React, { useState } from "react";
 
-import Fade from 'react-reveal/Fade';
-import * as emailjs from 'emailjs-com';
-import { ToastContainer, toast } from 'react-toastify';
-import 'react-toastify/dist/ReactToastify.css';
-
-import Form from 'elements/Form';
-import Button from 'elements/Button';
+import { FaBeer } from 'react-icons/fa';
+import "../assets/css/styles.css"
+import Fade from "react-reveal/Fade";
+import * as emailjs from "emailjs-com";
+import { ToastContainer, toast } from "react-toastify";
+import "react-toastify/dist/ReactToastify.css";
+//import ReactDOM from 'react-dom/client';
+import Form from "elements/Form";
+import Button from "elements/Button";
+import instagram from "assets/images/instagram-icon.png";
+import linkedin from "assets/images/linkedin-icon.png";
+import facebook from "assets/images/facebook-icon.png";
+import twitter from "assets/images/twitter-icon.png";
+import location from "assets/images/location-icon.png";
+import Drop from "./Drop";
 
 export default function DiscussForm(props) {
   const { data, resetForm } = props;
+  const [subject, setSubject] = useState("")
 
   const submitEmail = () => {
-    const {
-      name, company, email, phone, projectIdea,
-    } = data;
+    const { name, company, email, phone, projectIdea } = data;
 
     const templateParams = {
       from_name: `${name} - ${company} ( ${phone} - ${email} )`,
-      to_name: 'Racxstudio',
+      to_name: "Racxstudio",
       message: projectIdea,
     };
 
     if (
-      name !== ''
-            && company !== ''
-            && email !== ''
-            && phone !== ''
-            && projectIdea !== ''
+      name !== "" &&
+      company !== "" &&
+      email !== "" &&
+      phone !== "" &&
+      projectIdea !== ""
     ) {
-      emailjs.send(
-        'service_h4gtndg',
-        'template_a9tvs7a',
-        templateParams,
-        'user_csqIxzN5mKsl1yw4ffJzV',
-      )
-        .then(() => {
-          toast.success('Success! we\'\ll get back to you soon. Thank you!');
-          resetForm();
-        }, (error) => {
-          toast.error(error);
-        });
+      emailjs
+        .send(
+          "service_h4gtndg",
+          "template_a9tvs7a",
+          templateParams,
+          "user_csqIxzN5mKsl1yw4ffJzV"
+        )
+        .then(
+          () => {
+            toast.success("Success! we'll get back to you soon. Thank you!");
+            resetForm();
+          },
+          (error) => {
+            toast.error(error);
+          }
+        );
     } else {
-      toast.error('Please fill out the blank form.');
+      toast.error("Please fill out the blank form.");
     }
   };
 
   return (
     <section className="flex flex-col container mx-auto mt-10 justify-center">
       <Fade bottom>
-        <h1 className="text-5xl text-theme-blue text-center font-bold">Contact Us</h1>
-
-        <p className="font-light text-lg text-gray-400 text-center mb-12">          
-          {/* eslint-disable-next-line react/no-unescaped-entities */}
-          Please fill out the form below to discuss your project and we'll get back to you in 24 hours.
-        </p>
-
-        <div className="flex flex-col">
-          <div className="flex flex-col sm:flex-row mx-auto">
-            <Form
-              id="name"
-              name="name"
-              type="text"
-              value={data.name}
-              placeholder="Your name"
-              className=""
-              onChange={props.onChange}
-            />
-            <Form
-              id="company"
-              name="company"
-              type="text"
-              value={data.company}
-              placeholder="Your company"
-              className=""
-              onChange={props.onChange}
-            />
+        <div className="discuss_container">
+          <div className="left">
+            <div className="side-nav-bar">
+              <div className="nav-upper">
+                <div className="nav-heading">
+                  <div className="nav-brand">
+                    <h1>Get in touch </h1>
+                    <ul>
+                    <li>
+                      <a href="mailto:info@salemgrp.com">info@salemgrp.com</a></li>
+                    <li><p>(961) 752 071</p></li>
+                    <li className="sidebar-list">
+                      <a href="https://www.google.com/maps/place/Salem+Group/@33.8956728,35.4867213,17z/data=!4m5!3m4!1s0x151f17afb9efd533:0x1aa5f682dd3f1b45!8m2!3d33.8956745!4d35.4909154" className="discuss_form_a">
+                      <img
+                        className="sidebar"
+                        src={location}
+                        alt="Build Website"
+                        
+                      /> 
+                      Location
+                      </a>
+                      </li>
+                     <li className="sidebar-list" >
+                    <a href="https://www.linkedin.com/company/salemgroup/" className="discuss_form_a">
+                    
+                      <img 
+                        className="sidebar"
+                        src={instagram}
+                        alt="Build Website"
+                       
+                      />                    
+                      Instagram
+                     </a>
+                    </li>
+                    
+                   <li className="sidebar-list">
+                   <a href="https://www.linkedin.com/company/salemgroup/" className="discuss_form_a">
+                      <img
+                        className="sidebar"
+                        src={linkedin}
+                        alt="Build Website"
+                      />
+                        Linkedin
+                      </a>
+                   </li>
+                    
+                    </ul>
+                    {/*<div className="flex">
+                      <img
+                        className="sidebar"
+                        src={facebook}
+                        alt="Build Website"
+                      />
+                      <a href="https://www.linkedin.com/company/salemgroup/">
+                        Facebook
+                      </a>
+                    </div>
+                    <div className="flex">
+                      <img
+                        className="sidebar"
+                        src={twitter}
+                        alt="Build Website"
+                      />
+                      <a href="https://www.linkedin.com/company/salemgroup/">
+                        Twitter
+                      </a>
+                      </div> */}
+                  </div>
+                </div>
+              </div>
+            </div>
           </div>
+          <div className="right">
+            <h1 className="text-5xl text-theme-blue text-center font-bold">
+              Contact Us
+            </h1>
 
-          <div className="flex flex-col sm:flex-row mx-auto">
-            <Form
-              id="email"
-              name="email"
-              type="email"
-              value={data.email}
-              placeholder="Your email address"
-              className=""
-              onChange={props.onChange}
-            />
-            <Form
-              id="phone"
-              name="phone"
-              type="tel"
-              value={data.phone}
-              placeholder="Your contact number"
-              className=""
-              onChange={props.onChange}
-            />
+            <p className="font-light text-lg text-gray-400 text-center mb-12">
+              {/* eslint-disable-next-line react/no-unescaped-entities */}
+              Please fill out the form below to discuss your project and we'll
+              get back to you in 24 hours.
+            </p>
+
+            <div className="flex flex-col">
+              <div className="flex flex-col sm:flex-row mx-auto">
+                <Form
+                  id="name"
+                  name="name"
+                  type="text"
+                  value={data.name}
+                  placeholder="Your name"
+                  className=""
+                  onChange={props.onChange}
+                />
+                <Form
+                  id="company"
+                  name="company"
+                  type="text"
+                  value={data.company}
+                  placeholder="Your company"
+                  className=""
+                  onChange={props.onChange}
+                />
+              </div>
+
+              <div className="flex flex-col sm:flex-row mx-auto">
+                <Form
+                  id="email"
+                  name="email"
+                  type="email"
+                  value={data.email}
+                  placeholder="Your email address"
+                  className=""
+                  onChange={props.onChange}
+                />
+                <Form
+                  id="phone"
+                  name="phone"
+                  type="tel"
+                  value={data.phone}
+                  placeholder="Your contact number"
+                  className=""
+                  onChange={props.onChange}
+                />
+              </div>
+              <div className="contact-us">
+                <div className="drop">
+  
+                  <Drop subject={subject} setSubject={setSubject}/>
+                </div>
+                {subject === "Other" && <div className="text-area">
+                <input type="text" placeholder="Your Subject"class="p-4 font-light text-lg text-theme-blue rounded border border-gray-400 focus:outline-none focus:ring-1 focus:ring-theme-purple " />
+                </div>}
+              </div>
+              <div className="mx-auto">
+                <Form
+                  id="projectIdea"
+                  name="projectIdea"
+                  type="textarea"
+                  value={data.projectIdea}
+                  placeholder="Explain about your project idea"
+                  className=""
+                  onChange={props.onChange}
+                />
+              </div>
+              <Button
+                className="text-xl mx-auto px-12 py-3 mt-5 bg-theme-purple text-white rounded-full border-2 border-theme-purple hover:bg-dark-theme-purple border-purple-800 transition duration-200 focus:outline-none"
+                type="button"
+                onClick={submitEmail}
+              >
+                Submit
+              </Button>
+            </div>
           </div>
-
-          <div className="mx-auto">
-            <Form
-              id="projectIdea"
-              name="projectIdea"
-              type="textarea"
-              value={data.projectIdea}
-              placeholder="Explain about your project idea"
-              className=""
-              onChange={props.onChange}
-            />
-          </div>
-
-          <Button
-            className="text-xl mx-auto px-12 py-3 mt-5 bg-theme-purple text-white rounded-full border-2 border-theme-purple hover:bg-dark-theme-purple border-purple-800 transition duration-200 focus:outline-none"
-            type="button"
-            onClick={submitEmail}
-          >
-            Submit
-          </Button>
         </div>
       </Fade>
 
       <ToastContainer />
-
     </section>
   );
 }

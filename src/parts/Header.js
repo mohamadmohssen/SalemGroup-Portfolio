@@ -14,6 +14,12 @@ export default function Header(props) {
   const [isCollapse, setIsCollapse] = useState(false);
   const path = location.pathname;
 
+  function smoothScroll(){
+    document.querySelector('#services').scrollIntoView({
+        behavior: 'smooth'
+    });
+}
+
   return (
     <header className="header">
       <Fade>
@@ -58,15 +64,13 @@ export default function Header(props) {
           </li>
 
           <li className="py-2 lg:py-0">
-            <Button
-              className={`${path === ''
-                //'project'
-                 ? 'active-link' : ''} text-lg px-5 no-underline hover:underline`}
-              type="link"
-              href=""
+            <a href="/#services">
+          <Button
+              className={`${path === '/' ? 'active-link' : ''} text-lg px-5 no-underline hover:underline`}
             >
               Services
             </Button>
+            </a>
           </li>
 
           <li>
@@ -122,15 +126,14 @@ export default function Header(props) {
 
             <li className="py-2 lg:py-0">
             <Button
-              className={`${path === ''
-                //'/project'
-               ? 'active-link' : ''} text-lg px-5 no-underline hover:underline`}
-              type="link"
-              href="\parts"
-            >
-              Services
-            </Button>
-          </li>
+                className={`${path === '/project' ? 'active-link' : ''} px-10 no-underline hover:underline`}
+                type="link"
+                href="/service"
+              >
+                Services
+              </Button>
+            </li>
+          
 
             <li className="mx-auto my-9 bg-white">
               <Button

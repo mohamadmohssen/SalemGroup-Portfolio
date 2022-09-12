@@ -2,11 +2,50 @@
 @tailwind components;
 @tailwind utilities;
 
+.sidebar {
+  width: 20px;
+  height: 20px;
+  display: flex;
+}
+.sidebar-list{
+  display: flex;
+}
 .iconImg{
   margin-left: 15%;
   padding-top: 7%;
+  width: 6rem;
+ 
+}
+.drop{
+  width: 20rem;
+
 }
 
+.text-area{
+  margin-right: 4%;
+}
+
+.discuss_form_a{
+  display: flex !important;
+}
+.nav-upper , .nav-heading {
+
+}
+.side-nav-bar {
+   background-color: #DEE7EA ;
+   width: 300px;
+   height: 125vh;
+   position: relative;
+   color: rgb(red, green, blue);
+   }
+.contact-us{
+  display: flex;
+  justify-content: center;
+  padding-bottom: 1% ;
+}
+.flex {
+display: flex;
+}
 section {
   @apply mb-28;
 }
@@ -25,6 +64,10 @@ section {
 
 .portofolio-card:hover .img-hover {
   @apply opacity-25;
+}
+
+.discuss_container{
+  display:flex;
 }
 
 @media (min-width: 1024px) {

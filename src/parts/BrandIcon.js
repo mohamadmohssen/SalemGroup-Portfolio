@@ -2,7 +2,7 @@
 import React from 'react';
 
 import Button from 'elements/Button';
-import iconImg from 'assets/images/salem-group1.jfif';
+import iconImg from 'assets/images/salem-group1.png';
 
 export default function BrandIcon() {
   return (

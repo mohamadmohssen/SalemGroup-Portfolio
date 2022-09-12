@@ -7,7 +7,7 @@ import TeamPage from "pages/TeamPage";
 import DiscussProjectPage from "pages/DiscussProjectPage";
 import NotFoundPage from "pages/NotFoundPage";
 import Consulting from './pages/Consulting';
-import Marketing from './pages/Marketing'
+import Marketing from './pages/Marketing';
 import "assets/css/styles.css";
 
 function App() {

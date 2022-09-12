@@ -4,6 +4,7 @@ import React from 'react';
 import { useHistory } from 'react-router-dom';
 import Fade from 'react-reveal/Fade';
 
+
 export default function Service({ data }) {
   const navigate = useHistory()
 
@@ -12,7 +13,8 @@ export default function Service({ data }) {
   }
 
   return (
-    <div className="bg-gray-50">
+    <a id="services">
+    <div className="bg-gray-50" id='services'>
       <div className="container mx-auto pt-20 pb-28">
         <Fade bottom>
           <h1 className="text-5xl text-theme-blue text-center font-bold">Our Service</h1>
@@ -41,5 +43,6 @@ export default function Service({ data }) {
         </div>
       </div>
     </div>
+    </a>
   );
 }

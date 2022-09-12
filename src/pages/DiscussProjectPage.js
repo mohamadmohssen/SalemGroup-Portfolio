@@ -1,6 +1,7 @@
 /* eslint-disable react/destructuring-assignment */
 /* eslint-disable react/jsx-filename-extension */
 import React, { Component } from 'react';
+import Sidenavbar from 'parts/sidebar';
 
 import Header from 'parts/Header';
 import DiscussForm from 'parts/DiscussForm';

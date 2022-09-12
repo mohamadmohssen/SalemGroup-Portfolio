@@ -1,13 +1,14 @@
 /* eslint-disable react/jsx-filename-extension */
 import React from 'react';
-
+import "../assets/css/styles.css"
 import Fade from 'react-reveal/Fade';
 
 import Button from 'elements/Button';
-
+//import Sidenavbar from './sidebar';
 export default function Discuss() {
   return (
     <Fade bottom>
+     {/* <Sidenavbar /> */}
       <section className="flex container mx-auto justify-center">
         <div className="flex flex-col w-10/12 sm:w-11/12 xl:w-10/12 rounded-2xl bg-theme-purple text-gray-100 py-14 sm:px-12 sm:py-20 xl:px-16 shadow-2xl discuss">
           <div className="flex flex-col sm:flex-row mb-3 sm:mb-9 p-5 sm:p-0 sm:items-center">
@@ -24,3 +25,10 @@ export default function Discuss() {
     </Fade>
   );
 }
+
+<div>
+  <div></div>
+
+  <div></div>
+
+</div>

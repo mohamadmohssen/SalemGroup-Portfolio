@@ -7,6 +7,7 @@ import HeroPortfolio from 'parts/HeroPortfolio';
 import Discuss from 'parts/Discuss';
 import Footer from 'parts/Footer';
 import AllPortfolio from 'parts/AllPortfolio';
+import Service from 'parts/Service';
 
 import Data from 'json/landingPage.json';
 
@@ -19,9 +20,7 @@ export default class ProjectPage extends Component {
     return (
       <>
         <Header {...this.props} />
-        <HeroPortfolio {...this.props} />
-        <AllPortfolio data={Data.portfolio} />
-        <Discuss {...this.props} />
+        <Service data={Data.portfolioservices}/>
         <Footer />
       </>
     );

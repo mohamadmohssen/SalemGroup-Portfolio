@@ -2,18 +2,18 @@
     "service" : [
         {
             "title": "Consulting",
-            "imageUrl": "assets/images/Web.png",
+            "imageUrl": "assets/images/Consulting.png",
             "pagePath": "/consulting"       
         },
         {
             "title": "Marketing",
-            "imageUrl": "assets/images/Mobile.png",
+            "imageUrl": "assets/images/Marketing.png",
             "pagePath": "/Marketing"       
         },
         {
             "title": "Technologies",
-            "imageUrl": "assets/images/Design.png",
-            "pagePath": "/Marketing"       
+            "imageUrl": "assets/images/Technologies.png",
+            "pagePath": "/Technologies"       
         }
     ],
     "portfolio" : [
@@ -186,6 +186,227 @@
             "name": "Monica Lovegood",
             "position": "UI/UX Designer",
             "imageUrl": "assets/images/UIUX1.jpg"
+        }
+    ],
+    "Consulting": [
+        {
+            "name": "Mentoring Entrepreneurs",
+            "imageUrl": "assets/images/MentoringEntrepreneurs.png"
+        },
+        {
+            "name": "Project Implementation Research",           
+            "imageUrl": "assets/images/ProjectImplementationResearch.png"
+        },
+        {
+            "name": "Market Research",            
+            "imageUrl": "assets/images/MarketResearch.png"
+        },
+        {
+            "name": "Financial Forecasting",           
+            "imageUrl": "assets/images/FinancialForecasting.png"
+        },
+        {
+            "name": "Budget & Capital Structuring",            
+            "imageUrl": "assets/images/Budget&CapitalStructuring.png"
+        },
+        {
+            "name": "Feasibility Studies",            
+            "imageUrl": "assets/images/FeasibilityStudies.png"
+        },
+        {
+            "name": "Project Legal Estabilishment",
+            "imageUrl": "assets/images/ProjectLegalEstabilishment.png"
+        },
+        {
+            "name": "Funding & Loan Applications Preparation",            
+            "imageUrl": "assets/images/Funding&LoaApplicationsPreparation.png"
+        },
+        {
+            "name": "Investor Pitching",
+            "imageUrl": "assets/images/InvestorPitching.png"
+        },
+        {
+            "name": "Strategic consulting",
+            "imageUrl": "assets/images/StrategicConsulting.png"
+        },
+        {
+            "name": "Management Consulting",
+            "imageUrl": "assets/images/ManagementConsulting.png"
+        },
+        {
+            "name": "Operational Consulting",
+            "imageUrl": "assets/images/OperationalConsulting.png"
+        }
+    ],
+    "Marketing": [
+        {
+            "name": "Photography and Videography",
+            "imageUrl": "assets/images/PhotographyandVideography.png"
+        },
+        {
+            "name": "Content Creation",           
+            "imageUrl": "assets/images/ContentCreation.png"
+        },
+        {
+            "name": "Social Media Managment",            
+            "imageUrl": "assets/images/SocialMediaManagment.png"
+        },
+        {
+            "name": "Marketing Planning and Strategy",           
+            "imageUrl": "assets/images/MarketingPlanningandStrategy.png"
+        },
+        {
+            "name": "Online Advertising",            
+            "imageUrl": "assets/images/OnlineAdvertising.png"
+        },
+        {
+            "name": "Offline Advertising",            
+            "imageUrl": "assets/images/OfflineAdvertising.png"
+        },
+        {
+            "name": "Search Engine Optimization",
+            "imageUrl": "assets/images/SearchEngineOptimization.png"
+        },
+        {
+            "name": "Branding and Design",            
+            "imageUrl": "assets/images/BrandingandDesign.png"
+        },
+        {
+            "name": "Pay Per Click",
+            "imageUrl": "assets/images/PayPerClick.png"
+        },
+        {
+            "name": "Email Marketing",
+            "imageUrl": "assets/images/EmailMarketing.png"
+        },
+        {
+            "name": "App Search Optimizaton",
+            "imageUrl": "assets/images/AppSearchOptimizaton.png"
+        },
+        {
+            "name": "Online Reputation Managment",
+            "imageUrl": "assets/images/OnlineReputationManagment.png"
+        }
+    ],
+    "Technology": [
+        {
+            "name": "Website Development",
+            "imageUrl": "assets/images/WebsiteDevelopment.png"
+        },
+        {
+            "name": "Mobile Development",           
+            "imageUrl": "assets/images/MobileDevelopment.png"
+        },
+        {
+            "name": "UI/UX Design",            
+            "imageUrl": "assets/images/UI/UX.png"
+        },
+        {
+            "name": "Artificial Intelligence",           
+            "imageUrl": "assets/images/ArtificialIntelligence.png"
+        },
+        {
+            "name": "Testing and Quality Assurance",            
+            "imageUrl": "assets/images/TestingandQualityAssurance.png"
+        },
+        {
+            "name": "Data Analytics",            
+            "imageUrl": "assets/images/DataAnalytics.png"
+        },
+        {
+            "name": "Digital Transformation",
+            "imageUrl": "assets/images/DigitalTransformation.png"
+        },
+        {
+            "name": "IT Consulting",            
+            "imageUrl": "assets/images/ITConsulting.png"
+        },
+        {
+            "name": "Cyber Security",
+            "imageUrl": "assets/images/CyberSercurity.png"
+        },
+        {
+            "name": "Cloud Computing",
+            "imageUrl": "assets/images/CloudComputing.png"
+        },
+        {
+            "name": "Digital Wallets & Cryptocurrency",
+            "imageUrl": "assets/images/DigitalWallets&Cryptocurrency.png"
+        },
+        {
+            "name": "ERP & CRM",
+            "imageUrl": "assets/images/ERP&CRM.png"
+        }
+    ],
+    "portfolioservices": [
+        {
+            "title": "Consulting",
+            "imageUrl": "assets/images/Consulting.png",
+            "pagePath":"/portfolioconsulting"
+               
+        },
+        {
+            "title": "Marketing",
+            "imageUrl": "assets/images/Marketing.png",
+            "pagePath": "/portfoliomarketing"
+                 
+        },
+        {
+            "title": "Technologies",
+            "imageUrl": "assets/images/Technologies.png",
+            "pagePath":"/portfoliotechnologie"
+             
+        }
+    ],
+    "portfolioconsulting": [
+        {
+            "title": "Strartups",
+            "imageUrl": "assets/images/Consulting.png"
+               
+        },
+        {
+            "title": "NGO's",
+            "imageUrl": "assets/images/Marketing.png"
+                 
+        },
+        {
+            "title": "Firms",
+            "imageUrl": "assets/images/Technologies.png"
+             
+        }
+    ],
+    "portfoliomarketing": [
+        {
+            "title": "Content Creation",
+            "imageUrl": "assets/images/Consulting.png"
+               
+        },
+        {
+            "title": "Social Media Management",
+            "imageUrl": "assets/images/Marketing.png"
+                 
+        },
+        {
+            "title": "Digital Marketing",
+            "imageUrl": "assets/images/Technologies.png"
+             
+        }
+    ],
+    "portfoliotechnologie": [
+        {
+            "title": "Web Solutions",
+            "imageUrl": "assets/images/Consulting.png"
+               
+        },
+        {
+            "title": "Mobile Solutions",
+            "imageUrl": "assets/images/Marketing.png"
+                 
+        },
+        {
+            "title": "Other Solutions",
+            "imageUrl": "assets/images/Technologies.png"
+             
         }
     ]
 }

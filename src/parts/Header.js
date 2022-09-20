@@ -9,6 +9,8 @@ import { Transition } from '@headlessui/react';
 import Button from 'elements/Button';
 import BrandIcon from 'parts/BrandIcon';
 
+import "./header.css"
+
 export default function Header(props) {
   const { location } = props;
   const [isCollapse, setIsCollapse] = useState(false);
@@ -21,7 +23,7 @@ export default function Header(props) {
 }
 
   return (
-    <header className="header">
+    <header className="header" style={{color: "white", borderColor: "#5b8b9b"}}>
       <Fade>
         <div className="flex justify-between px-4 lg:px-0">
           <BrandIcon />
@@ -37,7 +39,7 @@ export default function Header(props) {
         <ul className="hidden text-theme-blue tracking-widest items-center lg:flex flex-row mt-0">
           <li>
             <Button
-              className={`${path === '/' ? 'active-link' : ''} text-lg px-5 no-underline hover:underline`}
+              className={`text-lg px-5 no-underline hover:underline nav-link m ${path === '/' ? 'active-link' : ''}`}
               type="link"
               href=""
             >
@@ -66,7 +68,7 @@ export default function Header(props) {
           <li className="py-2 lg:py-0">
             <a href="/#services">
           <Button
-              className={`${path === '/' ? 'active-link' : ''} text-lg px-5 no-underline hover:underline`}
+              className={`${path === '/services' ? 'active-link' : ''} text-lg px-5 no-underline hover:underline`}
             >
               Services
             </Button>
@@ -75,7 +77,7 @@ export default function Header(props) {
 
           <li>
             <Button
-              className="text-lg mx-auto ml-3 px-6 py-2 bg-theme-purple text-white rounded-full border-2 border-theme-purple hover:bg-dark-theme-purple border-purple-800 transition duration-200"
+              className="text-lg mx-auto ml-3 px-6 py-2 text-white rounded-full border-2 box"
               type="link"
               href="/discuss-project"
             >

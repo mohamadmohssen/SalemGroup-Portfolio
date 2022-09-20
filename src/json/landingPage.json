@@ -128,64 +128,80 @@
     ],
     "team": [
         {
-            "name": "Rach David",
-            "position": "CEO",
-            "imageUrl": "assets/images/CEO.jpg"
+            "name": "Mohammad Salem",
+            "position": "Founder and CEO",
+            "imageUrl": "assets/images/CEO2.jpg"
         },
         {
-            "name": "Pauline Sydney",
-            "position": "HRD",
-            "imageUrl": "assets/images/HRD.jpg"
+            "name": "Layan Bekai",
+            "position": "Executive Consultant",
+            "imageUrl": "assets/images/layan1.jpg"
         },
         {
-            "name": "Granger Watterson",
-            "position": "Finance",
-            "imageUrl": "assets/images/Finance.jpg"
+            "name": "Ali Abou Melhem",
+            "position": "Chief Technology Officer",
+            "imageUrl": "assets/images/am.jpg"
         },
         {
-            "name": "Tom Jimmy",
-            "position": "Project Manager",
-            "imageUrl": "assets/images/Project-manager.jpg"
+            "name": "Mohammad Amro",
+            "position": "",
+            "imageUrl": "assets/images/amro1.jpg"
         },
         {
-            "name": "Jim Hendrix",
-            "position": "Front-end Developer",
-            "imageUrl": "assets/images/Frontend1.jpg"
+            "name": "Dana Shimaly",
+            "position": "",
+            "imageUrl": "assets/images/dana1.jpg"
         },
         {
-            "name": "Calvin Max",
-            "position": "Front-end Developer",
-            "imageUrl": "assets/images/Frontend2.jpg"
+            "name": "Ahmad El Sayed Ahmad",
+            "position": "",
+            "imageUrl": "assets/images/ahmad1.jpg"
         },
         {
-            "name": "Hawkins Jim",
-            "position": "Back-end Developer",
-            "imageUrl": "assets/images/Backend1.jpg"
+            "name": "Ahmad Harissa",
+            "position": "",
+            "imageUrl": "assets/images/harissa1.jpg"
         },
         {
-            "name": "Don Bizaro",
-            "position": "Back-end Developer",
-            "imageUrl": "assets/images/Backend2.jpg"
+            "name": "Ibrahim Zaraket",
+            "position": "",
+            "imageUrl": "assets/images/zaraket2.jpg"
         },
         {
-            "name": "Bill Markinson",
-            "position": "Mobile Developer",
-            "imageUrl": "assets/images/Mobile1.jpg"
+            "name": "Mohammad Mohsen",
+            "position": "",
+            "imageUrl": "assets/images/mohsen1.jpg"
         },
         {
-            "name": "Igor Kavarov",
-            "position": "Mobile Developer",
-            "imageUrl": "assets/images/Mobile2.jpg"
+            "name": "Alex Tachdjian",
+            "position": "",
+            "imageUrl": "assets/images/Alex2.jpg"
         },
         {
-            "name": "Freddie Curl",
-            "position": "UI/UX Designer",
-            "imageUrl": "assets/images/UIUX2.jpg"
+            "name": "Zeinab Kansoun",
+            "position": "",
+            "imageUrl": "assets/images/zeinab1.jpg"
+        },
+        
+        {
+            "name": "Joumana Makki",
+            "position": "",
+            "imageUrl": "assets/images/joumana1.jpg"
         },
         {
-            "name": "Monica Lovegood",
-            "position": "UI/UX Designer",
-            "imageUrl": "assets/images/UIUX1.jpg"
+            "name": "Joseph Nohra",
+            "position": "",
+            "imageUrl": "assets/images/joseph1.jpg"
+        },
+        {
+            "name": "Hassan Hammedeh",
+            "position": "",
+            "imageUrl": "assets/images/hassan1.jpg"
+        },
+        {
+            "name": "Mohammad Jaber",
+            "position": "",
+            "imageUrl": "assets/images/jaber1.jpg"
         }
     ],
     "Consulting": [

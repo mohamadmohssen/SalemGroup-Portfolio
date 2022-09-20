@@ -5,7 +5,7 @@
 .sidebar {
   width: 20px;
   height: 20px;
-  display: flex;
+  
 }
 .sidebar-list{
   display: flex;
@@ -13,7 +13,7 @@
 .iconImg{
   margin-left: 15%;
   padding-top: 7%;
-  width: 6rem;
+  width: 8rem;
  
 }
 .drop{
@@ -34,7 +34,7 @@
 .side-nav-bar {
    background-color: #DEE7EA ;
    width: 300px;
-   height: 125vh;
+   height: 109vh;
    position: relative;
    color: rgb(red, green, blue);
    }
@@ -51,7 +51,7 @@ section {
 }
 
 .active-link {
-  @apply text-theme-purple;
+  color: #5b8b9b;
 }
 
 .header {

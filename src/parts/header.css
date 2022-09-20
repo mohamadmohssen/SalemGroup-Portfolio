@@ -1,0 +1,22 @@
+.box {
+    color: "white";
+    background-color: #367588;
+    border-color: #367588
+ }
+ 
+ .box:hover {
+    background-color: #7ca1ae;
+    border-color: #7ca1ae;
+ }
+
+ .text {
+   color:    #367588   ;
+   
+   
+   
+}
+
+.text:hover {
+   
+   color: #7ca1ae;
+}

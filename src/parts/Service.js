@@ -20,7 +20,7 @@ export default function Service({ data }) {
           <h1 className="text-5xl text-theme-blue text-center font-bold">Our Services</h1>
 
           <p className="font-light text-lg text-gray-400 text-center mb-12">
-            We are ready to scale up your business with our great service.
+            We are ready to scale up your business with our great services.
           </p>
         </Fade>
 

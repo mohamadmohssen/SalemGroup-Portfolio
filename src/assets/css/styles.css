@@ -1,6 +1,3 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
 
 .sidebar {
   width: 20px;
@@ -28,9 +25,7 @@
 .discuss_form_a{
   display: flex !important;
 }
-.nav-upper , .nav-heading {
 
-}
 .side-nav-bar {
    background-color: #DEE7EA ;
    width: 300px;

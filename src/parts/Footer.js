@@ -11,7 +11,7 @@ export default function Footer() {
         <div className="flex flex-col sm:flex-row mt-8 justify-center">
           <div className="w-1/3 flex-col ml-16 mr-8">
             <BrandIcon />
-            <p className="w-full text-lg text-gray-400 font-light">
+            <p className="w-full text-lg text-gray-400 font-light" style={{marginLeft:"19%"}}>
               Growing Your Business
               {' '}
               <br />
@@ -22,31 +22,31 @@ export default function Footer() {
             <h1 className="text-lg text-theme-blue pt-4 pb-2">
               Office
             </h1>
+            <a href="info@salemgrp.com" className="text-lg text-gray-400 font-light">
+              info@salemgrp.com
+              </a>
             <p className="text-lg text-gray-400 font-light">
-              rac.hafidz@gmail.com
-            </p>
-            <p className="text-lg text-gray-400 font-light">
-              Klaten, Central Java, Indonesia
+            Justinian Street , Justinian Building, Block B, 9th floor, Beirut LB
             </p>
           </div>
           <div className="w-1/3 ml-16 sm:ml-0 mt-0">
             <h1 className="text-lg text-theme-blue pt-4 pb-2">
               Social
             </h1>
-            <Button href="https://www.instagram.com/racmathafidz/" type="link" target="_blank" className="flex text-lg text-gray-400 font-light hover:underline" isExternal>
+            <Button href="https://www.instagram.com/salemmgroup/" type="link" target="_blank" className="flex text-lg text-gray-400 font-light hover:underline" isExternal>
               Instagram
             </Button>
-            <Button href="https://www.linkedin.com/in/racmat-hafidz-89982a156/" type="link" target="_blank" className="flex text-lg text-gray-400 font-light hover:underline" isExternal>
+            <Button href="https://www.linkedin.com/company/salemgroup/" type="link" target="_blank" className="flex text-lg text-gray-400 font-light hover:underline" isExternal>
               LinkedIn
             </Button>
-            <Button href="https://github.com/racmathafidz" type="link" target="_blank" className="flex text-lg text-gray-400 font-light hover:underline" isExternal>
+           {/* <Button href="https://github.com/racmathafidz" type="link" target="_blank" className="flex text-lg text-gray-400 font-light hover:underline" isExternal>
               Github
-            </Button>
+            </Button> */}
           </div>
         </div>
         <div className="flex-col text-center mt-7">
           <p className="text-lg text-gray-400 font-light">
-            Copyright 2021 - All rights reserved - Salem Group
+            Copyright 2022 - All rights reserved - Salem Group    
           </p>
         </div>
        </div>

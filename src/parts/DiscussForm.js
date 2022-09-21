@@ -6,7 +6,7 @@
 /* eslint-disable react/prop-types */
 import React, { useState } from "react";
 
-import { FaBeer } from 'react-icons/fa';
+import { FaInstagram,FaLinkedin,FaMapMarkerAlt } from "react-icons/fa";
 import "../assets/css/styles.css"
 import Fade from "react-reveal/Fade";
 import * as emailjs from "emailjs-com";
@@ -72,43 +72,31 @@ export default function DiscussForm(props) {
               <div className="nav-upper">
                 <div className="nav-heading">
                   <div className="nav-brand">
-                    <h1>Get in touch </h1>
+                    <h1 className="text-xl text-theme-blue text-center pt-6">Get in touch </h1>
                     <ul>
-                    <li>
+                    <li className="font-light text-lg text-gray-500 text-center m-12">
                       <a href="mailto:info@salemgrp.com">info@salemgrp.com</a></li>
-                    <li><p>(961) 752 071</p></li>
-                    <li className="sidebar-list">
+                    <li className="font-light text-lg text-gray-500 text-center m-12"><p>(961) 752 071</p></li>
+                    <li className="font-light text-lg text-gray-500 text-center m-12">
                       <a href="https://www.google.com/maps/place/Salem+Group/@33.8956728,35.4867213,17z/data=!4m5!3m4!1s0x151f17afb9efd533:0x1aa5f682dd3f1b45!8m2!3d33.8956745!4d35.4909154" className="discuss_form_a">
-                      <img
-                        className="sidebar"
-                        src={location}
-                        alt="Build Website"
-                        
-                      /> 
-                      Location
+                      <span className="sidebar"><FaMapMarkerAlt size="3x"/></span>  
+                     <span className="ml-7">  Location </span>
                       </a>
                       </li>
-                     <li className="sidebar-list" >
-                    <a href="https://www.linkedin.com/company/salemgroup/" className="discuss_form_a">
+
+
+                     <li className="font-light text-lg text-gray-500 text-center m-12" >
+                    <a href="https://www.instagram.com/salemmgroup/" className="discuss_form_a">
                     
-                      <img 
-                        className="sidebar"
-                        src={instagram}
-                        alt="Build Website"
-                       
-                      />                    
-                      Instagram
+                    <span className="sidebar"><FaInstagram size="3x"/></span>                   
+                    <span className="ml-7">  Instagram </span>
                      </a>
                     </li>
                     
-                   <li className="sidebar-list">
+                   <li className="font-light text-lg text-gray-500 text-center m-12">
                    <a href="https://www.linkedin.com/company/salemgroup/" className="discuss_form_a">
-                      <img
-                        className="sidebar"
-                        src={linkedin}
-                        alt="Build Website"
-                      />
-                        Linkedin
+                      <span className="sidebar"><FaLinkedin size="3x"/></span>
+                      <span className="ml-7">  Linkedin </span>
                       </a>
                    </li>
                     
@@ -150,7 +138,7 @@ export default function DiscussForm(props) {
             </p>
 
             <div className="flex flex-col">
-              <div className="flex flex-col sm:flex-row mx-auto">
+              <div className="flex flex-col sm:flex-row mx-auto ">
                 <Form
                   id="name"
                   name="name"
@@ -197,7 +185,7 @@ export default function DiscussForm(props) {
                   <Drop subject={subject} setSubject={setSubject}/>
                 </div>
                 {subject === "Other" && <div className="text-area">
-                <input type="text" placeholder="Your Subject"class="p-4 font-light text-lg text-theme-blue rounded border border-gray-400 focus:outline-none focus:ring-1 focus:ring-theme-purple " />
+                <input type="text" placeholder="Your Subject"class="p-4 font-light text-lg text-theme-blue rounded border border-gray-400 focus:outline-none focus:ring-1 focus:#367588 " />
                 </div>}
               </div>
               <div className="mx-auto">
@@ -212,7 +200,7 @@ export default function DiscussForm(props) {
                 />
               </div>
               <Button
-                className="text-xl mx-auto px-12 py-3 mt-5 bg-theme-purple text-white rounded-full border-2 border-theme-purple hover:bg-dark-theme-purple border-purple-800 transition duration-200 focus:outline-none"
+                className="text-xl mx-auto px-12 py-3 mt-5  text-white rounded-full border-2 border-theme-purple  border-purple-800 transition duration-200 focus:outline-none box "
                 type="button"
                 onClick={submitEmail}
               >

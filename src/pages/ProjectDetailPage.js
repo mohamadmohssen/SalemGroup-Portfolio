@@ -15,8 +15,11 @@ export default class ProjectDetailPage extends Component {
   }
 
   render() {
-    const detailData = Data.portfolio.filter((item) => item.id === `${this.props.match.params.id}`);
+    var detailData = Data.TechWebSol.filter((item) => item.id === `${this.props.match.params.id}`)
+    if(detailData.length == 0) detailData = Data.TechMobSol.filter((item) => item.id === `${this.props.match.params.id}`)
 
+    if(detailData.length == 0) detailData= Data.TechOthSol.filter((item) => item.id === `${this.props.match.params.id}`);
+    
     return (
       <>
         {/* eslint-disable-next-line react/jsx-props-no-spreading */}

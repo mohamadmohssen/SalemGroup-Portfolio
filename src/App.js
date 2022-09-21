@@ -13,7 +13,10 @@ import "assets/css/styles.css";
 import Portfolioconsulting from './pages/Portfolioconsulting';
 import Portfoliomarketing from './pages/Portfoliomarketing';
 import Portfoliotechnologie from './pages/Portfoliotechnologie';
-
+import Consultingstartups from './pages/Consultingstartups';
+import TechnologiesWebSol from './pages/TechnologiesWebSol';
+import TechnologiesMobSol from './pages/TechnologiesMobSol';
+import TechnologiesOthSol from './pages/TechnologiesOthSol';
 function App() {
   return (
     <Switch>
@@ -22,12 +25,16 @@ function App() {
       <Route exact path="/project/:id" component={ProjectDetailPage} />
       <Route exact path="/team" component={TeamPage} />
       <Route exact path="/discuss-project" component={DiscussProjectPage} />
-      <Route exact path="/consulting" component={Consulting} />
-      <Route exact path="/Marketing" component={Marketing} />
-      <Route exact path="/Technologies" component={Technologies} />
-      <Route exact path="/Portfolioconsulting" component={Portfolioconsulting} />
-      <Route exact path="/Portfoliomarketing" component={Portfoliomarketing} />
-      <Route exact path="/Portfoliotechnologie" component={Portfoliotechnologie} />
+      <Route exact path="/services/Consulting" component={Consulting} />
+      <Route exact path="/services/Marketing" component={Marketing} />
+      <Route exact path="/services/Technologies" component={Technologies} />
+      <Route exact path="/portfolio/Consulting" component={Portfolioconsulting} />
+      <Route exact path="/Portfolio/Marketing" component={Portfoliomarketing} />
+      <Route exact path="/Portfolio/Technologies" component={Portfoliotechnologie} />
+      <Route exact path="/Portfolio/Consulting/Startups" component={Consultingstartups} />
+      <Route exact path="/Portfolio/Technologies/WebSolution" component={TechnologiesWebSol} />
+      <Route exact path="/Portfolio/Technologies/MobileSolution" component={TechnologiesMobSol} />
+      <Route exact path="/Portfolio/Technologies/OtherSolution" component={TechnologiesOthSol} />
       <Route path="" component={NotFoundPage} />
     </Switch>
   );

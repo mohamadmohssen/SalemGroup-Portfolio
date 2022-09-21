@@ -23,8 +23,8 @@ export default class LandingPage extends Component {
       <>
         <Header {...this.props} />
         <Hero {...this.props} />
-        <Service data={Data.service} />
-        {/* <Portfolio data={Data.portfolio} /> */}
+        <Service data={Data.service} Title="Our Services" paragraph="heyyy" />
+        {/*<Portfolio data={Data.portfolio} />*/}
         <Advantage data={Data.advantage} />
         <Testimonial data={Data.testimonial} />
         <Discuss />

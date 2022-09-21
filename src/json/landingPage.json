@@ -3,25 +3,26 @@
         {
             "title": "Consulting",
             "imageUrl": "assets/images/Consulting.png",
-            "pagePath": "/consulting"       
+            "pagePath": "/services/Consulting"       
         },
         {
             "title": "Marketing",
             "imageUrl": "assets/images/Marketing.png",
-            "pagePath": "/Marketing"       
+            "pagePath": "/services/Marketing"       
         },
         {
             "title": "Technologies",
             "imageUrl": "assets/images/Technologies.png",
-            "pagePath": "/Technologies"       
+            "pagePath": "/services/Technologies"       
         }
     ],
     "portfolio" : [
         {
             "id": "asd1293uasdads1",
             "title": "Recruiting App",
-            "imageUrl": "assets/images/Recruiting.png",
+            "imageUrl": "../../assets/images/Recruiting.png",
             "type": "Mobile Apps",
+            "paragraph":"helloooo",
             "responsibility": [
                 "Mobile Development",
                 "UI/UX Design"
@@ -31,7 +32,7 @@
         {
             "id": "asd1293uhjkhkjh2",
             "title": "Stream+",
-            "imageUrl": "assets/images/Stream.png",
+            "imageUrl": "../../assets/images/Stream.png",
             "type": "Mobile Apps",
             "responsibility": [
                 "Mobile Development",
@@ -42,7 +43,7 @@
         {
             "id": "asd1293uvbvcbbd3",
             "title": "Freelance",
-            "imageUrl": "assets/images/Freelance.png",
+            "imageUrl": "../../assets/images/Freelance.png",
             "type": "Mobile Apps",
             "responsibility": [
                 "Mobile Development",
@@ -53,7 +54,7 @@
         {
             "id": "asd1293ufgdfgs4",
             "title": "Aura",
-            "imageUrl": "assets/images/Aura.png",
+            "imageUrl": "../../assets/images/Aura.png",
             "type": "Website",
             "responsibility": [
                 "Web Development",
@@ -64,7 +65,7 @@
         {
             "id": "asd1293ulskmnb5",
             "title": "Surtido Rico",
-            "imageUrl": "assets/images/Surtido.png",
+            "imageUrl": "../../assets/images/Surtido.png",
             "type": "Website",
             "responsibility": [
                 "Web Development",
@@ -75,7 +76,7 @@
         {
             "id": "asd1293ulkmnbj6",
             "title": "Courses Management",
-            "imageUrl": "assets/images/ManagementApp.png",
+            "imageUrl": "../../assets/images/ManagementApp.png",
             "type": "Website",
             "responsibility": [
                 "Web Development",
@@ -207,222 +208,438 @@
     "Consulting": [
         {
             "name": "Mentoring Entrepreneurs",
-            "imageUrl": "assets/images/MentoringEntrepreneurs.png"
+            "imageUrl": "../assets/images/MentoringEntrepreneurs.png"
         },
         {
             "name": "Project Implementation Research",           
-            "imageUrl": "assets/images/ProjectImplementationResearch.png"
+            "imageUrl": "../assets/images/ProjectImplementationResearch.png"
         },
         {
             "name": "Market Research",            
-            "imageUrl": "assets/images/MarketResearch.png"
+            "imageUrl": "../assets/images/MarketResearch.png"
         },
         {
             "name": "Financial Forecasting",           
-            "imageUrl": "assets/images/FinancialForecasting.png"
+            "imageUrl": "../assets/images/FinancialForecasting.png"
         },
         {
             "name": "Budget & Capital Structuring",            
-            "imageUrl": "assets/images/Budget&CapitalStructuring.png"
+            "imageUrl": "../assets/images/Budget&CapitalStructuring.png"
         },
         {
             "name": "Feasibility Studies",            
-            "imageUrl": "assets/images/FeasibilityStudies.png"
+            "imageUrl": "../assets/images/FeasibilityStudies.png"
         },
         {
             "name": "Project Legal Estabilishment",
-            "imageUrl": "assets/images/ProjectLegalEstabilishment.png"
+            "imageUrl": "../assets/images/ProjectLegalEstabilishment.png"
         },
         {
             "name": "Funding & Loan Applications Preparation",            
-            "imageUrl": "assets/images/Funding&LoaApplicationsPreparation.png"
+            "imageUrl": "../assets/images/Funding&LoaApplicationsPreparation.png"
         },
         {
             "name": "Investor Pitching",
-            "imageUrl": "assets/images/InvestorPitching.png"
+            "imageUrl": "../assets/images/InvestorPitching.png"
         },
         {
             "name": "Strategic consulting",
-            "imageUrl": "assets/images/StrategicConsulting.png"
+            "imageUrl": "../assets/images/StrategicConsulting.png"
         },
         {
             "name": "Management Consulting",
-            "imageUrl": "assets/images/ManagementConsulting.png"
+            "imageUrl": "../assets/images/ManagementConsulting.png"
         },
         {
             "name": "Operational Consulting",
-            "imageUrl": "assets/images/OperationalConsulting.png"
+            "imageUrl": "../assets/images/OperationalConsulting.png"
         }
     ],
     "Marketing": [
         {
             "name": "Photography and Videography",
-            "imageUrl": "assets/images/PhotographyandVideography.png"
+            "imageUrl": "../assets/images/PhotographyandVideography.png"
         },
         {
             "name": "Content Creation",           
-            "imageUrl": "assets/images/ContentCreation.png"
+            "imageUrl": "../assets/images/ContentCreation.png"
         },
         {
             "name": "Social Media Managment",            
-            "imageUrl": "assets/images/SocialMediaManagment.png"
+            "imageUrl": "../assets/images/SocialMediaManagment.png"
         },
         {
             "name": "Marketing Planning and Strategy",           
-            "imageUrl": "assets/images/MarketingPlanningandStrategy.png"
+            "imageUrl": "../assets/images/MarketingPlanningandStrategy.png"
         },
         {
             "name": "Online Advertising",            
-            "imageUrl": "assets/images/OnlineAdvertising.png"
+            "imageUrl": "../assets/images/OnlineAdvertising.png"
         },
         {
             "name": "Offline Advertising",            
-            "imageUrl": "assets/images/OfflineAdvertising.png"
+            "imageUrl": "../assets/images/OfflineAdvertising.png"
         },
         {
             "name": "Search Engine Optimization",
-            "imageUrl": "assets/images/SearchEngineOptimization.png"
+            "imageUrl": "../assets/images/SearchEngineOptimization.png"
         },
         {
             "name": "Branding and Design",            
-            "imageUrl": "assets/images/BrandingandDesign.png"
+            "imageUrl": "../assets/images/BrandingandDesign.png"
         },
         {
             "name": "Pay Per Click",
-            "imageUrl": "assets/images/PayPerClick.png"
+            "imageUrl": "../assets/images/PayPerClick.png"
         },
         {
             "name": "Email Marketing",
-            "imageUrl": "assets/images/EmailMarketing.png"
+            "imageUrl": "../assets/images/EmailMarketing.png"
         },
         {
             "name": "App Search Optimizaton",
-            "imageUrl": "assets/images/AppSearchOptimizaton.png"
+            "imageUrl": "../assets/images/AppSearchOptimizaton.png"
         },
         {
             "name": "Online Reputation Managment",
-            "imageUrl": "assets/images/OnlineReputationManagment.png"
+            "imageUrl": "../assets/images/OnlineReputationManagment.png"
         }
     ],
     "Technology": [
         {
             "name": "Website Development",
-            "imageUrl": "assets/images/WebsiteDevelopment.png"
+            "imageUrl": "../assets/images/WebsiteDevelopment.png"
         },
         {
             "name": "Mobile Development",           
-            "imageUrl": "assets/images/MobileDevelopment.png"
+            "imageUrl": "../assets/images/MobileDevelopment.png"
         },
         {
             "name": "UI/UX Design",            
-            "imageUrl": "assets/images/UI/UX.png"
+            "imageUrl": "../assets/images/UI/UX.png"
         },
         {
             "name": "Artificial Intelligence",           
-            "imageUrl": "assets/images/ArtificialIntelligence.png"
+            "imageUrl": "../assets/images/ArtificialIntelligence.png"
         },
         {
             "name": "Testing and Quality Assurance",            
-            "imageUrl": "assets/images/TestingandQualityAssurance.png"
+            "imageUrl": "../assets/images/TestingandQualityAssurance.png"
         },
         {
             "name": "Data Analytics",            
-            "imageUrl": "assets/images/DataAnalytics.png"
+            "imageUrl": "../assets/images/DataAnalytics.png"
         },
         {
             "name": "Digital Transformation",
-            "imageUrl": "assets/images/DigitalTransformation.png"
+            "imageUrl": "../assets/images/DigitalTransformation.png"
         },
         {
             "name": "IT Consulting",            
-            "imageUrl": "assets/images/ITConsulting.png"
+            "imageUrl": "../assets/images/ITConsulting.png"
         },
         {
             "name": "Cyber Security",
-            "imageUrl": "assets/images/CyberSercurity.png"
+            "imageUrl": "../assets/images/CyberSercurity.png"
         },
         {
             "name": "Cloud Computing",
-            "imageUrl": "assets/images/CloudComputing.png"
+            "imageUrl": "../assets/images/CloudComputing.png"
         },
         {
             "name": "Digital Wallets & Cryptocurrency",
-            "imageUrl": "assets/images/DigitalWallets&Cryptocurrency.png"
+            "imageUrl": "../assets/images/DigitalWallets&Cryptocurrency.png"
         },
         {
             "name": "ERP & CRM",
-            "imageUrl": "assets/images/ERP&CRM.png"
+            "imageUrl": "../assets/images/ERP&CRM.png"
         }
     ],
     "portfolioservices": [
-        {
+        {   
             "title": "Consulting",
-            "imageUrl": "assets/images/Consulting.png",
-            "pagePath":"/portfolioconsulting"
+            "imageUrl": "../assets/images/Consulting.png",
+            "pagePath":"/portfolio/Consulting"
                
         },
         {
             "title": "Marketing",
-            "imageUrl": "assets/images/Marketing.png",
-            "pagePath": "/portfoliomarketing"
+            "imageUrl": "../assets/images/Marketing.png",
+            "pagePath": "/portfolio/Marketing"
                  
         },
         {
             "title": "Technologies",
-            "imageUrl": "assets/images/Technologies.png",
-            "pagePath":"/portfoliotechnologie"
+            "imageUrl": "../assets/images/Technologies.png",
+            "pagePath":"/portfolio/Technologies"
              
         }
     ],
     "portfolioconsulting": [
         {
-            "title": "Strartups",
-            "imageUrl": "assets/images/Consulting.png"
-               
+            "title": "Stratups",
+            "imageUrl": "../assets/images/Startups.png",
+            "pagePath":"/Portfolio/Consulting/Startups"
+            
         },
         {
             "title": "NGO's",
-            "imageUrl": "assets/images/Marketing.png"
+            "imageUrl": "../assets/images/NGOs.png"
                  
         },
         {
             "title": "Firms",
-            "imageUrl": "assets/images/Technologies.png"
+            "imageUrl": "../assets/images/Firms.png"
              
         }
     ],
     "portfoliomarketing": [
         {
             "title": "Content Creation",
-            "imageUrl": "assets/images/Consulting.png"
+            "imageUrl": "../assets/images/ContentCreation.jpg"
                
         },
         {
             "title": "Social Media Management",
-            "imageUrl": "assets/images/Marketing.png"
+            "imageUrl": "../assets/images/SocialMediaaManagment.jpg"
                  
         },
         {
             "title": "Digital Marketing",
-            "imageUrl": "assets/images/Technologies.png"
+            "imageUrl": "../assets/images/DigitalMarketing.png"
              
         }
     ],
     "portfoliotechnologie": [
         {
             "title": "Web Solutions",
-            "imageUrl": "assets/images/Consulting.png"
+            "imageUrl": "../assets/images/WebSolutions.png",
+            "pagePath":"/Portfolio/Technologies/WebSolution"
                
         },
         {
             "title": "Mobile Solutions",
-            "imageUrl": "assets/images/Marketing.png"
-                 
+            "imageUrl": "../assets/images/MobileSolutions.png",
+            "pagePath":"/Portfolio/Technologies/MobileSolution"
         },
         {
             "title": "Other Solutions",
-            "imageUrl": "assets/images/Technologies.png"
+            "imageUrl": "../assets/images/OtherSolutions.png",
+            "pagePath":"/Portfolio/Technologies/OtherSolution"
              
+        }
+    ],
+    "TechWebSol" : [
+        {
+            "id": "1",
+            "title": "OODA",
+            "imageUrl": "../../assets/images/Recruiting.png",
+            "type": "Website",
+            "paragraph":"OODA is a travel agency headquartered in Lebanon.  OODA wanted to propel forward in the market, by creating a custom booking portal to receive room requests from all over the world.",
+            "responsibility": [
+                "Front-End",
+                "React Native, Redux, HTML, CSS",
+                "Back-End",
+                "Nodejs and MongoDB",
+                "SQL server database",
+                "Web payments integration with",
+                "Authorize.Net API"
+
+            ],
+            "credit": "https://ooda.online/"
+        },
+        {
+            "id": "2",
+            "title": "Stream+",
+            "imageUrl": "../../assets/images/Stream.png",
+            "type": "Mobile Apps",
+            "responsibility": [
+                "Mobile Development",
+                "UI/UX Design"
+            ],
+            "credit": "https://dribbble.com/shots/15276430-Stream"
+        },
+        {
+            "id": "3",
+            "title": "Freelance",
+            "imageUrl": "../../assets/images/Freelance.png",
+            "type": "Mobile Apps",
+            "responsibility": [
+                "Mobile Development",
+                "UI/UX Design"
+            ],
+            "credit": "https://dribbble.com/shots/15223131-Freelance-Mobile-App-Concept"
+        },
+        {
+            "id": "4",
+            "title": "Aura",
+            "imageUrl": "../../assets/images/Aura.png",
+            "type": "Website",
+            "responsibility": [
+                "Web Development",
+                "UI/UX Design"
+            ],
+            "credit": "https://dribbble.com/shots/15176338-Aura-Website-Main-Page"            
+        },
+        {
+            "id": "5",
+            "title": "Surtido Rico",
+            "imageUrl": "../../assets/images/Surtido.png",
+            "type": "Website",
+            "responsibility": [
+                "Web Development",
+                "UI/UX Design"
+            ],
+            "credit": "https://dribbble.com/shots/15173118-Surtido-Rico"
+        },
+        {
+            "id": "6",
+            "title": "Courses Management",
+            "imageUrl": "../../assets/images/ManagementApp.png",
+            "type": "Website",
+            "responsibility": [
+                "Web Development",
+                "UI/UX Design"
+            ],
+            "credit": "https://dribbble.com/shots/15197890-Courses-Management-and-Promoting-Web-App"
+        }
+    ],
+    "TechMobSol" : [
+        {
+            "id": "7",
+            "title": "Recruiting App",
+            "imageUrl": "../../assets/images/Recruiting.png",
+            "type": "Mobile Apps",
+            "paragraph":"helloooo",
+            "responsibility": [
+                "Mobile Development",
+                "UI/UX Design"
+            ],
+            "credit": "https://dribbble.com/shots/15164950-Recruiting-app"
+        },
+        {
+            "id": "8",
+            "title": "Stream+",
+            "imageUrl": "../../assets/images/Stream.png",
+            "type": "Mobile Apps",
+            "responsibility": [
+                "Mobile Development",
+                "UI/UX Design"
+            ],
+            "credit": "https://dribbble.com/shots/15276430-Stream"
+        },
+        {
+            "id": "9",
+            "title": "Freelance",
+            "imageUrl": "../../assets/images/Freelance.png",
+            "type": "Mobile Apps",
+            "responsibility": [
+                "Mobile Development",
+                "UI/UX Design"
+            ],
+            "credit": "https://dribbble.com/shots/15223131-Freelance-Mobile-App-Concept"
+        },
+        {
+            "id": "10",
+            "title": "Aura",
+            "imageUrl": "../../assets/images/Aura.png",
+            "type": "Website",
+            "responsibility": [
+                "Web Development",
+                "UI/UX Design"
+            ],
+            "credit": "https://dribbble.com/shots/15176338-Aura-Website-Main-Page"            
+        },
+        {
+            "id": "11",
+            "title": "Surtido Rico",
+            "imageUrl": "../../assets/images/Surtido.png",
+            "type": "Website",
+            "responsibility": [
+                "Web Development",
+                "UI/UX Design"
+            ],
+            "credit": "https://dribbble.com/shots/15173118-Surtido-Rico"
+        },
+        {
+            "id": "12",
+            "title": "Courses Management",
+            "imageUrl": "../../assets/images/ManagementApp.png",
+            "type": "Website",
+            "responsibility": [
+                "Web Development",
+                "UI/UX Design"
+            ],
+            "credit": "https://dribbble.com/shots/15197890-Courses-Management-and-Promoting-Web-App"
+        }
+    ],
+    "TechOthSol" : [
+        {
+            "id": "13",
+            "title": "Recruiting App",
+            "imageUrl": "../../assets/images/Recruiting.png",
+            "type": "Mobile Apps",
+            "paragraph":"helloooo",
+            "responsibility": [
+                "Mobile Development",
+                "UI/UX Design"
+            ],
+            "credit": "https://dribbble.com/shots/15164950-Recruiting-app"
+        },
+        {
+            "id": "14",
+            "title": "Stream+",
+            "imageUrl": "../../assets/images/Stream.png",
+            "type": "Mobile Apps",
+            "responsibility": [
+                "Mobile Development",
+                "UI/UX Design"
+            ],
+            "credit": "https://dribbble.com/shots/15276430-Stream"
+        },
+        {
+            "id": "15",
+            "title": "Freelance",
+            "imageUrl": "../../assets/images/Freelance.png",
+            "type": "Mobile Apps",
+            "responsibility": [
+                "Mobile Development",
+                "UI/UX Design"
+            ],
+            "credit": "https://dribbble.com/shots/15223131-Freelance-Mobile-App-Concept"
+        },
+        {
+            "id": "16",
+            "title": "Aura",
+            "imageUrl": "../../assets/images/Aura.png",
+            "type": "Website",
+            "responsibility": [
+                "Web Development",
+                "UI/UX Design"
+            ],
+            "credit": "https://dribbble.com/shots/15176338-Aura-Website-Main-Page"            
+        },
+        {
+            "id": "17",
+            "title": "Surtido Rico",
+            "imageUrl": "../../assets/images/Surtido.png",
+            "type": "Website",
+            "responsibility": [
+                "Web Development",
+                "UI/UX Design"
+            ],
+            "credit": "https://dribbble.com/shots/15173118-Surtido-Rico"
+        },
+        {
+            "id": "18",
+            "title": "Courses Management",
+            "imageUrl": "../../assets/images/ManagementApp.png",
+            "type": "Website",
+            "responsibility": [
+                "Web Development",
+                "UI/UX Design"
+            ],
+            "credit": "https://dribbble.com/shots/15197890-Courses-Management-and-Promoting-Web-App"
         }
     ]
 }

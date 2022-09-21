@@ -2,14 +2,18 @@
 /* eslint-disable react/jsx-filename-extension */
 /* eslint-disable react/prop-types */
 import React from 'react';
-
+import { useEffect } from 'react';
 import Fade from 'react-reveal/Fade';
 
 import NotFound from 'assets/images/NotFound.png';
 
 import Button from 'elements/Button';
 
+import jsonFile from  "../json/landingPage.json"
+import { useParams } from 'react-router-dom';
 export default function PortfolioDetail({ data }) {
+
+  
   if (data === null) {
     return (
       <section className="container mx-auto">
@@ -34,6 +38,7 @@ export default function PortfolioDetail({ data }) {
 
   return (
     <section className="container mx-auto">
+      
       <Fade bottom>
         <Button type="link" href="/project" className="flex w-40 h-8 text-lg items-center ml-6 sm:ml-20 mt-8 font-light text-gray-400 hover:underline">
           <svg className="w-5 h-5 text-gray-400 mr-1" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -61,14 +66,17 @@ export default function PortfolioDetail({ data }) {
                     </Fade>
 
                     <Fade bottom delay={300 * 1}>
+
                       <div className="flex flex-col mt-16 mb-12 mx-8 sm:mx-16 xl:mx-28">
                         <h1 className="text-3xl text-theme-blue font-bold mb-3">
                           Project Detail
                         </h1>
-
+                        {
+                        data.map((item) => (
                         <p className="font-light text-lg text-gray-400 text-justify">
-                          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                          {item.paragraph}
                         </p>
+                        ))}
                       </div>
 
                       <div className="flex flex-col mx-8 sm:mx-16 xl:mx-28">

@@ -33,9 +33,9 @@ export default function Footer() {
             <h1 className="text-lg text-theme-blue pt-4 pb-2">
               Social
             </h1>
-            <Button href="https://www.instagram.com/salemmgroup/" type="link" target="_blank" className="flex text-lg text-gray-400 font-light hover:underline" isExternal>
+           {/* <Button href="https://www.instagram.com/salemmgroup/" type="link" target="_blank" className="flex text-lg text-gray-400 font-light hover:underline" isExternal>
               Instagram
-            </Button>
+  </Button> 8 */}
             <Button href="https://www.linkedin.com/company/salemgroup/" type="link" target="_blank" className="flex text-lg text-gray-400 font-light hover:underline" isExternal>
               LinkedIn
             </Button>

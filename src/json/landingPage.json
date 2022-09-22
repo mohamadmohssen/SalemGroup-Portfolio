@@ -87,47 +87,59 @@
     ],
     "advantage": [
         [{
-            "title": "Communicative",
-            "description": "We communicate our project ideas and progress to make it clear.",
+            "title": "Attention to Details",
+            "description": "It’s our attention to the small stuff, scheduling of timelines and keen project management that makes us stand out from the rest. We are creative, while keeping a close eye on the calendar and your budget.",
             "imageUrl": "assets/images/Communicative.png"
         },
         {
-            "title": "Management",
-            "description": "We manage our project properly to make our project done well.",
+            "title": "A Plan for Success ",
+            "description": "You want results. We have found that the best way to get them is with up front research – of your company, competitors, target market and customer psychographics. Only after we fully understand you and your customers, do we recommend a plan of attack.",
             "imageUrl": "assets/images/Management.png"
         }],
         [{
-            "title": "Collaborative​",
-            "description": "Our team are very collaborative to make our project done well.",
+            "title": "Creativity ​",
+            "description": "We bring our diverse background of advertising, design, branding, public relations, research and strategic planning to work for your company. Not only will your materials look great – they will get results.",
             "imageUrl": "assets/images/Collaborative.png"
         },
         {
-            "title": "Favourite",
-            "description": "We've did so many project and all of our client love it.",
+            "title": "Tracking Results",
+            "description": "We’re constantly tracking the performance of our services. We’ll use internal testing to track increased exposure and other critical metrics. It’s also the best way to provide concrete evidence of our impact.",
             "imageUrl": "assets/images/Favourite.png"
         }]
     ],
     "testimonial": [
         {
-            "name": "Sasha Rose",
-            "company": "Owner, Surveyor Corps",
-            "testimoni": "Thanks for Racxstudio, you guys are the best! Keep up the great work!",
-            "imageUrl": "assets/images/Sasha.jpg"
+            "name": "Serge Attallah",
+            "company": "Founder of Karya",
+            "testimoni": "Salem Group has stepped up to the plate developing a great platform exceeding my expectations.",
+            "imageUrl": "assets/images/serge.png"
         },
         {
-            "name": "Kruger Khan",
-            "company": "Director, Shultan Oil",
-            "testimoni": "I just wanted to let you know that it’s been great working with Racxstudio.",
-            "imageUrl": "assets/images/Kruger.jpg"
+            "name": "Yasmine Darwich",
+            "company": "Founder of Donaleb",
+            "testimoni": "My go to consulting and technological firm to develop my ideas.",
+            "imageUrl": "assets/images/yasmine.jpg"
         },
         {
-            "name": "Reiner John",
-            "company": "CEO, Marley CO",
-            "testimoni": "Racxstudio is so great. Thank you so much for a job well done.",
-            "imageUrl": "assets/images/Reiner.jpg"
+            "name": "Malak Yacout",
+            "company": "Founder of The Volunteer Circle",
+            "testimoni": "Thanks to Salem Group we can always explore our technological options in a timely manner.",
+            "imageUrl": "assets/images/malak.png"
+        },
+        {
+            "name": "Ali Zein El Dinn ",
+            "company": "Founder of Daleel Mozarea",
+            "testimoni": "Salem Group has given me the chance to explore my horizons with the development of a strategic business plan!",
+            "imageUrl": "assets/images/zizo.png"
+        },
+        {
+            "name": "Tarek Mohammad",
+            "company": "Co-founder OF GivTrade",
+            "testimoni": "Delivered my requirements in a record breaking time!",
+            "imageUrl": "assets/images/tarek.png"
         }
     ],
-    "team": [
+    "team_leader" : [
         {
             "name": "Mohammad Salem",
             "position": "Founder and CEO",
@@ -142,7 +154,10 @@
             "name": "Ali Abou Melhem",
             "position": "Chief Technology Officer",
             "imageUrl": "assets/images/am.jpg"
-        },
+        }
+    ],
+    "team": [
+        
         {
             "name": "Mohammad Amro",
             "position": "",

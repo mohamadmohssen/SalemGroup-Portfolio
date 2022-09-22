@@ -64,14 +64,14 @@ export default function DiscussForm(props) {
   };
 
   return (
-    <section className="flex flex-col container mx-auto mt-10 justify-center">
+    <section className="flex flex-col container mx-auto  justify-center">
       <Fade bottom>
         <div className="discuss_container">
           <div className="left">
             <div className="side-nav-bar">
               <div className="nav-upper">
                 <div className="nav-heading">
-                  <div className="nav-brand">
+                  <div className="nav-brand" style={{paddingTop:"7%"}}>
                     <h1 className="text-xl text-theme-blue text-center pt-6">Get in touch </h1>
                     <ul>
                     <li className="font-light text-lg text-gray-500 text-center m-12">
@@ -85,13 +85,13 @@ export default function DiscussForm(props) {
                       </li>
 
 
-                     <li className="font-light text-lg text-gray-500 text-center m-12" >
+                   {/*  <li className="font-light text-lg text-gray-500 text-center m-12" >
                     <a href="https://www.instagram.com/salemmgroup/" className="discuss_form_a">
                     
                     <span className="sidebar"><FaInstagram size="3x"/></span>                   
                     <span className="ml-7">  Instagram </span>
                      </a>
-                    </li>
+  </li> */}
                     
                    <li className="font-light text-lg text-gray-500 text-center m-12">
                    <a href="https://www.linkedin.com/company/salemgroup/" className="discuss_form_a">
@@ -126,7 +126,7 @@ export default function DiscussForm(props) {
               </div>
             </div>
           </div>
-          <div className="right">
+          <div className="right" style={{marginLeft:"6%",paddingTop:"4%"}}>
             <h1 className="text-5xl text-theme-blue text-center font-bold">
               Contact Us
             </h1>
@@ -159,7 +159,7 @@ export default function DiscussForm(props) {
                 />
               </div>
 
-              <div className="flex flex-col sm:flex-row mx-auto">
+              <div className="flex flex-col sm:flex-row mx-auto" >
                 <Form
                   id="email"
                   name="email"

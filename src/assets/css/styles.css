@@ -10,6 +10,31 @@
 .sidebar-list{
   display: flex;
 }
+
+.hr:before {
+  
+    content: "";
+    display:block ;
+    width : 425px;
+    height:2px;
+    background: #000;
+    position: absolute;
+    left: 3%;
+    margin-top:2rem;
+    z-index: -2;
+    
+}
+.hr:after{
+  content: "";
+  display:block;
+  width: 425px;
+  height:2px;
+  background: #152C5B;
+  position: absolute;
+  right: 3%;
+  margin-top:-13px;
+  z-index: -2;
+  }
 .iconImg{
   margin-left: 15%;
   padding-top: 7%;
@@ -28,13 +53,11 @@
 .discuss_form_a{
   display: flex !important;
 }
-.nav-upper , .nav-heading {
 
-}
 .side-nav-bar {
    background-color: #DEE7EA ;
    width: 300px;
-   height: 109vh;
+   height: 117vh;
    position: relative;
    color: rgb(red, green, blue);
    }

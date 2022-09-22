@@ -20,7 +20,7 @@ export default class ProjectPage extends Component {
     return (
       <>
         <Header {...this.props} />
-        <Service data={Data.portfolioservices} Title="Our Portfolio" paragraph="helllooo"/>
+        <Service data={Data.portfolioservices} Title="Our Portfolio" paragraph=""/>
         <Footer />
       </>
     );

@@ -81,7 +81,7 @@ export default function PortfolioDetail({ data }) {
 
                       <div className="flex flex-col mx-8 sm:mx-16 xl:mx-28">
                         <h1 className="text-3xl text-theme-blue font-bold mb-5">
-                          Project Responsibilities
+                          Technology Used:
                         </h1>
 
                         <div className="flex flex-row ml-1">
@@ -96,9 +96,9 @@ export default function PortfolioDetail({ data }) {
                       </div>
 
                       <p className="font-light italic text-gray-400 mt-16 mx-8 sm:mx-16 xl:mx-28">
-                        * This project is just example.
-                        {' '}
-                        <br />
+                        
+                       
+                       
                         Original project :
                         {' '}
                         <Button type="link" href={item.credit} target="_blank" className="text-theme-purple" isExternal>{item.credit}</Button>

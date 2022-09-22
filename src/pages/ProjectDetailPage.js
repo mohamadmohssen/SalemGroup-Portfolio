@@ -19,6 +19,7 @@ export default class ProjectDetailPage extends Component {
     if(detailData.length == 0) detailData = Data.TechMobSol.filter((item) => item.id === `${this.props.match.params.id}`)
 
     if(detailData.length == 0) detailData= Data.TechOthSol.filter((item) => item.id === `${this.props.match.params.id}`);
+
     
     return (
       <>

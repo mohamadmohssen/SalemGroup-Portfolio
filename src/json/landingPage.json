@@ -1,17 +1,17 @@
 {
     "service" : [
         {
-            "title": "Consulting",
+            "title": "Strategy & Managment Consulting",
             "imageUrl": "assets/images/Consulting.png",
             "pagePath": "/services/Consulting"       
         },
         {
-            "title": "Marketing",
+            "title": "Marketing and Digital Presence Division",
             "imageUrl": "assets/images/Marketing.png",
             "pagePath": "/services/Marketing"       
         },
         {
-            "title": "Technologies",
+            "title": "Information Technology & Development",
             "imageUrl": "assets/images/Technologies.png",
             "pagePath": "/services/Technologies"       
         }
@@ -357,19 +357,19 @@
     ],
     "portfolioservices": [
         {   
-            "title": "Consulting",
+            "title": "Strategy & Managment Consulting",
             "imageUrl": "../assets/images/Consulting.png",
             "pagePath":"/portfolio/Consulting"
                
         },
         {
-            "title": "Marketing",
+            "title": "Marketing and Digital Presence Division",
             "imageUrl": "../assets/images/Marketing.png",
             "pagePath": "/portfolio/Marketing"
                  
         },
         {
-            "title": "Technologies",
+            "title": "Information Technology & Development",
             "imageUrl": "../assets/images/Technologies.png",
             "pagePath":"/portfolio/Technologies"
              
@@ -433,93 +433,120 @@
         {
             "id": "1",
             "title": "OODA",
-            "imageUrl": "../../assets/images/Recruiting.png",
+            "imageUrl": "../../assets/images/OODA.jpg",
             "type": "Website",
             "paragraph":"OODA is a travel agency headquartered in Lebanon.  OODA wanted to propel forward in the market, by creating a custom booking portal to receive room requests from all over the world.",
             "responsibility": [
-                "Front-End",
-                "React Native, Redux, HTML, CSS",
-                "Back-End",
-                "Nodejs and MongoDB",
-                "SQL server database",
-                "Web payments integration with",
-                "Authorize.Net API"
+                "Front-End: React Native, Redux, HTML and CSS",
+                "Back-End: Nodejs, MongoDB and SQL server database",
+                "Web payments integration with: Authorize.Net API"
 
             ],
             "credit": "https://ooda.online/"
         },
         {
             "id": "2",
-            "title": "Stream+",
-            "imageUrl": "../../assets/images/Stream.png",
-            "type": "Mobile Apps",
+            "title": "Aequitas",
+            "imageUrl": "../../assets/images/Aequitas.jpg",
+            "type": "Website",
+            "paragraph":"Aequitas is a Learning Management System that offers free education to students enrolled in the Lebanese Baccalaureate system to help them succeed in their official exams.",
             "responsibility": [
-                "Mobile Development",
-                "UI/UX Design"
+                "Front-End: React Native, Redux, HTML, CSS",
+                "Back-End: Node Js, SQL server database"
+
             ],
-            "credit": "https://dribbble.com/shots/15276430-Stream"
+            "credit": "https://aequitas-lb.com/"
         },
         {
             "id": "3",
-            "title": "Freelance",
-            "imageUrl": "../../assets/images/Freelance.png",
-            "type": "Mobile Apps",
+            "title": "Nitchd",
+            "imageUrl": "../../assets/images/Nitchd.png",
+            "type": "Website",
+            "paragraph":"NITCHD is an online ecommerce shop that offers a one-stop shop for all clothing designs by Lebanese designers, targeting the Lebanese and MENA market.",
             "responsibility": [
-                "Mobile Development",
-                "UI/UX Design"
+                "Front-End: React Native, HTML and CSS",
+                "Back-End: Node Js, mySQL server and Json"
             ],
-            "credit": "https://dribbble.com/shots/15223131-Freelance-Mobile-App-Concept"
+            "credit": "https://nitchd.com/"
         },
         {
             "id": "4",
-            "title": "Aura",
-            "imageUrl": "../../assets/images/Aura.png",
+            "title": "Giv Trade",
+            "imageUrl": "../../assets/images/GivTrade.png",
             "type": "Website",
+            "paragraph": "Giv Trade provides a variety of trading services and products, including but not limited to stocks, currency, commodities, and digital assets. GivTrade also offers a wide variety of tools to make trading simple and easy for its customers.",
             "responsibility": [
-                "Web Development",
-                "UI/UX Design"
+                "Front-End: React",
+                "Back-End:ASP.Net Core, SQL Microsoft Server"
             ],
-            "credit": "https://dribbble.com/shots/15176338-Aura-Website-Main-Page"            
+            "credit": "https://giv.trade/"            
         },
         {
             "id": "5",
-            "title": "Surtido Rico",
-            "imageUrl": "../../assets/images/Surtido.png",
+            "title": "The Volunteer Circle",
+            "imageUrl": "../../assets/images/VolunteerCircle.png",
             "type": "Website",
+            "paragraph":"The Volunteer Circle is a platform for skill-sharing across all areas of Lebanon. They match enthusiastic volunteers, community service, experience seekers, and multi-talented individuals with the cause that needs them the most. An initiative for the people by the people, we create a community that is readily accessible to support the hard work of NGOs, start-ups, local businesses, and artists.",
             "responsibility": [
-                "Web Development",
-                "UI/UX Design"
+                "Front-End: React Native",
+                "Back-end: ASP.Net Core and SQL Microsoft Server"
             ],
-            "credit": "https://dribbble.com/shots/15173118-Surtido-Rico"
+            "credit": "https://www.thevolunteercircle.com/"
         },
         {
             "id": "6",
-            "title": "Courses Management",
-            "imageUrl": "../../assets/images/ManagementApp.png",
+            "title": "Freelance Express",
+            "imageUrl": "../../assets/images/FreelanceExpress.png",
             "type": "Website",
+            "paragraph":"To increase vulnerable youth from the host community and the refugee community's access to education and employment, SG developed a freelancing platform to provide them with the needed opportunities. The website includes success stories and a newsletter.",
             "responsibility": [
-                "Web Development",
-                "UI/UX Design"
+                "Front-End: React",
+                "Back-End: MVC and .Net"
             ],
-            "credit": "https://dribbble.com/shots/15197890-Courses-Management-and-Promoting-Web-App"
+            "credit": ""
+        },
+        {
+            "id": "7",
+            "title": "Signals",
+            "imageUrl": "../../assets/images/Signals.png",
+            "type": "Website",
+            "paragraph":"Signals is a digital platform to help traders identify the best time to execute a trading position, efficiently manage their risk, and reliably optimize their returns.",
+            "responsibility": [
+                "Front-End: React",
+                "Back-End: Django and MySQL "
+            ],
+            "credit": "https://signals.bear2bull.trade/"
+        },
+        {
+            "id": "8",
+            "title": "Karya",
+            "imageUrl": "../../assets/images/Karya.png",
+            "type": "Website",
+            "paragraph":"Karya social impact tackles multiple stakeholders. It helps increase the economic benefits of rural hosts, integrates and involves women and youth by promoting openness, helps in creating awareness among users on the conservation of environment and cultural heritage and creates a solid rural/urban linkage by giving communities incentives to avoid internal migration.",
+            "responsibility": [
+                "Front-End: React Native, Redux, HTML and CSS",
+                "Back-End: Laravel and SQL server ",
+                "Web payments integration with Authorize.Net API"
+            ],
+            "credit": "https://staging.karya.global/"
         }
     ],
     "TechMobSol" : [
         {
-            "id": "7",
-            "title": "Recruiting App",
-            "imageUrl": "../../assets/images/Recruiting.png",
-            "type": "Mobile Apps",
-            "paragraph":"helloooo",
+            "id": "9",
+            "title": "Notu",
+            "imageUrl": "../../assets/images/Notu.png",
+            "type": "Mobile App",
+            "paragraph":"Notu is a peer-to-peer business card mobile app striving to replace the conventional paper card by employing NFC technology to reduce the environmental cost of throwing away unused business cards. Tap your Notu business card to an iPhone, Android, or any other Notu card to instantly share your information through the mobile app.",
             "responsibility": [
-                "Mobile Development",
-                "UI/UX Design"
+                "Front-End: Dart Programming Language and Flutter Framework",
+                "Back-End: Node JS and MySQL"
             ],
-            "credit": "https://dribbble.com/shots/15164950-Recruiting-app"
+            "credit": ""
         },
         {
-            "id": "8",
-            "title": "Stream+",
+            "id": "10",
+            "title": "",
             "imageUrl": "../../assets/images/Stream.png",
             "type": "Mobile Apps",
             "responsibility": [
@@ -529,7 +556,7 @@
             "credit": "https://dribbble.com/shots/15276430-Stream"
         },
         {
-            "id": "9",
+            "id": "11",
             "title": "Freelance",
             "imageUrl": "../../assets/images/Freelance.png",
             "type": "Mobile Apps",
@@ -540,7 +567,7 @@
             "credit": "https://dribbble.com/shots/15223131-Freelance-Mobile-App-Concept"
         },
         {
-            "id": "10",
+            "id": "12",
             "title": "Aura",
             "imageUrl": "../../assets/images/Aura.png",
             "type": "Website",
@@ -551,7 +578,7 @@
             "credit": "https://dribbble.com/shots/15176338-Aura-Website-Main-Page"            
         },
         {
-            "id": "11",
+            "id": "13",
             "title": "Surtido Rico",
             "imageUrl": "../../assets/images/Surtido.png",
             "type": "Website",
@@ -562,7 +589,7 @@
             "credit": "https://dribbble.com/shots/15173118-Surtido-Rico"
         },
         {
-            "id": "12",
+            "id": "14",
             "title": "Courses Management",
             "imageUrl": "../../assets/images/ManagementApp.png",
             "type": "Website",
@@ -575,71 +602,41 @@
     ],
     "TechOthSol" : [
         {
-            "id": "13",
-            "title": "Recruiting App",
-            "imageUrl": "../../assets/images/Recruiting.png",
-            "type": "Mobile Apps",
-            "paragraph":"helloooo",
-            "responsibility": [
-                "Mobile Development",
-                "UI/UX Design"
-            ],
-            "credit": "https://dribbble.com/shots/15164950-Recruiting-app"
-        },
-        {
-            "id": "14",
-            "title": "Stream+",
-            "imageUrl": "../../assets/images/Stream.png",
-            "type": "Mobile Apps",
-            "responsibility": [
-                "Mobile Development",
-                "UI/UX Design"
-            ],
-            "credit": "https://dribbble.com/shots/15276430-Stream"
-        },
-        {
             "id": "15",
-            "title": "Freelance",
-            "imageUrl": "../../assets/images/Freelance.png",
-            "type": "Mobile Apps",
+            "title": "Karma Tech",
+            "imageUrl": "../../assets/images/KarmaTech.jpg",
+            "type": "Other Solution",
+            "paragraph":"KarmaTech is a one-stop management software that offers a multitude of features that make running a clinic a breeze. It is used to manage patients, appointments, doctor's schedules, prescriptions, and inventory management.",
             "responsibility": [
-                "Mobile Development",
-                "UI/UX Design"
+                "Front-End: Angular Js and PHP",
+                "Back-End: Node js, SQL server database and API integration"
             ],
-            "credit": "https://dribbble.com/shots/15223131-Freelance-Mobile-App-Concept"
+            "credit": ""
         },
         {
             "id": "16",
-            "title": "Aura",
-            "imageUrl": "../../assets/images/Aura.png",
-            "type": "Website",
+            "title": "HMS Pro",
+            "imageUrl": "../../assets/images/HMSPro.png",
+            "type": "Other Solution",
+            "paragraph":"HMS Pro is an all-in-one hospital management system that provides access to management of all hospital-related activities. including but not limited to: management of patients' records; doctors, nurses, and other personnel; stock and availability of the medications; availability of the wards and beds; and financial transactions.",
             "responsibility": [
-                "Web Development",
-                "UI/UX Design"
+                "Front-End: React",
+                "Back-end: ASP.Net Core, Microsoft SQL and MVC"
             ],
-            "credit": "https://dribbble.com/shots/15176338-Aura-Website-Main-Page"            
+            "credit": ""
         },
         {
             "id": "17",
-            "title": "Surtido Rico",
-            "imageUrl": "../../assets/images/Surtido.png",
-            "type": "Website",
+            "title": "Terogy",
+            "imageUrl": "../../assets/images/Terogy.png",
+            "type": "Other Solution",
+            "paragraph":"TEROGY is a web platform designed to connect hospitals in the MENA region to certified Lebanese radiologists who will provide them with fast and superior remote radiology services. TEROGY's mission is to provide cost-effective, timely and superior teleradiology services to hospitals in the MENA region.",
             "responsibility": [
-                "Web Development",
-                "UI/UX Design"
+                "Front-End: React",
+                "Back-end: ASP.Net Core, Microsoft SQL and MVC"
             ],
-            "credit": "https://dribbble.com/shots/15173118-Surtido-Rico"
-        },
-        {
-            "id": "18",
-            "title": "Courses Management",
-            "imageUrl": "../../assets/images/ManagementApp.png",
-            "type": "Website",
-            "responsibility": [
-                "Web Development",
-                "UI/UX Design"
-            ],
-            "credit": "https://dribbble.com/shots/15197890-Courses-Management-and-Promoting-Web-App"
+            "credit": ""
         }
+       
     ]
 }

@@ -19,7 +19,7 @@ export default class TeamPage extends Component {
       <>
         <Header {...this.props} />
         <HeroTeam {...this.props} />
-        <AllTeam data={Data.team} />
+        <AllTeam data={Data.team_leader} team={Data.team}/>
         <Footer />
       </>
     );

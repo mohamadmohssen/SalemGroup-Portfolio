@@ -10,6 +10,31 @@
 .sidebar-list{
   display: flex;
 }
+
+.hr:before {
+  
+    content: "";
+    display:block ;
+    width : 450px;
+    height:2px;
+    background: #000;
+    position: absolute;
+    left: 3%;
+    margin-top:2rem;
+    z-index: -2;
+    
+}
+.hr:after{
+  content: "";
+  display:block;
+  width: 320px;
+  height:2px;
+  background: #000;
+  position: absolute;
+  right: 3%;
+  margin-bottom:2rem;
+  z-index: -2;
+  }
 .iconImg{
   margin-left: 15%;
   padding-top: 7%;

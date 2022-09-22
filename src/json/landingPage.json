@@ -127,7 +127,7 @@
             "imageUrl": "assets/images/Reiner.jpg"
         }
     ],
-    "team": [
+    "team_leader" : [
         {
             "name": "Mohammad Salem",
             "position": "Founder and CEO",
@@ -142,7 +142,10 @@
             "name": "Ali Abou Melhem",
             "position": "Chief Technology Officer",
             "imageUrl": "assets/images/am.jpg"
-        },
+        }
+    ],
+    "team": [
+        
         {
             "name": "Mohammad Amro",
             "position": "",

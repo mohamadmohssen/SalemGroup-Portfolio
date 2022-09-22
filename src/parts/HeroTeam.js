@@ -14,7 +14,7 @@ export default function HeroTeam() {
             Our Team
           </h1>
           <p className="font-light text-xl text-gray-400 leading-relaxed">
-            Our team is full of passionate people and ready to make your dream software come true.
+          Our team is full of passionate experts in their fields ready to bring your ideas to life.
           </p>
         </div>
         <div className="w-full sm:w-1/2 sm:pr-12">

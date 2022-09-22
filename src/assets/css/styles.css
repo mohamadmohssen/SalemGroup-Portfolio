@@ -15,7 +15,7 @@
   
     content: "";
     display:block ;
-    width : 450px;
+    width : 425px;
     height:2px;
     background: #000;
     position: absolute;
@@ -27,12 +27,12 @@
 .hr:after{
   content: "";
   display:block;
-  width: 320px;
+  width: 425px;
   height:2px;
-  background: #000;
+  background: #152C5B;
   position: absolute;
   right: 3%;
-  margin-bottom:2rem;
+  margin-top:-13px;
   z-index: -2;
   }
 .iconImg{
@@ -57,7 +57,7 @@
 .side-nav-bar {
    background-color: #DEE7EA ;
    width: 300px;
-   height: 109vh;
+   height: 117vh;
    position: relative;
    color: rgb(red, green, blue);
    }

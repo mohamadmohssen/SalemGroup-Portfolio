@@ -26,7 +26,7 @@ export default function Advantage({ data }) {
                                 <img src={item.imageUrl} alt="" className="w-1/3" />
                                 <div className="flex-col pl-5">
                                   <h2 className="text-theme-blue text-2xl">{item.title}</h2>
-                                  <p className="font-light text-gray-400">{item.description}</p>
+                                  <p className="font-light text-gray-400"style={{fontSize:"13px"}}>{item.description}</p>
                                 </div>
                               </div>
                             </div>
@@ -43,7 +43,7 @@ export default function Advantage({ data }) {
                                 <img src={item.imageUrl} alt="" className="w-1/3" />
                                 <div className="flex-col pl-5">
                                   <h2 className="text-theme-blue text-2xl">{item.title}</h2>
-                                  <p className="font-light text-gray-400">{item.description}</p>
+                                  <p className="font-light text-gray-400"style={{fontSize:"14px"}}>{item.description}</p>
                                 </div>
                               </div>
                             </div>

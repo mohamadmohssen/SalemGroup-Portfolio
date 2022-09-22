@@ -7,6 +7,15 @@ import Fade from "react-reveal/Fade";
 export default function AllTeam({ data, team }) {
   return (
     <section className="container mx-0 sm:mx-auto">
+      <div style={{paddingBottom:"1%"}}>
+        
+        <h1 
+          class=" hr text-4xl text-theme-blue font-bold leading-tight mb-5 "
+          style={{ textAlign: "center", marginTop:"3%" }}>
+          Our Executives
+        </h1>
+        
+      </div>
       <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-3 gap-y-8 gap-x-32 sm:gap-14 lg:gap-10 mx-16 justify-items-center">
         {data.map((item, index) => (
           <Fade bottom delay={200 * index}>
@@ -31,12 +40,12 @@ export default function AllTeam({ data, team }) {
         ))}
       </div>
 
-      <div >
+      <div style={{padding:"4%"}}>
         
         <h1 
-          class=" hr text-4xl text-theme-blue font-bold leading-tight mb-5  "
-          style={{ textAlign: "center" }}>
-          Our Team
+          class=" hr text-4xl text-theme-blue font-bold leading-tight mb-5 "
+          style={{ textAlign: "center", marginTop:"3%" }}>
+          Our Experts
         </h1>
         
       </div>

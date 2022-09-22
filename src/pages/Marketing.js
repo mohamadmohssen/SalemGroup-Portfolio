@@ -14,7 +14,13 @@ export default class LandingPage extends Component {
   render() {
     return (
       <>
+        
         <Header {...this.props} />
+        <h1 
+          class="  text-4xl text-theme-blue font-bold leading-tight mb-5  "
+          style={{ textAlign: "center", marginTop:"3%", paddingBottom:"3%" }}>
+          Our Marketing Services
+        </h1>
         <OurServices data={Data.Marketing}/>
         <Footer />
       </>

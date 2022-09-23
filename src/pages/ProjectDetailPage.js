@@ -18,7 +18,9 @@ export default class ProjectDetailPage extends Component {
     var detailData = Data.TechWebSol.filter((item) => item.id === `${this.props.match.params.id}`)
     if(detailData.length == 0) detailData = Data.TechMobSol.filter((item) => item.id === `${this.props.match.params.id}`)
 
-    if(detailData.length == 0) detailData= Data.TechOthSol.filter((item) => item.id === `${this.props.match.params.id}`);
+    if(detailData.length == 0) detailData= Data.TechOthSol.filter((item) => item.id === `${this.props.match.params.id}`)
+    if(detailData.length == 0) detailData= Data.ConsStartup.filter((item) => item.id === `${this.props.match.params.id}`)
+    if(detailData.length == 0) detailData= Data.ConsNGOs.filter((item) => item.id === `${this.props.match.params.id}`);
 
     
     return (

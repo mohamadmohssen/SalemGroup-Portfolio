@@ -80,10 +80,10 @@ export default function PortfolioDetail({ data }) {
                       </div>
 
                       <div className="flex flex-col mx-8 sm:mx-16 xl:mx-28">
+                        {data.map((item) => (
                         <h1 className="text-3xl text-theme-blue font-bold mb-5">
-                          Technology Used:
-                        </h1>
-
+                          {item.technologieused}
+                        </h1>))}
                         <div className="flex flex-row ml-1">
                           {
                                             item.responsibility.map((responsibility) => (

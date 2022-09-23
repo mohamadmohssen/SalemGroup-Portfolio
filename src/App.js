@@ -17,6 +17,7 @@ import Consultingstartups from './pages/Consultingstartups';
 import TechnologiesWebSol from './pages/TechnologiesWebSol';
 import TechnologiesMobSol from './pages/TechnologiesMobSol';
 import TechnologiesOthSol from './pages/TechnologiesOthSol';
+import ConsultingNGOs from './pages/ConsultingNGOs'
 function App() {
   return (
     <Switch>
@@ -32,6 +33,7 @@ function App() {
       <Route exact path="/Portfolio/Marketing" component={Portfoliomarketing} />
       <Route exact path="/Portfolio/Technologies" component={Portfoliotechnologie} />
       <Route exact path="/Portfolio/Consulting/Startups" component={Consultingstartups} />
+      <Route exact path="/Portfolio/Consulting/NGO's" component={ConsultingNGOs} />
       <Route exact path="/Portfolio/Technologies/WebSolution" component={TechnologiesWebSol} />
       <Route exact path="/Portfolio/Technologies/MobileSolution" component={TechnologiesMobSol} />
       <Route exact path="/Portfolio/Technologies/OtherSolution" component={TechnologiesOthSol} />

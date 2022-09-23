@@ -399,7 +399,8 @@
         },
         {
             "title": "NGO's",
-            "imageUrl": "../assets/images/NGOs.png"
+            "imageUrl": "../assets/images/NGOs.png",
+            "pagePath":"/Portfolio/Consulting/NGO's"
                  
         },
         {
@@ -451,6 +452,7 @@
             "imageUrl": "../../assets/images/OODA.jpg",
             "type": "Website",
             "paragraph":"OODA is a travel agency headquartered in Lebanon.  OODA wanted to propel forward in the market, by creating a custom booking portal to receive room requests from all over the world.",
+            "technologieused":"Technology Used: ",
             "responsibility": [
                 "Front-End: React Native, Redux, HTML and CSS",
                 "Back-End: Nodejs, MongoDB and SQL server database",
@@ -465,6 +467,7 @@
             "imageUrl": "../../assets/images/Aequitas.jpg",
             "type": "Website",
             "paragraph":"Aequitas is a Learning Management System that offers free education to students enrolled in the Lebanese Baccalaureate system to help them succeed in their official exams.",
+            "technologieused":"Technology Used: ",
             "responsibility": [
                 "Front-End: React Native, Redux, HTML, CSS",
                 "Back-End: Node Js, SQL server database"
@@ -478,6 +481,7 @@
             "imageUrl": "../../assets/images/Nitchd.png",
             "type": "Website",
             "paragraph":"NITCHD is an online ecommerce shop that offers a one-stop shop for all clothing designs by Lebanese designers, targeting the Lebanese and MENA market.",
+            "technologieused":"Technology Used: ",
             "responsibility": [
                 "Front-End: React Native, HTML and CSS",
                 "Back-End: Node Js, mySQL server and Json"
@@ -490,6 +494,7 @@
             "imageUrl": "../../assets/images/GivTrade.png",
             "type": "Website",
             "paragraph": "Giv Trade provides a variety of trading services and products, including but not limited to stocks, currency, commodities, and digital assets. GivTrade also offers a wide variety of tools to make trading simple and easy for its customers.",
+            "technologieused":"Technology Used: ",
             "responsibility": [
                 "Front-End: React",
                 "Back-End:ASP.Net Core, SQL Microsoft Server"
@@ -502,6 +507,7 @@
             "imageUrl": "../../assets/images/VolunteerCircle.png",
             "type": "Website",
             "paragraph":"The Volunteer Circle is a platform for skill-sharing across all areas of Lebanon. They match enthusiastic volunteers, community service, experience seekers, and multi-talented individuals with the cause that needs them the most. An initiative for the people by the people, we create a community that is readily accessible to support the hard work of NGOs, start-ups, local businesses, and artists.",
+            "technologieused":"Technology Used: ",
             "responsibility": [
                 "Front-End: React Native",
                 "Back-end: ASP.Net Core and SQL Microsoft Server"
@@ -514,6 +520,7 @@
             "imageUrl": "../../assets/images/FreelanceExpress.png",
             "type": "Website",
             "paragraph":"To increase vulnerable youth from the host community and the refugee community's access to education and employment, SG developed a freelancing platform to provide them with the needed opportunities. The website includes success stories and a newsletter.",
+            "technologieused":"Technology Used: ",
             "responsibility": [
                 "Front-End: React",
                 "Back-End: MVC and .Net"
@@ -526,6 +533,7 @@
             "imageUrl": "../../assets/images/Signals.png",
             "type": "Website",
             "paragraph":"Signals is a digital platform to help traders identify the best time to execute a trading position, efficiently manage their risk, and reliably optimize their returns.",
+            "technologieused":"Technology Used: ",
             "responsibility": [
                 "Front-End: React",
                 "Back-End: Django and MySQL "
@@ -538,6 +546,7 @@
             "imageUrl": "../../assets/images/Karya.png",
             "type": "Website",
             "paragraph":"Karya social impact tackles multiple stakeholders. It helps increase the economic benefits of rural hosts, integrates and involves women and youth by promoting openness, helps in creating awareness among users on the conservation of environment and cultural heritage and creates a solid rural/urban linkage by giving communities incentives to avoid internal migration.",
+            "technologieused":"Technology Used: ",
             "responsibility": [
                 "Front-End: React Native, Redux, HTML and CSS",
                 "Back-End: Laravel and SQL server ",
@@ -553,6 +562,7 @@
             "imageUrl": "../../assets/images/Notu.png",
             "type": "Mobile App",
             "paragraph":"Notu is a peer-to-peer business card mobile app striving to replace the conventional paper card by employing NFC technology to reduce the environmental cost of throwing away unused business cards. Tap your Notu business card to an iPhone, Android, or any other Notu card to instantly share your information through the mobile app.",
+            "technologieused":"Technology Used: ",
             "responsibility": [
                 "Front-End: Dart Programming Language and Flutter Framework",
                 "Back-End: Node JS and MySQL"
@@ -561,58 +571,28 @@
         },
         {
             "id": "10",
-            "title": "",
-            "imageUrl": "../../assets/images/Stream.png",
-            "type": "Mobile Apps",
+            "title": "DonaLeb",
+            "imageUrl": "../../assets/images/DonaLeb.png",
+            "type": "Mobile App",
+            "paragraph":"DonaLeb is a well-being and fitness app that makes every step count. With every step logged, money is raised for charities connected with the app. Their sponsors receive unrivaled mobile engagement and social amplification with our community of active, healthy, and socially conscious audiences. Move with purpose today and raise money for charity.",
+            "technologieused":"Technology Used: ",
             "responsibility": [
-                "Mobile Development",
-                "UI/UX Design"
+                "Front-End: Dart Programming Language and Flutter Framework",
+                "Back-End: Node JS and MySQL"
             ],
-            "credit": "https://dribbble.com/shots/15276430-Stream"
+            "credit": ""
         },
         {
             "id": "11",
-            "title": "Freelance",
-            "imageUrl": "../../assets/images/Freelance.png",
-            "type": "Mobile Apps",
+            "title": "Dalil Mouzaree",
+            "imageUrl": "../../assets/images/DalilMouzaree.png",
+            "type": "Mobile App",
+            "technologieused":"Technology Used: ",
             "responsibility": [
-                "Mobile Development",
-                "UI/UX Design"
+                "Front-End: Dart Programming Language and Flutter Framework",
+                "Back-End: Node JS and MySQL"
             ],
-            "credit": "https://dribbble.com/shots/15223131-Freelance-Mobile-App-Concept"
-        },
-        {
-            "id": "12",
-            "title": "Aura",
-            "imageUrl": "../../assets/images/Aura.png",
-            "type": "Website",
-            "responsibility": [
-                "Web Development",
-                "UI/UX Design"
-            ],
-            "credit": "https://dribbble.com/shots/15176338-Aura-Website-Main-Page"            
-        },
-        {
-            "id": "13",
-            "title": "Surtido Rico",
-            "imageUrl": "../../assets/images/Surtido.png",
-            "type": "Website",
-            "responsibility": [
-                "Web Development",
-                "UI/UX Design"
-            ],
-            "credit": "https://dribbble.com/shots/15173118-Surtido-Rico"
-        },
-        {
-            "id": "14",
-            "title": "Courses Management",
-            "imageUrl": "../../assets/images/ManagementApp.png",
-            "type": "Website",
-            "responsibility": [
-                "Web Development",
-                "UI/UX Design"
-            ],
-            "credit": "https://dribbble.com/shots/15197890-Courses-Management-and-Promoting-Web-App"
+            "credit": ""
         }
     ],
     "TechOthSol" : [
@@ -622,6 +602,7 @@
             "imageUrl": "../../assets/images/KarmaTech.jpg",
             "type": "Other Solution",
             "paragraph":"KarmaTech is a one-stop management software that offers a multitude of features that make running a clinic a breeze. It is used to manage patients, appointments, doctor's schedules, prescriptions, and inventory management.",
+            "technologieused":"Technology Used: ",
             "responsibility": [
                 "Front-End: Angular Js and PHP",
                 "Back-End: Node js, SQL server database and API integration"
@@ -634,6 +615,7 @@
             "imageUrl": "../../assets/images/HMSPro.png",
             "type": "Other Solution",
             "paragraph":"HMS Pro is an all-in-one hospital management system that provides access to management of all hospital-related activities. including but not limited to: management of patients' records; doctors, nurses, and other personnel; stock and availability of the medications; availability of the wards and beds; and financial transactions.",
+            "technologieused":"Technology Used: ",
             "responsibility": [
                 "Front-End: React",
                 "Back-end: ASP.Net Core, Microsoft SQL and MVC"
@@ -646,6 +628,7 @@
             "imageUrl": "../../assets/images/Terogy.png",
             "type": "Other Solution",
             "paragraph":"TEROGY is a web platform designed to connect hospitals in the MENA region to certified Lebanese radiologists who will provide them with fast and superior remote radiology services. TEROGY's mission is to provide cost-effective, timely and superior teleradiology services to hospitals in the MENA region.",
+            "technologieused":"Technology Used: ",
             "responsibility": [
                 "Front-End: React",
                 "Back-end: ASP.Net Core, Microsoft SQL and MVC"
@@ -653,5 +636,141 @@
             "credit": ""
         }
        
+    ],
+    "ConsStartup" : [
+        {
+            "id": "18",
+            "title": "DonaLeb",
+            "imageUrl": "../../assets/images/DonaLeb2.png",
+            "type": "Startup",
+            "paragraph":"DonaLeb is a fitness & well-being app that makes every step count. With every step logged, money is raised for charities. DonaLeb aims to refocus marketing expenditure for corporates willing to spend their marketing budgets on social media platforms into directing them towards CSR and charitable donations.DonaLeb’s hybrid business model promotes healthy lifestyle and Corporate Social Responsibility all in one application.",
+            "responsibility": [
+                
+            ],
+            "credit": ""
+        },
+        {
+            "id": "19",
+            "title": "Eflow",
+            "imageUrl": "../../assets/images/Eflow.png",
+            "type": "Startup",
+            "paragraph":"Education beyond boundaries eFlow offers a cloud based platform powered by an interactive chatbot that enables learning delivery and management by conserving the human element in distance learning through conversational course format.",
+            "responsibility": [
+                
+            ],
+            "credit": ""
+        }
+    ],
+    "ConsNGOs" : [
+        {
+            "id": "20",
+            "title": "IRC",
+            "imageUrl": "../../assets/images/.png",
+            "type": "NGO",
+            "paragraph":"The International Rescue Committee responds to the world’s most tragic humanitarian crises and helps people whose lives and livelihoods are shattered by conflicts and disasters to survive, recover, and gain control of their future.            The IRC’s mission is to provide emergency aid and other support to refugees living in unsafe conditions. The IRC also assists vulnerable communities that host refugees.",
+            "responsibility": [
+                
+            ],
+            "credit": ""
+        },
+        {
+            "id": "21",
+            "title": "Care International",
+            "imageUrl": "../../assets/images/.png",
+            "type": "NGO",
+            "paragraph":"CARE is a global leader within a worldwide movement dedicated to ending poverty. They are known everywhere for our unshakeable commitment to the dignity of people.They seek a world of hope, inclusion, and social justice, where poverty has been overcome and all people live with dignity and security. They focus on putting women and girls in the center because they know that they cannot overcome poverty until all people have equal rights and opportunities.",
+            "responsibility": [
+                
+            ],
+            "credit": ""
+        },
+        {
+            "id": "22",
+            "title": "Expertise France",
+            "imageUrl": "../../assets/images/.png",
+            "type": "NGO",
+            "paragraph":"Expertise France is a French public agency created on 1st January 2015 after the merger of  5  public agencies under the tutelage of the French Ministries of Foreign Affairs and Economy and Finance with a strong inter- ministerial vocation. EF offers project engineering and technical assistance by developing and implementing international cooperation actions worldwide. EF operates in various fields of development and institutional cooperation including safety and security reform, post-crisis/ stability, public health, human rights, strengthening of institutions and NGOs and governance.",
+            "responsibility": [
+                
+            ],
+            "credit": ""
+        },
+        {
+            "id": "23",
+            "title": "Save The Children",
+            "imageUrl": "../../assets/images/.png",
+            "type": "NGO",
+            "paragraph":"Save the Children supports families to meet their basic needs, including adequate shelter, and facilitates market driven livelihoods opportunities for youth and caregivers. Save the Children empowers civil society in Lebanon in times of peace and conflict to respond to the needs of all children.",
+            "responsibility": [
+                
+            ],
+            "credit": ""
+        },
+        {
+            "id": "24",
+            "title": "Omran Foundation",
+            "imageUrl": "../../assets/images/.png",
+            "type": "NGO",
+            "paragraph":"Omran contributes to the establishment of a renaissance society, and works to lead the nation towards leadership and global competition, by investing in valued cultural heritage, and the optimal use of the tools of the age in planning, management, leadership and institutionalization.",
+            "responsibility": [
+                
+            ],
+            "credit": ""
+        },
+        {
+            "id": "25",
+            "title": "Jafra Foundation",
+            "imageUrl": "../../assets/images/.png",
+            "type": "NGO",
+            "paragraph":"Jafra Foundation is a Palestinian youth organization working on a participatory approach to promote resilience in the Palestinian society in all its places of existence, starting with the role of the youth to assume their responsibilities towards their community and its just causes. In its work, the Foundation relies on humanitarian standards to carry out its activities with integrity, effectiveness, and consistency. Jafra acts as a key strategic partner for several recognized international NGOs implementing humanitarian relief and development projects in Syria and Lebanon;",
+            "responsibility": [
+                
+            ],
+            "credit": ""
+        },
+        {
+            "id": "26",
+            "title": "Caritas",
+            "imageUrl": "../../assets/images/.png",
+            "type": "NGO",
+            "paragraph":"CARITAS provides economic development, livelihoods, health and social care, education, service to foreign refugees, emergency and crisis intervention, environmental supervision and protection of the needy. CARITAS Lebanon is striving for a developed, sustainable, and environmentally inclusive world. Where people live a peaceful life, in harmony and solidarity between generations. ",
+            "responsibility": [
+                
+            ],
+            "credit": ""
+        },
+        {
+            "id": "27",
+            "title": "Zowada",
+            "imageUrl": "../../assets/images/.png",
+            "type": "NGO",
+            "paragraph":"Zowada emerged from the fruitful cooperation between ILO (International labor organization) and The LEE Experience, which has been implemented in 8 countries with the aim of improving the opportunities of host communities and forcibly displaced individuals with the support of the government of the Netherlands. Therefore, Zowada mobile app was launched as a digital accelerator and incubator, the first of its kind in the world at the level of integrated business incubators in the development of a strategic vision of an incubator and targeted to a world fit for all of us.",
+            "responsibility": [
+                
+            ],
+            "credit": ""
+        },
+        {
+            "id": "28",
+            "title": "Akkarouna",
+            "imageUrl": "../../assets/images/.png",
+            "type": "NGO",
+            "paragraph":"Akkarouna is a local non-profit NGO that is managing 3 office in the Northern Region of Lebanon, Namely in Akkar, Tripoli and Baddawi. Its aim is to achieve sustainable socio-economic growth through youth, women and children empowerment by building their capacities, enhancing community networks, implementing development projects and spreading awareness about rights and citizenship under 5 pillars: Shelter, Protection, Social Stability, Livelihood and Governance.",
+            "responsibility": [
+                
+            ],
+            "credit": ""
+        },
+        {
+            "id": "29",
+            "title": "Dawaer",
+            "imageUrl": "../../assets/images/.png",
+            "type": "NGO",
+            "paragraph":"Dawaer foundation is a non-governmental, not for profit, non- partisan organization established in 2015, works with educational institutions, families and communities to enhance child and youth rights and freedom of expression and protect youth from violence. Dawaer also collaborates with decision makers to lobby for laws that enhance youth and human rights.",
+            "responsibility": [
+                
+            ],
+            "credit": ""
+        }
     ]
 }

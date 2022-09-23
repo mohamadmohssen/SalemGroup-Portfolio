@@ -15,7 +15,7 @@ export default class LandingPage extends Component {
     return (
       <>
         <Header {...this.props} />
-        <StartupPart data={Data.ConsStartup}/>
+        <StartupPart data={Data.ConsNGOs}/>
         <Footer />
       </>
     );

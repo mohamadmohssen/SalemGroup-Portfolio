@@ -24,7 +24,7 @@ export default function Form(props) {
       if (!pattern.test(event.target.value)) setHasError(errorResponse);
       else setHasError(null);
     }
-
+{console.log(event.target.validity)}
     if (type === "tel") {
       if (event.target.validity.valid) props.onChange(target);
     } else {
@@ -39,7 +39,7 @@ export default function Form(props) {
         placeholder={placeholder}
         value={value}
         className={[
-          "w-95 sm:w-192 lg:w-192.5 xl:w-192.5 p-4 mx-2 mb-6 font-light text-lg text-theme-blue rounded border border-gray-400 focus:outline-none focus:ring-1 focus:ring-theme-purple",
+          "w-95 sm:w-192 lg:w-192.5 xl:w-192.5 p-4 mx-2 mb-6 font-light text-lg text-theme-blue rounded border border-gray-400 focus:outline-none focus:ring-1 focus:#367588",
           className,
         ].join(" ")}
         onChange={onChange}
@@ -59,11 +59,10 @@ export default function Form(props) {
           pattern={pattern}
           value={value}
           className={[
-            "p-4 font-light text-lg text-theme-blue rounded border border-gray-400 focus:outline-none focus:ring-1 focus:ring-theme-purple",
+            "p-4 font-light text-lg text-theme-blue rounded border border-gray-400 focus:outline-none focus:ring-1 focus:#367588",
             className,
           ].join(" ")}
           onChange={onChange}
-          required
         />
         {hasError && (
           <span className="text-sm text-white bg-red-500 p-1 rounded">
@@ -82,7 +81,7 @@ export default function Form(props) {
         placeholder={placeholder}
         value={value}
         className={[
-          "p-4 font-light text-lg text-theme-blue rounded border border-gray-400 focus:outline-none focus:ring-1 focus:ring-theme-purple",
+          "p-4 font-light text-lg text-theme-blue rounded border border-gray-400 focus:outline-none focus:ring-1 focus:#367588",
           className,
         ].join(" ")}
         onChange={onChange}

@@ -5,14 +5,14 @@ import Fade from 'react-reveal/Fade';
 
 import Button from 'elements/Button';
 
-import BuildWebsite from 'assets/images/Startup.png';
+import BuildWebsite from 'assets/images/Startup2.png';
 
 export default function Hero() {
   return (
     <section className="hero">
       <Fade bottom>
         <div className="w-full lg:w-1/2 xl:pl-12 sm:pr-2 mt-8">
-          <h1 className="text-5xl sm:text-6xl text-theme-blue font-bold leading-tight mb-5">
+          <h1 className="text-5xl sm:text-6xl text-theme-blue font-bold leading-tight mb-5" style={{color:"#367588"}}>
             Growing Your Business
             {' '}
             <br />

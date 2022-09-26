@@ -22,11 +22,11 @@ export default function Footer() {
             <h1 className="text-lg text-theme-blue pt-4 pb-2">
               Office
             </h1>
-            <a href="info@salemgrp.com" className="text-lg text-gray-400 font-light">
+            <a href="mailto:info@salemgrp.com" className="text-lg text-gray-400 font-light">
               info@salemgrp.com
               </a>
             <p className="text-lg text-gray-400 font-light">
-            Justinian Street , Justinian Building, Block B, 9th floor, Beirut LB
+            Justinian Street, Justinian Building, Block B, 9th floor, Beirut LB
             </p>
           </div>
           <div className="w-1/3 ml-16 sm:ml-0 mt-0">

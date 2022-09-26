@@ -10,7 +10,7 @@ export default function AllTeam({ data, team }) {
       <div style={{paddingBottom:"1%"}}>
         
         <h1 
-          class=" hr text-4xl text-theme-blue font-bold leading-tight mb-5 "
+          class=" hr text-4xl text-theme-blue font-bold leading-tight mb-5 color "
           style={{ textAlign: "center", marginTop:"3%" }}>
           Our Executives
         </h1>
@@ -43,7 +43,7 @@ export default function AllTeam({ data, team }) {
       <div style={{padding:"4%"}}>
         
         <h1 
-          class=" hr text-4xl text-theme-blue font-bold leading-tight mb-5 "
+          class=" hr text-4xl text-theme-blue font-bold leading-tight mb-5 color "
           style={{ textAlign: "center", marginTop:"3%" }}>
           Our Experts
         </h1>

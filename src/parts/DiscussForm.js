@@ -6,7 +6,7 @@
 /* eslint-disable react/prop-types */
 import React, { useState } from "react";
 
-import { FaInstagram,FaLinkedin,FaMapMarkerAlt } from "react-icons/fa";
+import { FaInstagram,FaLinkedin,FaMapMarkerAlt,FaPhoneAlt } from "react-icons/fa";
 import "../assets/css/styles.css"
 import Fade from "react-reveal/Fade";
 import * as emailjs from "emailjs-com";
@@ -72,11 +72,20 @@ export default function DiscussForm(props) {
               <div className="nav-upper">
                 <div className="nav-heading">
                   <div className="nav-brand" style={{paddingTop:"7%"}}>
-                    <h1 className="text-xl text-theme-blue text-center pt-6">Get in touch </h1>
+                    <h1 className="text-xl text-theme-blue text-center pt-6 color">Get in touch </h1>
                     <ul>
                     <li className="font-light text-lg text-gray-500 text-center m-12">
                       <a href="mailto:info@salemgrp.com">info@salemgrp.com</a></li>
-                    <li className="font-light text-lg text-gray-500 text-center m-12"><p>(961) 752 071</p></li>
+
+
+                    <li className="font-light text-lg text-gray-500 text-center m-12">
+                    <p className="discuss_form_a">
+                    <span className="sidebar"><FaPhoneAlt  size="3x"/></span>  
+                    <span className="ml-7"> (961) 752 071 </span>
+                    </p>
+                    </li>
+
+
                     <li className="font-light text-lg text-gray-500 text-center m-12">
                       <a href="https://www.google.com/maps/place/Salem+Group/@33.8956728,35.4867213,17z/data=!4m5!3m4!1s0x151f17afb9efd533:0x1aa5f682dd3f1b45!8m2!3d33.8956745!4d35.4909154" className="discuss_form_a">
                       <span className="sidebar"><FaMapMarkerAlt size="3x"/></span>  
@@ -127,7 +136,7 @@ export default function DiscussForm(props) {
             </div>
           </div>
           <div className="right" style={{marginLeft:"6%",paddingTop:"4%"}}>
-            <h1 className="text-5xl text-theme-blue text-center font-bold">
+            <h1 className="text-5xl text-theme-blue text-center font-bold color">
               Contact Us
             </h1>
 
@@ -137,7 +146,7 @@ export default function DiscussForm(props) {
               get back to you in 24 hours.
             </p>
 
-            <div className="flex flex-col">
+            <div className="flex flex-col ">
               <div className="flex flex-col sm:flex-row mx-auto ">
                 <Form
                   id="name"

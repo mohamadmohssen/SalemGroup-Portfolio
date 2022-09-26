@@ -2,17 +2,17 @@
     "service" : [
         {
             "title": "Strategy & Managment Consulting",
-            "imageUrl": "assets/images/Consulting.png",
+            "imageUrl": "assets/images/Consulting2.png",
             "pagePath": "/services/Consulting"       
         },
         {
             "title": "Marketing and Digital Presence Division",
-            "imageUrl": "assets/images/Marketing.png",
+            "imageUrl": "assets/images/Marketing2.png",
             "pagePath": "/services/Marketing"       
         },
         {
             "title": "Information Technology & Development",
-            "imageUrl": "assets/images/Technologies.png",
+            "imageUrl": "assets/images/Technologies2.png",
             "pagePath": "/services/Technologies"       
         }
     ],
@@ -89,22 +89,22 @@
         [{
             "title": "Attention to Details",
             "description": "It’s our attention to the small stuff, scheduling of timelines and keen project management that makes us stand out from the rest. We are creative, while keeping a close eye on the calendar and your budget.",
-            "imageUrl": "assets/images/Communicative.png"
+            "imageUrl": "assets/images/Communicative2.png"
         },
         {
             "title": "A Plan for Success ",
             "description": "You want results. We have found that the best way to get them is with up front research – of your company, competitors, target market and customer psychographics. Only after we fully understand you and your customers, do we recommend a plan of attack.",
-            "imageUrl": "assets/images/Management.png"
+            "imageUrl": "assets/images/Management2.png"
         }],
         [{
             "title": "Creativity ​",
             "description": "We bring our diverse background of advertising, design, branding, public relations, research and strategic planning to work for your company. Not only will your materials look great – they will get results.",
-            "imageUrl": "assets/images/Collaborative.png"
+            "imageUrl": "assets/images/Collaborative2.png"
         },
         {
             "title": "Tracking Results",
             "description": "We’re constantly tracking the performance of our services. We’ll use internal testing to track increased exposure and other critical metrics. It’s also the best way to provide concrete evidence of our impact.",
-            "imageUrl": "assets/images/Favourite.png"
+            "imageUrl": "assets/images/Favourite2.png"
         }]
     ],
     "testimonial": [
@@ -117,7 +117,7 @@
         {
             "name": "Yasmine Darwich",
             "company": "Founder of Donaleb",
-            "testimoni": "My go to consulting and technological firm to develop my ideas.",
+            "testimoni": "I'd like to express gratitude for the outstanding contributions made by SG to the development of our mobile app. Salem Group’s professional & timely commitment to helping us achieve our goal is exemplary. We're grateful for their effort and look forward to continue making an impact together!",
             "imageUrl": "assets/images/yasmine.jpg"
         },
         {
@@ -137,6 +137,31 @@
             "company": "Co-founder OF GivTrade",
             "testimoni": "Delivered my requirements in a record breaking time!",
             "imageUrl": "assets/images/tarek.png"
+        }
+        ,
+        {
+            "name": "John Tamer",
+            "company": "Founder of Tamer freres",
+            "testimoni": "",
+            "imageUrl": "assets/images/jhonntammer.png"
+        },
+        {
+            "name": "Shahid Abbasi",
+            "company": "Founder of Xylexa",
+            "testimoni": "",
+            "imageUrl": "assets/images/shahid.png"
+        },
+        {
+            "name": "Amine Staali",
+            "company": "ProvenMed",
+            "testimoni": "",
+            "imageUrl": "assets/images/amine.png"
+        },
+        {
+            "name": "Abed Kaderi",
+            "company": "Owner of Shark & Co",
+            "testimoni": "Delivered my requirements in a record breaking time!",
+            "imageUrl": "assets/images/abed.png"
         }
     ],
     "team_leader" : [
@@ -223,169 +248,169 @@
     "Consulting": [
         {
             "name": "Mentoring Entrepreneurs",
-            "imageUrl": "../assets/images/MentoringEntrepreneurs.png"
+            "imageUrl": "../assets/images/MentoringEntrepreneurs2.png"
         },
         {
             "name": "Project Implementation Research",           
-            "imageUrl": "../assets/images/ProjectImplementationResearch.png"
+            "imageUrl": "../assets/images/ProjectImplementationResearch2.png"
         },
         {
             "name": "Market Research",            
-            "imageUrl": "../assets/images/MarketResearch.png"
+            "imageUrl": "../assets/images/MarketResearch2.png"
         },
         {
             "name": "Financial Forecasting",           
-            "imageUrl": "../assets/images/FinancialForecasting.png"
+            "imageUrl": "../assets/images/FinancialForecasting2.png"
         },
         {
             "name": "Budget & Capital Structuring",            
-            "imageUrl": "../assets/images/Budget&CapitalStructuring.png"
+            "imageUrl": "../assets/images/Budget&CapitalStructuring2.png"
         },
         {
             "name": "Feasibility Studies",            
-            "imageUrl": "../assets/images/FeasibilityStudies.png"
+            "imageUrl": "../assets/images/FeasibilityStudies2.png"
         },
         {
             "name": "Project Legal Estabilishment",
-            "imageUrl": "../assets/images/ProjectLegalEstabilishment.png"
+            "imageUrl": "../assets/images/ProjectLegalEstabilishment2.png"
         },
         {
             "name": "Funding & Loan Applications Preparation",            
-            "imageUrl": "../assets/images/Funding&LoaApplicationsPreparation.png"
+            "imageUrl": "../assets/images/Funding&LoaApplicationsPreparation2.png"
         },
         {
             "name": "Investor Pitching",
-            "imageUrl": "../assets/images/InvestorPitching.png"
+            "imageUrl": "../assets/images/InvestorPitching2.png"
         },
         {
             "name": "Strategic consulting",
-            "imageUrl": "../assets/images/StrategicConsulting.png"
+            "imageUrl": "../assets/images/StrategicConsulting2.png"
         },
         {
             "name": "Management Consulting",
-            "imageUrl": "../assets/images/ManagementConsulting.png"
+            "imageUrl": "../assets/images/ManagementConsulting2.png"
         },
         {
             "name": "Operational Consulting",
-            "imageUrl": "../assets/images/OperationalConsulting.png"
+            "imageUrl": "../assets/images/OperationalConsulting2.png"
         }
     ],
     "Marketing": [
         {
             "name": "Photography and Videography",
-            "imageUrl": "../assets/images/PhotographyandVideography.png"
+            "imageUrl": "../assets/images/PhotographyandVideography2.png"
         },
         {
             "name": "Content Creation",           
-            "imageUrl": "../assets/images/ContentCreation.png"
+            "imageUrl": "../assets/images/ContentCreation2.png"
         },
         {
             "name": "Social Media Managment",            
-            "imageUrl": "../assets/images/SocialMediaManagment.png"
+            "imageUrl": "../assets/images/SocialMediaManagment2.png"
         },
         {
             "name": "Marketing Planning and Strategy",           
-            "imageUrl": "../assets/images/MarketingPlanningandStrategy.png"
+            "imageUrl": "../assets/images/MarketingPlanningandStrategy2.png"
         },
         {
             "name": "Online Advertising",            
-            "imageUrl": "../assets/images/OnlineAdvertising.png"
+            "imageUrl": "../assets/images/OnlineAdvertising2.png"
         },
         {
             "name": "Offline Advertising",            
-            "imageUrl": "../assets/images/OfflineAdvertising.png"
+            "imageUrl": "../assets/images/OfflineAdvertising2.png"
         },
         {
             "name": "Search Engine Optimization",
-            "imageUrl": "../assets/images/SearchEngineOptimization.png"
+            "imageUrl": "../assets/images/SearchEngineOptimization2.png"
         },
         {
             "name": "Branding and Design",            
-            "imageUrl": "../assets/images/BrandingandDesign.png"
+            "imageUrl": "../assets/images/BrandingandDesign2.png"
         },
         {
             "name": "Pay Per Click",
-            "imageUrl": "../assets/images/PayPerClick.png"
+            "imageUrl": "../assets/images/PayPerClick2.png"
         },
         {
             "name": "Email Marketing",
-            "imageUrl": "../assets/images/EmailMarketing.png"
+            "imageUrl": "../assets/images/EmailMarketing2.png"
         },
         {
             "name": "App Search Optimizaton",
-            "imageUrl": "../assets/images/AppSearchOptimizaton.png"
+            "imageUrl": "../assets/images/AppSearchOptimizaton2.png"
         },
         {
             "name": "Online Reputation Managment",
-            "imageUrl": "../assets/images/OnlineReputationManagment.png"
+            "imageUrl": "../assets/images/OnlineReputationManagment2.png"
         }
     ],
     "Technology": [
         {
             "name": "Website Development",
-            "imageUrl": "../assets/images/WebsiteDevelopment.png"
+            "imageUrl": "../assets/images/WebsiteDevelopment2.png"
         },
         {
             "name": "Mobile Development",           
-            "imageUrl": "../assets/images/MobileDevelopment.png"
+            "imageUrl": "../assets/images/MobileDevelopment2.png"
         },
         {
             "name": "UI/UX Design",            
-            "imageUrl": "../assets/images/UI/UX.png"
+            "imageUrl": "../assets/images/UI/UX2.png"
         },
         {
             "name": "Artificial Intelligence",           
-            "imageUrl": "../assets/images/ArtificialIntelligence.png"
+            "imageUrl": "../assets/images/ArtificialIntelligence2.png"
         },
         {
             "name": "Testing and Quality Assurance",            
-            "imageUrl": "../assets/images/TestingandQualityAssurance.png"
+            "imageUrl": "../assets/images/TestingandQualityAssurance2.png"
         },
         {
             "name": "Data Analytics",            
-            "imageUrl": "../assets/images/DataAnalytics.png"
+            "imageUrl": "../assets/images/DataAnalytics2.png"
         },
         {
             "name": "Digital Transformation",
-            "imageUrl": "../assets/images/DigitalTransformation.png"
+            "imageUrl": "../assets/images/DigitalTransformation2.png"
         },
         {
             "name": "IT Consulting",            
-            "imageUrl": "../assets/images/ITConsulting.png"
+            "imageUrl": "../assets/images/ITConsulting2.png"
         },
         {
             "name": "Cyber Security",
-            "imageUrl": "../assets/images/CyberSercurity.png"
+            "imageUrl": "../assets/images/CyberSercurity2.png"
         },
         {
             "name": "Cloud Computing",
-            "imageUrl": "../assets/images/CloudComputing.png"
+            "imageUrl": "../assets/images/CloudComputing2.png"
         },
         {
             "name": "Digital Wallets & Cryptocurrency",
-            "imageUrl": "../assets/images/DigitalWallets&Cryptocurrency.png"
+            "imageUrl": "../assets/images/DigitalWallets&Cryptocurrency2.png"
         },
         {
             "name": "ERP & CRM",
-            "imageUrl": "../assets/images/ERP&CRM.png"
+            "imageUrl": "../assets/images/ERP&CRM2.png"
         }
     ],
     "portfolioservices": [
         {   
             "title": "Strategy & Managment Consulting",
-            "imageUrl": "../assets/images/Consulting.png",
+            "imageUrl": "../assets/images/Consulting2.png",
             "pagePath":"/portfolio/Consulting"
                
         },
         {
             "title": "Marketing and Digital Presence Division",
-            "imageUrl": "../assets/images/Marketing.png",
+            "imageUrl": "../assets/images/Marketing2.png",
             "pagePath": "/portfolio/Marketing"
                  
         },
         {
             "title": "Information Technology & Development",
-            "imageUrl": "../assets/images/Technologies.png",
+            "imageUrl": "../assets/images/Technologies2.png",
             "pagePath":"/portfolio/Technologies"
              
         }
@@ -393,31 +418,31 @@
     "portfolioconsulting": [
         {
             "title": "Stratups",
-            "imageUrl": "../assets/images/Startups.png",
+            "imageUrl": "../assets/images/Startups2.png",
             "pagePath":"/Portfolio/Consulting/Startups"
             
         },
         {
             "title": "NGO's",
-            "imageUrl": "../assets/images/NGOs.png",
+            "imageUrl": "../assets/images/NGOs2.png",
             "pagePath":"/Portfolio/Consulting/NGO's"
                  
         },
         {
             "title": "Firms",
-            "imageUrl": "../assets/images/Firms.png"
+            "imageUrl": "../assets/images/Firms2.png"
              
         }
     ],
     "portfoliomarketing": [
         {
             "title": "Content Creation",
-            "imageUrl": "../assets/images/ContentCreation.jpg"
+            "imageUrl": "../assets/images/ContentCreation5.png"
                
         },
         {
             "title": "Social Media Management",
-            "imageUrl": "../assets/images/SocialMediaaManagment.jpg"
+            "imageUrl": "../assets/images/SocialMediaManagment5.png"
                  
         },
         {
@@ -429,18 +454,18 @@
     "portfoliotechnologie": [
         {
             "title": "Web Solutions",
-            "imageUrl": "../assets/images/WebSolutions.png",
+            "imageUrl": "../assets/images/WebSolutions2.png",
             "pagePath":"/Portfolio/Technologies/WebSolution"
                
         },
         {
             "title": "Mobile Solutions",
-            "imageUrl": "../assets/images/MobileSolutions.png",
+            "imageUrl": "../assets/images/MobileSolutions2.png",
             "pagePath":"/Portfolio/Technologies/MobileSolution"
         },
         {
             "title": "Other Solutions",
-            "imageUrl": "../assets/images/OtherSolutions.png",
+            "imageUrl": "../assets/images/OtherSolutions2.png",
             "pagePath":"/Portfolio/Technologies/OtherSolution"
              
         }

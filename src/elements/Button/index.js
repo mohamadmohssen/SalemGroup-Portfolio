@@ -14,7 +14,9 @@ export default function Button(props) {
     style,
     target,
     children,
+    children_class
   } = props;
+  {console.log("hii",children)}
 
   const onClickHandler = () => {
     if (onClick) onClick();
@@ -54,7 +56,7 @@ export default function Button(props) {
       style={style}
       onClick={onClickHandler}
     >
-      {children}
+      <div style={{display:"flex", alignItems:"center"}} className={children_class}>{children}</div>
     </button>
   );
 }

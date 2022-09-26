@@ -87,7 +87,7 @@ export default function PortfolioDetail({ data }) {
                         <div className="flex flex-row ml-1">
                           {
                                             item.responsibility.map((responsibility) => (
-                                              <div className="mr-4 px-6 py-3 text-theme-purple border border-theme-purple rounded-full shadow-lg">
+                                              <div className="mr-4 px-6 py-3 text-theme-purple border border-theme-purple rounded-full shadow-lg" style={{color:"#367588",borderColor:"#367588"}}>
                                                 {responsibility}
                                               </div>
                                             ))
@@ -97,11 +97,17 @@ export default function PortfolioDetail({ data }) {
 
                       <p className="font-light italic text-gray-400 mt-16 mx-8 sm:mx-16 xl:mx-28">
                         
+                       {data.map((item)=>(
+                        <p>
+                          {item.originalP}
+                          {' '}
+                          <Button type="link" href={item.credit} target="_blank" className="text-theme-purple" isExternal  style={{color:"#367588"}}>{item.credit}</Button></p>
+                       ))
+                       }
                        
                        
-                        Original project :
-                        {' '}
-                        <Button type="link" href={item.credit} target="_blank" className="text-theme-purple" isExternal>{item.credit}</Button>
+                        
+                        
                       </p>
                     </Fade>
                   </div>

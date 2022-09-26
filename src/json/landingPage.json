@@ -459,6 +459,7 @@
                 "Web payments integration with: Authorize.Net API"
 
             ],
+            "originalP":"Original project: ",
             "credit": "https://ooda.online/"
         },
         {
@@ -473,6 +474,7 @@
                 "Back-End: Node Js, SQL server database"
 
             ],
+            "originalP":"Original project: ",
             "credit": "https://aequitas-lb.com/"
         },
         {
@@ -486,6 +488,7 @@
                 "Front-End: React Native, HTML and CSS",
                 "Back-End: Node Js, mySQL server and Json"
             ],
+            "originalP":"Original project: ",
             "credit": "https://nitchd.com/"
         },
         {
@@ -499,6 +502,7 @@
                 "Front-End: React",
                 "Back-End:ASP.Net Core, SQL Microsoft Server"
             ],
+            "originalP":"Original project: ",
             "credit": "https://giv.trade/"            
         },
         {
@@ -512,6 +516,7 @@
                 "Front-End: React Native",
                 "Back-end: ASP.Net Core and SQL Microsoft Server"
             ],
+            "originalP":"Original project: ",
             "credit": "https://www.thevolunteercircle.com/"
         },
         {
@@ -538,6 +543,7 @@
                 "Front-End: React",
                 "Back-End: Django and MySQL "
             ],
+            "originalP":"Original project: ",
             "credit": "https://signals.bear2bull.trade/"
         },
         {
@@ -552,12 +558,26 @@
                 "Back-End: Laravel and SQL server ",
                 "Web payments integration with Authorize.Net API"
             ],
+            "originalP":"Original project: ",
             "credit": "https://staging.karya.global/"
+        },
+        {"id": "9",
+            "title": "Global Shapers",
+            "imageUrl": "../../assets/images/GlobalShapers.png",
+            "type": "Website",
+            "paragraph":"Global Shapers Beirut Hub is a network of active individuals committed to making a positive impact in their city. We are entrepreneurs, we are scientists, we are engineers, we are artists, we are consultants and more. Our different backgrounds allow us to reach out to the different communities of our society and act as the catalyst for a collaborative outcome. We work towards fostering creativity, innovation and entrepreneurship by developing projects and working collectively to achieve them. We aspire to improve Beirut by focusing on individual and communal potentials and creating a positive image for the youth. ",
+            "technologieused":"Technology Used: ",
+            "responsibility": [
+                "Front-End: React Native",
+                "Back-End: Asp.Net Core and Microsoft SQL Server"
+            ],
+            "originalP":"Original project: ",
+            "credit": "https://global-shapers.netlify.app/ "
         }
     ],
     "TechMobSol" : [
         {
-            "id": "9",
+            "id": "10",
             "title": "Notu",
             "imageUrl": "../../assets/images/Notu.png",
             "type": "Mobile App",
@@ -570,7 +590,7 @@
             "credit": ""
         },
         {
-            "id": "10",
+            "id": "11",
             "title": "DonaLeb",
             "imageUrl": "../../assets/images/DonaLeb.png",
             "type": "Mobile App",
@@ -581,23 +601,11 @@
                 "Back-End: Node JS and MySQL"
             ],
             "credit": ""
-        },
-        {
-            "id": "11",
-            "title": "Dalil Mouzaree",
-            "imageUrl": "../../assets/images/DalilMouzaree.png",
-            "type": "Mobile App",
-            "technologieused":"Technology Used: ",
-            "responsibility": [
-                "Front-End: Dart Programming Language and Flutter Framework",
-                "Back-End: Node JS and MySQL"
-            ],
-            "credit": ""
         }
     ],
     "TechOthSol" : [
         {
-            "id": "15",
+            "id": "13",
             "title": "Karma Tech",
             "imageUrl": "../../assets/images/KarmaTech.jpg",
             "type": "Other Solution",
@@ -610,7 +618,7 @@
             "credit": ""
         },
         {
-            "id": "16",
+            "id": "14",
             "title": "HMS Pro",
             "imageUrl": "../../assets/images/HMSPro.png",
             "type": "Other Solution",
@@ -623,7 +631,7 @@
             "credit": ""
         },
         {
-            "id": "17",
+            "id": "15",
             "title": "Terogy",
             "imageUrl": "../../assets/images/Terogy.png",
             "type": "Other Solution",
@@ -639,7 +647,7 @@
     ],
     "ConsStartup" : [
         {
-            "id": "18",
+            "id": "16",
             "title": "DonaLeb",
             "imageUrl": "../../assets/images/DonaLeb2.png",
             "type": "Startup",
@@ -650,7 +658,7 @@
             "credit": ""
         },
         {
-            "id": "19",
+            "id": "17",
             "title": "Eflow",
             "imageUrl": "../../assets/images/Eflow.png",
             "type": "Startup",
@@ -663,7 +671,7 @@
     ],
     "ConsNGOs" : [
         {
-            "id": "20",
+            "id": "18",
             "title": "IRC",
             "imageUrl": "../../assets/images/.png",
             "type": "NGO",
@@ -674,7 +682,7 @@
             "credit": ""
         },
         {
-            "id": "21",
+            "id": "19",
             "title": "Care International",
             "imageUrl": "../../assets/images/.png",
             "type": "NGO",
@@ -685,7 +693,7 @@
             "credit": ""
         },
         {
-            "id": "22",
+            "id": "20",
             "title": "Expertise France",
             "imageUrl": "../../assets/images/.png",
             "type": "NGO",
@@ -696,7 +704,7 @@
             "credit": ""
         },
         {
-            "id": "23",
+            "id": "21",
             "title": "Save The Children",
             "imageUrl": "../../assets/images/.png",
             "type": "NGO",
@@ -707,7 +715,7 @@
             "credit": ""
         },
         {
-            "id": "24",
+            "id": "22",
             "title": "Omran Foundation",
             "imageUrl": "../../assets/images/.png",
             "type": "NGO",
@@ -718,7 +726,7 @@
             "credit": ""
         },
         {
-            "id": "25",
+            "id": "23",
             "title": "Jafra Foundation",
             "imageUrl": "../../assets/images/.png",
             "type": "NGO",
@@ -729,7 +737,7 @@
             "credit": ""
         },
         {
-            "id": "26",
+            "id": "24",
             "title": "Caritas",
             "imageUrl": "../../assets/images/.png",
             "type": "NGO",
@@ -740,7 +748,7 @@
             "credit": ""
         },
         {
-            "id": "27",
+            "id": "25",
             "title": "Zowada",
             "imageUrl": "../../assets/images/.png",
             "type": "NGO",
@@ -751,7 +759,7 @@
             "credit": ""
         },
         {
-            "id": "28",
+            "id": "26",
             "title": "Akkarouna",
             "imageUrl": "../../assets/images/.png",
             "type": "NGO",
@@ -762,7 +770,7 @@
             "credit": ""
         },
         {
-            "id": "29",
+            "id": "27",
             "title": "Dawaer",
             "imageUrl": "../../assets/images/.png",
             "type": "NGO",

@@ -20,3 +20,12 @@
    
    color: #7ca1ae;
 }
+.SeeMoreHover:hover  .children_button_class {
+   color: white !important;
+
+}
+
+.SeeMoreHover:hover{
+   background-color:  #367588 !important;
+
+}

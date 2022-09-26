@@ -5,7 +5,7 @@ import { useHistory } from 'react-router-dom';
 import Fade from 'react-reveal/Fade';
 
 
-export default function Service({ data, Title,paragraph }) {
+export default function Service({ data, Title,paragraph, className }) {
   const navigate = useHistory()
 
   const toPage = (pagePath) => {
@@ -20,7 +20,7 @@ export default function Service({ data, Title,paragraph }) {
         <div className="container mx-auto pt-20 pb-28">
 
           <Fade bottom>
-            <h1 className="text-5xl text-theme-blue text-center font-bold">{Title}</h1>
+            <h1 className={"text-5xl  text-center font-bold  color" }>{Title}</h1>
 
             <p className="font-light text-lg text-gray-400 text-center mb-12">{paragraph}
             </p>

@@ -11,13 +11,17 @@
   display: flex;
 }
 
+.color{
+  color:#367588;
+}
+
 .hr:before {
   
     content: "";
     display:block ;
     width : 425px;
     height:2px;
-    background: #000;
+    background: #367588;
     position: absolute;
     left: 3%;
     margin-top:2rem;
@@ -29,7 +33,7 @@
   display:block;
   width: 425px;
   height:2px;
-  background: #152C5B;
+  background: #367588;
   position: absolute;
   right: 3%;
   margin-top:-13px;
@@ -57,7 +61,7 @@
 .side-nav-bar {
    background-color: #DEE7EA ;
    width: 300px;
-   height: 117vh;
+   height: 129vh;
    position: relative;
    color: rgb(red, green, blue);
    }

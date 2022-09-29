@@ -17,7 +17,10 @@ import Consultingstartups from './pages/Consultingstartups';
 import TechnologiesWebSol from './pages/TechnologiesWebSol';
 import TechnologiesMobSol from './pages/TechnologiesMobSol';
 import TechnologiesOthSol from './pages/TechnologiesOthSol';
-import ConsultingNGOs from './pages/ConsultingNGOs'
+import ConsultingNGOs from './pages/ConsultingNGOs';
+import Blog from './pages/Blog';
+import Textblog from './parts/Textblog';
+
 function App() {
   return (
     <Switch>
@@ -37,6 +40,8 @@ function App() {
       <Route exact path="/Portfolio/Technologies/WebSolution" component={TechnologiesWebSol} />
       <Route exact path="/Portfolio/Technologies/MobileSolution" component={TechnologiesMobSol} />
       <Route exact path="/Portfolio/Technologies/OtherSolution" component={TechnologiesOthSol} />
+      <Route exact path="/blog" component={Blog} />
+      <Route exact path="/blog/textblog" component={Textblog} />
       <Route path="" component={NotFoundPage} />
     </Switch>
   );

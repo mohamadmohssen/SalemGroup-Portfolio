@@ -1,4 +1,45 @@
-{
+{   "ourblog" : [ {
+            "title": "Strategy & Managment Consulting",
+            "imageUrl": "../assets/images/Consulting2.png",
+            "pagePath":"/project/18"
+             },  
+         {
+    "title": "Strategy & Managment Consulting",
+    "imageUrl": "../assets/images/Consulting2.png",
+    "pagePath":"/project/18"
+             },  
+         {
+    "title": "Strategy & Managment Consulting",
+    "imageUrl": "../assets/images/Consulting2.png",
+    "pagePath":"/portfolio/Consulting"
+        }
+
+        
+],
+  "Cardsblogs" : [
+    {
+        "id": "18",
+        "title": "DonaLeb",
+        "imageUrl": "../../assets/images/DonaLeb2.png",
+        "type": "Startup",
+        "paragraph":"DonaLeb is a fitness & well-being app that makes every step count. With every step logged, money is raised for charities. DonaLeb aims to refocus marketing expenditure for corporates willing to spend their marketing budgets on social media platforms into directing them towards CSR and charitable donations.DonaLeb’s hybrid business model promotes healthy lifestyle and Corporate Social Responsibility all in one application.",
+        "responsibility": [
+            
+        ],
+        "credit": ""
+    },
+    {
+        "id": "19",
+        "title": "Eflow",
+        "imageUrl": "../../assets/images/Eflow.png",
+        "type": "Startup",
+        "paragraph":"Education beyond boundaries eFlow offers a cloud based platform powered by an interactive chatbot that enables learning delivery and management by conserving the human element in distance learning through conversational course format.",
+        "responsibility": [
+            
+        ],
+        "credit": ""
+    }
+],
     "service" : [
         {
             "title": "Strategy & Managment Consulting",
@@ -142,25 +183,25 @@
         {
             "name": "John Tamer",
             "company": "Founder of Tamer freres",
-            "testimoni": "",
+            "testimoni": "The team at Salem Group has consistently delivered outstanding results.",
             "imageUrl": "assets/images/jhonntammer.png"
         },
         {
             "name": "Shahid Abbasi",
             "company": "Founder of Xylexa",
-            "testimoni": "",
+            "testimoni": "I couldn’t be more pleased with the work delivered by Salem Group on this project.",
             "imageUrl": "assets/images/shahid.png"
         },
         {
             "name": "Amine Staali",
             "company": "ProvenMed",
-            "testimoni": "",
+            "testimoni": "Salem Group did a great job and were incredibly flexible with my requirements as they evolved over time.",
             "imageUrl": "assets/images/amine.png"
         },
         {
             "name": "Abed Kaderi",
             "company": "Owner of Shark & Co",
-            "testimoni": "Delivered my requirements in a record breaking time!",
+            "testimoni": "It is a pleasure to work with Salem Group and their talented developers. They deliver high quality work in a very timely manner.",
             "imageUrl": "assets/images/abed.png"
         }
     ],

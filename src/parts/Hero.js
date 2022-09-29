@@ -12,11 +12,8 @@ export default function Hero() {
     <section className="hero">
       <Fade bottom>
         <div className="w-full lg:w-1/2 xl:pl-12 sm:pr-2 mt-8">
-          <h1 className="text-5xl sm:text-6xl text-theme-blue font-bold leading-tight mb-5" style={{color:"#367588"}}>
-            Growing Your Business
-            {' '}
-            <br />
-            Is Our Calling
+          <h1 className="text-5xl sm:text-5xl text-theme-blue font-bold leading-tight mb-5" style={{color:"#367588"}}>
+          WE'RE STRATEGIC <br />  WE'RE CREATIVE <br /> WE'RE SOLUTION-DRIVEN
           </h1>
 
           <p className="font-light text-xl text-gray-400 leading-relaxed mb-16">

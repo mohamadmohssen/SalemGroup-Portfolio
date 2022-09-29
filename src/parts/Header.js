@@ -64,6 +64,8 @@ export default function Header(props) {
               Portfolio
             </Button>
           </li>
+          
+          
 
           <li className="py-2 lg:py-0">
             <a href="/#services">
@@ -73,6 +75,15 @@ export default function Header(props) {
               Services
             </Button>
             </a>
+          </li>
+          <li className="py-2 lg:py-0">
+            <Button
+              className={`${path === '/blog' ? 'active-link' : ''} text-lg px-5 no-underline hover:underline`}
+              type="link"
+              href="/blog"
+            >
+              Blog
+            </Button>
           </li>
 
           <li>
@@ -127,19 +138,29 @@ export default function Header(props) {
             </li>
 
             <li className="py-2 lg:py-0">
+            <a href="/#services">
+          <Button
+              className={`${path === '/services' ? 'active-link' : ''} px-10 no-underline hover:underline`}
+            >
+              Services
+            </Button>
+            </a>
+          </li>
+
+            <li className="py-2 lg:py-0">
             <Button
-                className={`${path === '/project' ? 'active-link' : ''} px-10 no-underline hover:underline`}
+                className={`${path === '/blog' ? 'active-link' : ''} px-10 no-underline hover:underline`}
                 type="link"
-                href="/service"
+                href="/blog"
               >
-                Services
+                Blog
               </Button>
             </li>
           
 
             <li className="mx-auto my-9 bg-white">
               <Button
-                className="mx-auto px-5 py-2 bg-theme-purple text-white rounded-full border-2 border-theme-purple hover:bg-dark-theme-purple border-purple-800 transition duration-200"
+                className=" box mx-auto px-5 py-2 bg-theme-purple text-white rounded-full border-2 border-theme-purple hover:bg-dark-theme-purple border-purple-800 transition duration-200"
                 type="link"
                 href="/discuss-project"
               >

@@ -3,12 +3,14 @@ import React from 'react';
 import Fade from 'react-reveal/Fade';
 
 import Button from 'elements/Button';
+import './header.css';
 
 export default function Portfolio({ data }) {
 
     const toPage = (pagePath) => {
         navigate.push(pagePath)
       }
+    
 
   return (
     <section className="container mx-auto flex flex-col items-center mt-20">
@@ -50,18 +52,21 @@ export default function Portfolio({ data }) {
                 }
       </div>
 
-      <Fade bottom>
-        <Button href="/project" type="link" className="flex flex-grow-0 w-36 h-12 sm:w-40 sm:h-14 lg:w-44 lg:h-16 xl:w-36 xl:h-12 text-theme-purple px-5 border border-theme-purple items-center mt-14 rounded-full justify-center transition duration-300 hover:bg-theme-purple hover:text-white">
-          <p className="font-normal py-3 lg:text-lg xl:text-base">
+      <Fade bottom >
+        <a href="/project"  target={"_self"}>
+        <Button  children_class="children_button_class" type="button" className="flex flex-grow-0 w-36 h-12 sm:w-40 sm:h-14 lg:w-44 lg:h-16 xl:w-36 xl:h-12 text-theme-purple px-5 border border-theme-purple items-center mt-14 rounded-full justify-center transition duration-300 hover:bg-theme-purple hover:text-white SeeMoreHover" style={{color:"#367588",borderColor:"#367588"}}>
+          
+          <p className="font-normal py-3 lg:text-lg xl:text-base" >
             See More
           </p>
+          
           <svg className="w-4 h-4" xmlns="http:www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
           </svg>
           <svg className="w-4 h-4 -ml-2" xmlns="http:www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
           </svg>
-        </Button>
+        </Button></a>
       </Fade>
     </section>
   );

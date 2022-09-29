@@ -21,6 +21,7 @@ import ConsultingNGOs from './pages/ConsultingNGOs';
 import Blog from './pages/Blog';
 import Textblog from './parts/Textblog';
 
+import ConsultingFirm from './pages/ConsultingFirm'
 function App() {
   return (
     <Switch>
@@ -37,6 +38,7 @@ function App() {
       <Route exact path="/Portfolio/Technologies" component={Portfoliotechnologie} />
       <Route exact path="/Portfolio/Consulting/Startups" component={Consultingstartups} />
       <Route exact path="/Portfolio/Consulting/NGO's" component={ConsultingNGOs} />
+      <Route exact path="/Portfolio/Consulting/Firm" component={ConsultingFirm} />
       <Route exact path="/Portfolio/Technologies/WebSolution" component={TechnologiesWebSol} />
       <Route exact path="/Portfolio/Technologies/MobileSolution" component={TechnologiesMobSol} />
       <Route exact path="/Portfolio/Technologies/OtherSolution" component={TechnologiesOthSol} />

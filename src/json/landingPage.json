@@ -458,20 +458,21 @@
     ],
     "portfolioconsulting": [
         {
-            "title": "Stratups",
+            "title": "Startups",
             "imageUrl": "../assets/images/Startups2.png",
             "pagePath":"/Portfolio/Consulting/Startups"
             
         },
         {
-            "title": "NGO's",
+            "title": "NGOs",
             "imageUrl": "../assets/images/NGOs2.png",
             "pagePath":"/Portfolio/Consulting/NGO's"
                  
         },
         {
             "title": "Firms",
-            "imageUrl": "../assets/images/Firms2.png"
+            "imageUrl": "../assets/images/Firms2.png",
+            "pagePath":"/Portfolio/Consulting/Firm"
              
         }
     ],
@@ -513,7 +514,7 @@
     ],
     "TechWebSol" : [
         {
-            "id": "1",
+            "id": "OODA",
             "title": "OODA",
             "imageUrl": "../../assets/images/OODA.jpg",
             "type": "Website",
@@ -525,10 +526,11 @@
                 "Web payments integration with: Authorize.Net API"
 
             ],
+            "originalP":"Link: ",
             "credit": "https://ooda.online/"
         },
         {
-            "id": "2",
+            "id": "Aequitas",
             "title": "Aequitas",
             "imageUrl": "../../assets/images/Aequitas.jpg",
             "type": "Website",
@@ -539,10 +541,11 @@
                 "Back-End: Node Js, SQL server database"
 
             ],
+            "originalP":"Link: ",
             "credit": "https://aequitas-lb.com/"
         },
         {
-            "id": "3",
+            "id": "Nitchd",
             "title": "Nitchd",
             "imageUrl": "../../assets/images/Nitchd.png",
             "type": "Website",
@@ -552,10 +555,11 @@
                 "Front-End: React Native, HTML and CSS",
                 "Back-End: Node Js, mySQL server and Json"
             ],
+            "originalP":"Link: ",
             "credit": "https://nitchd.com/"
         },
         {
-            "id": "4",
+            "id": "GivTrade",
             "title": "Giv Trade",
             "imageUrl": "../../assets/images/GivTrade.png",
             "type": "Website",
@@ -565,10 +569,11 @@
                 "Front-End: React",
                 "Back-End:ASP.Net Core, SQL Microsoft Server"
             ],
+            "originalP":"Link: ",
             "credit": "https://giv.trade/"            
         },
         {
-            "id": "5",
+            "id": "VolunteerCircle",
             "title": "The Volunteer Circle",
             "imageUrl": "../../assets/images/VolunteerCircle.png",
             "type": "Website",
@@ -578,10 +583,11 @@
                 "Front-End: React Native",
                 "Back-end: ASP.Net Core and SQL Microsoft Server"
             ],
+            "originalP":"Link: ",
             "credit": "https://www.thevolunteercircle.com/"
         },
         {
-            "id": "6",
+            "id": "FreelanceExpress",
             "title": "Freelance Express",
             "imageUrl": "../../assets/images/FreelanceExpress.png",
             "type": "Website",
@@ -594,7 +600,7 @@
             "credit": ""
         },
         {
-            "id": "7",
+            "id": "Signals",
             "title": "Signals",
             "imageUrl": "../../assets/images/Signals.png",
             "type": "Website",
@@ -604,10 +610,11 @@
                 "Front-End: React",
                 "Back-End: Django and MySQL "
             ],
+            "originalP":"Link: ",
             "credit": "https://signals.bear2bull.trade/"
         },
         {
-            "id": "8",
+            "id": "Karya",
             "title": "Karya",
             "imageUrl": "../../assets/images/Karya.png",
             "type": "Website",
@@ -618,12 +625,26 @@
                 "Back-End: Laravel and SQL server ",
                 "Web payments integration with Authorize.Net API"
             ],
+            "originalP":"Link: ",
             "credit": "https://staging.karya.global/"
+        },
+        {"id": "GlobalShapers",
+            "title": "Global Shapers",
+            "imageUrl": "../../assets/images/GlobalShapers.png",
+            "type": "Website",
+            "paragraph":"Global Shapers Beirut Hub is a network of active individuals committed to making a positive impact in their city. We are entrepreneurs, we are scientists, we are engineers, we are artists, we are consultants and more. Our different backgrounds allow us to reach out to the different communities of our society and act as the catalyst for a collaborative outcome. We work towards fostering creativity, innovation and entrepreneurship by developing projects and working collectively to achieve them. We aspire to improve Beirut by focusing on individual and communal potentials and creating a positive image for the youth. ",
+            "technologieused":"Technology Used: ",
+            "responsibility": [
+                "Front-End: React Native",
+                "Back-End: Asp.Net Core and Microsoft SQL Server"
+            ],
+            "originalP":"Link: ",
+            "credit": "https://global-shapers.netlify.app/ "
         }
     ],
     "TechMobSol" : [
         {
-            "id": "9",
+            "id": "Notu",
             "title": "Notu",
             "imageUrl": "../../assets/images/Notu.png",
             "type": "Mobile App",
@@ -636,23 +657,11 @@
             "credit": ""
         },
         {
-            "id": "10",
+            "id": "DonaLeb",
             "title": "DonaLeb",
-            "imageUrl": "../../assets/images/DonaLeb.png",
+            "imageUrl": "../../assets/images/DonaLeb1.png",
             "type": "Mobile App",
             "paragraph":"DonaLeb is a well-being and fitness app that makes every step count. With every step logged, money is raised for charities connected with the app. Their sponsors receive unrivaled mobile engagement and social amplification with our community of active, healthy, and socially conscious audiences. Move with purpose today and raise money for charity.",
-            "technologieused":"Technology Used: ",
-            "responsibility": [
-                "Front-End: Dart Programming Language and Flutter Framework",
-                "Back-End: Node JS and MySQL"
-            ],
-            "credit": ""
-        },
-        {
-            "id": "11",
-            "title": "Dalil Mouzaree",
-            "imageUrl": "../../assets/images/DalilMouzaree.png",
-            "type": "Mobile App",
             "technologieused":"Technology Used: ",
             "responsibility": [
                 "Front-End: Dart Programming Language and Flutter Framework",
@@ -663,7 +672,7 @@
     ],
     "TechOthSol" : [
         {
-            "id": "15",
+            "id": "KarmaTech",
             "title": "Karma Tech",
             "imageUrl": "../../assets/images/KarmaTech.jpg",
             "type": "Other Solution",
@@ -676,7 +685,7 @@
             "credit": ""
         },
         {
-            "id": "16",
+            "id": "HMSPro",
             "title": "HMS Pro",
             "imageUrl": "../../assets/images/HMSPro.png",
             "type": "Other Solution",
@@ -689,7 +698,7 @@
             "credit": ""
         },
         {
-            "id": "17",
+            "id": "Terogy",
             "title": "Terogy",
             "imageUrl": "../../assets/images/Terogy.png",
             "type": "Other Solution",
@@ -705,9 +714,9 @@
     ],
     "ConsStartup" : [
         {
-            "id": "18",
+            "id": "DonaLeb1",
             "title": "DonaLeb",
-            "imageUrl": "../../assets/images/DonaLeb2.png",
+            "imageUrl": "../../assets/images/DonaLeb.png",
             "type": "Startup",
             "paragraph":"DonaLeb is a fitness & well-being app that makes every step count. With every step logged, money is raised for charities. DonaLeb aims to refocus marketing expenditure for corporates willing to spend their marketing budgets on social media platforms into directing them towards CSR and charitable donations.DonaLeb’s hybrid business model promotes healthy lifestyle and Corporate Social Responsibility all in one application.",
             "responsibility": [
@@ -716,7 +725,7 @@
             "credit": ""
         },
         {
-            "id": "19",
+            "id": "Eflow",
             "title": "Eflow",
             "imageUrl": "../../assets/images/Eflow.png",
             "type": "Startup",
@@ -725,13 +734,24 @@
                 
             ],
             "credit": ""
-        }
+        },
+        {
+        "id": "TheVolunteerCircle",
+        "title": "The Volunteer Circle",
+        "imageUrl": "../../assets/images/TheVolunteerCircle.png",
+        "type": "NGO",
+        "paragraph":"",
+        "responsibility": [
+            
+        ],
+        "credit": ""
+    }
     ],
     "ConsNGOs" : [
         {
-            "id": "20",
+            "id": "IRC",
             "title": "IRC",
-            "imageUrl": "../../assets/images/.png",
+            "imageUrl": "../../assets/images/IRC.png",
             "type": "NGO",
             "paragraph":"The International Rescue Committee responds to the world’s most tragic humanitarian crises and helps people whose lives and livelihoods are shattered by conflicts and disasters to survive, recover, and gain control of their future.            The IRC’s mission is to provide emergency aid and other support to refugees living in unsafe conditions. The IRC also assists vulnerable communities that host refugees.",
             "responsibility": [
@@ -740,9 +760,9 @@
             "credit": ""
         },
         {
-            "id": "21",
+            "id": "CareInternational",
             "title": "Care International",
-            "imageUrl": "../../assets/images/.png",
+            "imageUrl": "../../assets/images/Care.png",
             "type": "NGO",
             "paragraph":"CARE is a global leader within a worldwide movement dedicated to ending poverty. They are known everywhere for our unshakeable commitment to the dignity of people.They seek a world of hope, inclusion, and social justice, where poverty has been overcome and all people live with dignity and security. They focus on putting women and girls in the center because they know that they cannot overcome poverty until all people have equal rights and opportunities.",
             "responsibility": [
@@ -751,9 +771,9 @@
             "credit": ""
         },
         {
-            "id": "22",
+            "id": "ExpertiseFrance",
             "title": "Expertise France",
-            "imageUrl": "../../assets/images/.png",
+            "imageUrl": "../../assets/images/ExpertiseFrance.png",
             "type": "NGO",
             "paragraph":"Expertise France is a French public agency created on 1st January 2015 after the merger of  5  public agencies under the tutelage of the French Ministries of Foreign Affairs and Economy and Finance with a strong inter- ministerial vocation. EF offers project engineering and technical assistance by developing and implementing international cooperation actions worldwide. EF operates in various fields of development and institutional cooperation including safety and security reform, post-crisis/ stability, public health, human rights, strengthening of institutions and NGOs and governance.",
             "responsibility": [
@@ -762,9 +782,9 @@
             "credit": ""
         },
         {
-            "id": "23",
+            "id": "SaveTheChildren",
             "title": "Save The Children",
-            "imageUrl": "../../assets/images/.png",
+            "imageUrl": "../../assets/images/SaveTheChildren.png",
             "type": "NGO",
             "paragraph":"Save the Children supports families to meet their basic needs, including adequate shelter, and facilitates market driven livelihoods opportunities for youth and caregivers. Save the Children empowers civil society in Lebanon in times of peace and conflict to respond to the needs of all children.",
             "responsibility": [
@@ -773,9 +793,9 @@
             "credit": ""
         },
         {
-            "id": "24",
+            "id": "OmranFoundation",
             "title": "Omran Foundation",
-            "imageUrl": "../../assets/images/.png",
+            "imageUrl": "../../assets/images/OmranFoundation.png",
             "type": "NGO",
             "paragraph":"Omran contributes to the establishment of a renaissance society, and works to lead the nation towards leadership and global competition, by investing in valued cultural heritage, and the optimal use of the tools of the age in planning, management, leadership and institutionalization.",
             "responsibility": [
@@ -784,9 +804,9 @@
             "credit": ""
         },
         {
-            "id": "25",
+            "id": "JafraFoundation",
             "title": "Jafra Foundation",
-            "imageUrl": "../../assets/images/.png",
+            "imageUrl": "../../assets/images/JafraFoundation.png",
             "type": "NGO",
             "paragraph":"Jafra Foundation is a Palestinian youth organization working on a participatory approach to promote resilience in the Palestinian society in all its places of existence, starting with the role of the youth to assume their responsibilities towards their community and its just causes. In its work, the Foundation relies on humanitarian standards to carry out its activities with integrity, effectiveness, and consistency. Jafra acts as a key strategic partner for several recognized international NGOs implementing humanitarian relief and development projects in Syria and Lebanon;",
             "responsibility": [
@@ -795,9 +815,9 @@
             "credit": ""
         },
         {
-            "id": "26",
+            "id": "Caritas",
             "title": "Caritas",
-            "imageUrl": "../../assets/images/.png",
+            "imageUrl": "../../assets/images/Caritas.png",
             "type": "NGO",
             "paragraph":"CARITAS provides economic development, livelihoods, health and social care, education, service to foreign refugees, emergency and crisis intervention, environmental supervision and protection of the needy. CARITAS Lebanon is striving for a developed, sustainable, and environmentally inclusive world. Where people live a peaceful life, in harmony and solidarity between generations. ",
             "responsibility": [
@@ -806,9 +826,9 @@
             "credit": ""
         },
         {
-            "id": "27",
+            "id": "Zowada",
             "title": "Zowada",
-            "imageUrl": "../../assets/images/.png",
+            "imageUrl": "../../assets/images/Zowada.png",
             "type": "NGO",
             "paragraph":"Zowada emerged from the fruitful cooperation between ILO (International labor organization) and The LEE Experience, which has been implemented in 8 countries with the aim of improving the opportunities of host communities and forcibly displaced individuals with the support of the government of the Netherlands. Therefore, Zowada mobile app was launched as a digital accelerator and incubator, the first of its kind in the world at the level of integrated business incubators in the development of a strategic vision of an incubator and targeted to a world fit for all of us.",
             "responsibility": [
@@ -817,9 +837,9 @@
             "credit": ""
         },
         {
-            "id": "28",
+            "id": "Akkarouna",
             "title": "Akkarouna",
-            "imageUrl": "../../assets/images/.png",
+            "imageUrl": "../../assets/images/Akkarouna.png",
             "type": "NGO",
             "paragraph":"Akkarouna is a local non-profit NGO that is managing 3 office in the Northern Region of Lebanon, Namely in Akkar, Tripoli and Baddawi. Its aim is to achieve sustainable socio-economic growth through youth, women and children empowerment by building their capacities, enhancing community networks, implementing development projects and spreading awareness about rights and citizenship under 5 pillars: Shelter, Protection, Social Stability, Livelihood and Governance.",
             "responsibility": [
@@ -828,11 +848,69 @@
             "credit": ""
         },
         {
-            "id": "29",
+            "id": "Dawaer",
             "title": "Dawaer",
-            "imageUrl": "../../assets/images/.png",
+            "imageUrl": "../../assets/images/Dawaer.png",
             "type": "NGO",
             "paragraph":"Dawaer foundation is a non-governmental, not for profit, non- partisan organization established in 2015, works with educational institutions, families and communities to enhance child and youth rights and freedom of expression and protect youth from violence. Dawaer also collaborates with decision makers to lobby for laws that enhance youth and human rights.",
+            "responsibility": [
+                
+            ],
+            "credit": ""
+        },
+        {
+            "id": "ReneMoawadFoundation",
+            "title": "Rene Moawad Foundation",
+            "imageUrl": "../../assets/images/ReneMoawadFoundation.png",
+            "type": "NGO",
+            "paragraph":"Dawaer foundation is a non-governmental, not for profit, non- partisan organization established in 2015, works with educational institutions, families and communities to enhance child and youth rights and freedom of expression and protect youth from violence. Dawaer also collaborates with decision makers to lobby for laws that enhance youth and human rights.",
+            "responsibility": [
+                
+            ],
+            "credit": ""
+        },
+        {
+            "id": "Acted",
+            "title": "Acted",
+            "imageUrl": "../../assets/images/Acted.png",
+            "type": "NGO",
+            "paragraph":"",
+            "responsibility": [
+                
+            ],
+            "credit": ""
+        },
+        {
+            "id": "Basmeh&Zeitooneh",
+            "title": "Basmeh & Zeitooneh",
+            "imageUrl": "../../assets/images/Basmeh&Zeitooneh.png",
+            "type": "NGO",
+            "paragraph":"",
+            "responsibility": [
+                
+            ],
+            "credit": ""
+        }
+        
+    ],
+    "ConsFirm" : [
+        {
+            "id": "Xylexa",
+            "title": "Xylexa",
+            "imageUrl": "../../assets/images/Xylexa.png",
+            "type": "Firm",
+            "paragraph":"",
+            "responsibility": [
+                
+            ],
+            "credit": ""
+        },
+        {
+            "id": "ProvenMed",
+            "title": "Proven Med",
+            "imageUrl": "../../assets/images/ProvenMed.png",
+            "type": "Firm",
+            "paragraph":"",
             "responsibility": [
                 
             ],

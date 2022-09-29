@@ -20,7 +20,8 @@ export default class ProjectDetailPage extends Component {
 
     if(detailData.length == 0) detailData= Data.TechOthSol.filter((item) => item.id === `${this.props.match.params.id}`)
     if(detailData.length == 0) detailData= Data.ConsStartup.filter((item) => item.id === `${this.props.match.params.id}`)
-    if(detailData.length == 0) detailData= Data.ConsNGOs.filter((item) => item.id === `${this.props.match.params.id}`);
+    if(detailData.length == 0) detailData= Data.ConsNGOs.filter((item) => item.id === `${this.props.match.params.id}`)
+    if(detailData.length == 0) detailData= Data.ConsFirm.filter((item) => item.id === `${this.props.match.params.id}`);
 
     
     return (

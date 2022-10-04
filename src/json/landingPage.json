@@ -1,45 +1,120 @@
-{   "ourblog" : [ {
+{ 
+    "ourblog" :
+     [ {
             "title": "Strategy & Managment Consulting",
             "imageUrl": "../assets/images/Consulting2.png",
-            "pagePath":"/project/18"
+            "pagePath":"/blog/textblog/0"
              },  
          {
     "title": "Strategy & Managment Consulting",
     "imageUrl": "../assets/images/Consulting2.png",
-    "pagePath":"/project/18"
+    "pagePath":"/blog/textblog/1"
+
              },  
          {
     "title": "Strategy & Managment Consulting",
     "imageUrl": "../assets/images/Consulting2.png",
-    "pagePath":"/portfolio/Consulting"
+    "pagePath":"/blog/textblog/2"
+
         }
 
         
-],
+        ],
   "Cardsblogs" : [
     {
-        "id": "18",
-        "title": "DonaLeb",
-        "imageUrl": "../../assets/images/DonaLeb2.png",
-        "type": "Startup",
-        "paragraph":"DonaLeb is a fitness & well-being app that makes every step count. With every step logged, money is raised for charities. DonaLeb aims to refocus marketing expenditure for corporates willing to spend their marketing budgets on social media platforms into directing them towards CSR and charitable donations.DonaLeb’s hybrid business model promotes healthy lifestyle and Corporate Social Responsibility all in one application.",
+        "id": "0",
+        "title": "Benefits of Hybrid Work in the Company",
+        "imageUrl": "../../assets/images/Web.png",
+        "type": "30/9/22",
+        "writter":" Farah Barakat",
+        "title1":"What is hybrid work?",
+        "title2":"What are the benefits of hybrid work?",
+        "subtitle":"1- Saves a lot of time and money commuting ",
+        "subtitle2":"2- Gives more freedom and productivity ",
+        "subtitle3":"3- Reduction in operation costs ",
+        "subtitle4":"4- Increase in hiring talents from various locations ",
+        "subtitle5":"5- Improving the balance between work and life ",
+        "subtitle6":"6- Improving creativity  ",
+        "subtitle7":"7- Increasing work efficiency  ",
+        "subtitle8":"8- Safer in the times of pandemics and compromised individuals   ",
+        "paragraph":"Hybrid work is a mixture of online and office work environments. The ratio can vary according to the company, it can be 2 days remote, and 3 days on-site in most cases.",
+        "paragraph1":"During the pandemic, the work shifted entirely to online work to reduce the spread of covid. Later, there was an introduction of a more hybrid workplace by dividing it between remote work, and on-site. ",
+        "paragraph2":"The shift in hybrid work started before the pandemic, however, the pandemic increased its pace. In that sense, hybrid work became more famous and was adopted by more companies worldwide. " ,
+        "paragraph3":"Hybrid work can work for some companies more than others. It depends on the company and the services it provides. The hybrid workplace can hold many benefits for both the employee and the company.",
+        "paragraph4":"According to the Haven life analysis of the U.S Census Bureau American Community Survey, the commute time has increased from 45 minutes roundtrip in the 1990s, to over 52 minutes in 2017. The time of commuting is still on the rise, as years pass by. Most Lebanese on average spend between one to two hours commuting due to the traffic. ",
+        "paragraph5":"Hybrid working would cut down time spent on the road, thus saving time, with 2 days of remote working, 2 to 4 hours would be reduced per week, this adds up to 8 to 16 hours a month. ",
+        "paragraph6":"Not only time would be cut, but less money will also be saved which is spent on taxis or gas. This saves gas money for the employee and saves the company the cost needed to get to the physical office. ",
+        "paragraph7":"Hybrid work allows more freedom and flexibility in work. Reducing the stress that comes with getting ready and commuting, will save more time for work. This increases the employee’s productivity at work, and comfortability with working at home. This makes them happier with the less stress they will feel. The less stress the employee feel, the more productive they can be. Making them accomplish more work with the freedom of picking their own work time. ",
+        "paragraph8":"Companies that adopt hybrid work will reduce the supplies they need; this means fewer offices and fewer desks. It also cuts down bills from electricity and renting or buying a physical building to conduct work. This will save money for the company and help further improve and develop some other aspects that are needed in the company. ",
+        "paragraph9":"Companies that fully function on-site would have to pick candidates that are within a range closest to the work’s physical place. This would decrease the chances of more talented and competent workers joining the company.",
+        "paragraph10":"Adapting a hybrid solution would increase candidates’ chances to be selected from various locations, this increases the hiring of those who are more fitting for the work.",
+        "paragraph11":"The hybrid work model gives employees a chance to balance their life and work. Employees can assign time where they can work and fit them into important appointments. Doctors,’ and dentists’ appointments can fit into their days better when hybrid work is implemented. Rather than going on the weekend for an appointment, it can be fit on a Tuesday morning, as work is pushed afternoon. ",
+        "paragraph12":"It can also help widen the circle by allowing more flexibility in carrying out chores and duties parents need to do. Some would include driving to school or spending more time with their kids. ",
+        "paragraph13":"Sitting in the same office 5 days a week for 8 hours would be boring and limiting. Having a change in scenery while working at various locations of the employee’s choosing would increase their creativity. Innovative ideas and concepts might come to the surface. It also carries the advantage of working while traveling or being stuck in horrible weather. ",
+        "paragraph14":"With hybrid work, more flexibility comes hand in hand. Tasks would be accomplished faster and more efficiently without constricting employees in one place. ",
+        "paragraph15":"Some workplaces are buys, loud and busy. This type of workplace can be somehow stressful to some employees. By limiting the stressful environment and changing it, employees would feel more at ease and more productive.  ",
+        "paragraph16":"Hybrid working allows less physical contact between individuals rather than fully on-site ones. If someone has a compromised health condition that will put them at a greater risk of having several complications if someone has covid at work for example, this model allows them to work remotely as an option.",
+        "paragraph17":"This means employees who also are still recovering from covid can continue working, and the company would not stop its operations and tasks due to staff shortage. The benefit goes both ways for the company and employees.",
+        
         "responsibility": [
             
         ],
         "credit": ""
     },
     {
-        "id": "19",
+        "id": "1",
+        "title": "Which is better progress or perfection in the company?",
+        "imageUrl": "../../assets/images/Web.png",
+        "type": "30/9/22",
+        "writter":" Farah Barakat",
+        "title1":"",
+        "title2":"What is the difference between progress and perfection?",
+        "subtitle":"",
+        "subtitle2":"Perfection ruins lives ",
+        "subtitle3":" ",
+        "subtitle4":"Progress over perfection  ",
+        "subtitle5":"Progress or Perfection in financial modeling ",
+        "subtitle6":"Set boundaries and priorities  ",
+        "subtitle7":"  ",
+        "subtitle8":" ",
+        "paragraph":"Progress is more important than perfection in the company. While progress gets goals achieved, and gets work done, perfection on the other hand does not. Perfectionists tend to perfect their work which would put them in a loop of procrastinating the work. It also makes them have unrealistic expectations and constant fear of not producing products that are good enough.  ",
+        "paragraph1":"Perfectionists would struggle to accomplish tasks at a fast rate, which is a crucial aspect of today’s fast-paced world. The constant pressure perfectionists would put themselves under affects their sense of self-worth. So, what is the difference between progress and perfection? ",
+        "paragraph2":"" ,
+        "paragraph3":"",
+        "paragraph4":"",
+        "paragraph5":"Progress in development and improvement; is moving forward towards a certain goal or destination. During the progression process, mistakes are made and a person adopting a progressive way of thinking can learn from their mistakes. This type of mindset if adapted constantly would lead to growth and continuous learning. An example of progress would be focusing on the bigger picture, as well as what works at the time. ",
+        "paragraph6":" ",
+        "paragraph7":"While perfection is different, as it halts growth and the learning process altogether. Perfectionism in working puts so many barriers before the person when tackling a certain task. In the back of a perfectionist’s mind, there is a set of criteria and expectations that they believe should be achieved no matter what happens. Thus, not meeting such expectations would lead to disappointment in the work they do, thus affecting their self-confidence and doubting their abilities.  ",
+        "paragraph8":"Perfectionists tie their worth to the quality and the outcome they produce. They are more likely to procrastinate working on a project because they are afraid to fail. Such a mentality would hinder the pace at which they work slowing them immensely. It also stops them from learning and growing. It is a limited mindset that fosters unachievable goals and leads to work unfulfillment. An example of how perfection work looks like would be setting goals that need to be achieved perfectly. As work goes by, it looks good, but the work is not living up to the perfect expectations you have set. This leads to stress, failure, and procrastinating.  ",
+        "paragraph9":"Progress is much more valued and applicable than perfectionism in the workspace. Companies work in terms of growth, goals, and practicality. Perfectionism does not blend with it as much. As discussed previously, perfectionists procrastinate so they take longer to achieve a task or a project, while a company needs deadline adherence. ",
+        "paragraph10":"Progress comes hand in hand with the way companies run. It fosters growth as people learn constantly and develop plans for some of their shortcomings. Progress celebrates small achievements, not only big achievements, as it will encourage people to push forward. The very basic purpose of progress is forward movement. The focus is always to tackle the project or task as people go by, and by this, the fear of failing is let go for such fear would push backward. ",
+        "paragraph11":"Financial modeling requires estimates of budgets for projects in a few years. Adapting a perfectionist approach to the financial model is an impossible task. The model can never reach unrealistic expectations, and you will spend more time and not achieve the goal you set. While with progress, adapting a financial model and following it up frequently would reveal the strengths and weaknesses in your model. Based on that, improvements can be made, and you learn from some of the mistakes you did. ",
+        "paragraph12":"",
+        "paragraph13":"Setting up healthy boundaries as you work, by assigning time limits for projects. It might translate to a certain number of projects per month and stick to the boundary you put.  ",
+        "paragraph14":"Setting priorities is also a crucial point to be considered. For example, the company has priorities for projects to be done that covers the budget and human resources. Perfectionism in terms of priorities would exceed the budgets and cause workers burnout.  ",
+        "paragraph15":"  ",
+        "paragraph16":"    ",
+        "paragraph17":"    ",
+
+        
+        "responsibility": [
+            
+        ],
+        "credit": ""
+    },
+    {
+        "id": "2",
         "title": "Eflow",
-        "imageUrl": "../../assets/images/Eflow.png",
+        "imageUrl": "../../assets/images/Web.png",
         "type": "Startup",
-        "paragraph":"Education beyond boundaries eFlow offers a cloud based platform powered by an interactive chatbot that enables learning delivery and management by conserving the human element in distance learning through conversational course format.",
+        "paragraph":"3",
+       
         "responsibility": [
             
         ],
         "credit": ""
     }
-],
+        ],
     "service" : [
         {
             "title": "Strategy & Managment Consulting",

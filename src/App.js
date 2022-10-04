@@ -20,7 +20,7 @@ import TechnologiesOthSol from './pages/TechnologiesOthSol';
 import ConsultingNGOs from './pages/ConsultingNGOs';
 import Blog from './pages/Blog';
 import Textblog from './parts/Textblog';
-
+import BlogDetails from "./pages/BlogDetailPage"
 import ConsultingFirm from './pages/ConsultingFirm'
 function App() {
   return (
@@ -43,7 +43,7 @@ function App() {
       <Route exact path="/Portfolio/Technologies/MobileSolution" component={TechnologiesMobSol} />
       <Route exact path="/Portfolio/Technologies/OtherSolution" component={TechnologiesOthSol} />
       <Route exact path="/blog" component={Blog} />
-      <Route exact path="/blog/textblog" component={Textblog} />
+      <Route exact path="/blog/textblog/:id" component={BlogDetails} />
       <Route path="" component={NotFoundPage} />
     </Switch>
   );

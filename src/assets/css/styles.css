@@ -7,6 +7,9 @@
   height: 20px;
   
 }
+.padding-blog-p {
+  padding:1%;
+}
 .sidebar-list{
   display: flex;
 }

@@ -526,6 +526,7 @@
                 "Web payments integration with: Authorize.Net API"
 
             ],
+            "pagePath":"/Portfolio/Technologies/WebSolution",
             "originalP":"Link: ",
             "credit": "https://ooda.online/"
         },
@@ -541,6 +542,7 @@
                 "Back-End: Node Js, SQL server database"
 
             ],
+            "pagePath":"/Portfolio/Technologies/WebSolution",
             "originalP":"Link: ",
             "credit": "https://aequitas-lb.com/"
         },
@@ -555,6 +557,7 @@
                 "Front-End: React Native, HTML and CSS",
                 "Back-End: Node Js, mySQL server and Json"
             ],
+            "pagePath":"/Portfolio/Technologies/WebSolution",
             "originalP":"Link: ",
             "credit": "https://nitchd.com/"
         },
@@ -569,6 +572,7 @@
                 "Front-End: React",
                 "Back-End:ASP.Net Core, SQL Microsoft Server"
             ],
+            "pagePath":"/Portfolio/Technologies/WebSolution",
             "originalP":"Link: ",
             "credit": "https://giv.trade/"            
         },
@@ -583,6 +587,7 @@
                 "Front-End: React Native",
                 "Back-end: ASP.Net Core and SQL Microsoft Server"
             ],
+            "pagePath":"/Portfolio/Technologies/WebSolution",
             "originalP":"Link: ",
             "credit": "https://www.thevolunteercircle.com/"
         },
@@ -597,6 +602,7 @@
                 "Front-End: React",
                 "Back-End: MVC and .Net"
             ],
+            "pagePath":"/Portfolio/Technologies/WebSolution",
             "credit": ""
         },
         {
@@ -610,6 +616,7 @@
                 "Front-End: React",
                 "Back-End: Django and MySQL "
             ],
+            "pagePath":"/Portfolio/Technologies/WebSolution",
             "originalP":"Link: ",
             "credit": "https://signals.bear2bull.trade/"
         },
@@ -625,6 +632,7 @@
                 "Back-End: Laravel and SQL server ",
                 "Web payments integration with Authorize.Net API"
             ],
+            "pagePath":"/Portfolio/Technologies/WebSolution",
             "originalP":"Link: ",
             "credit": "https://staging.karya.global/"
         },
@@ -638,6 +646,7 @@
                 "Front-End: React Native",
                 "Back-End: Asp.Net Core and Microsoft SQL Server"
             ],
+            "pagePath":"/Portfolio/Technologies/WebSolution",
             "originalP":"Link: ",
             "credit": "https://global-shapers.netlify.app/ "
         }
@@ -654,6 +663,7 @@
                 "Front-End: Dart Programming Language and Flutter Framework",
                 "Back-End: Node JS and MySQL"
             ],
+            "pagePath":"/Portfolio/Technologies/MobileSolution",
             "credit": ""
         },
         {
@@ -667,6 +677,7 @@
                 "Front-End: Dart Programming Language and Flutter Framework",
                 "Back-End: Node JS and MySQL"
             ],
+            "pagePath":"/Portfolio/Technologies/MobileSolution",
             "credit": ""
         }
     ],
@@ -682,6 +693,7 @@
                 "Front-End: Angular Js and PHP",
                 "Back-End: Node js, SQL server database and API integration"
             ],
+            "pagePath":"/Portfolio/Technologies/OtherSolution",
             "credit": ""
         },
         {
@@ -695,6 +707,7 @@
                 "Front-End: React",
                 "Back-end: ASP.Net Core, Microsoft SQL and MVC"
             ],
+            "pagePath":"/Portfolio/Technologies/OtherSolution",
             "credit": ""
         },
         {
@@ -708,6 +721,7 @@
                 "Front-End: React",
                 "Back-end: ASP.Net Core, Microsoft SQL and MVC"
             ],
+            "pagePath":"/Portfolio/Technologies/OtherSolution",
             "credit": ""
         }
        
@@ -717,33 +731,36 @@
             "id": "DonaLeb1",
             "title": "DonaLeb",
             "imageUrl": "../../assets/images/DonaLeb.png",
-            "type": "Startup",
-            "paragraph":"DonaLeb is a fitness & well-being app that makes every step count. With every step logged, money is raised for charities. DonaLeb aims to refocus marketing expenditure for corporates willing to spend their marketing budgets on social media platforms into directing them towards CSR and charitable donations.DonaLeb’s hybrid business model promotes healthy lifestyle and Corporate Social Responsibility all in one application.",
+            "type": "Business Development and Fundraising Consultancy",
+            "paragraph":"Donaleb is a new innovative startup introducing a new business model aiming to combine CSR activity with a healthy lifestyle promotion through a donation feature to NGOs. Salem Group helped DonaLeb develop and define the business model, allocate suitable partnerships and sponsorships and coached them on investor pitching and pitch decks. We also shared potential customers databases following our market research to efficiently target brands and corporations ",
             "responsibility": [
                 
             ],
+            "pagePath":"/Portfolio/Consulting/Startups",
             "credit": ""
         },
         {
             "id": "Eflow",
             "title": "Eflow",
             "imageUrl": "../../assets/images/Eflow.png",
-            "type": "Startup",
-            "paragraph":"Education beyond boundaries eFlow offers a cloud based platform powered by an interactive chatbot that enables learning delivery and management by conserving the human element in distance learning through conversational course format.",
+            "type": "Business Development Consultancy",
+            "paragraph":"eFlow offers a cloud based platform powered by an interactive chatbot that enables learning delivery and management by conserving the human element in distance learning through conversational course format. Salem Group provided eFlow with a fresh marketing plan, including benchmarking and competitor analysis across all of their platforms and client-facing methods.Salem Group created new strategies and procedures to follow in order to address and prevent any dangers that eFlow might encounter by recognizing the flaws in the earlier procedures and processes.",
             "responsibility": [
                 
             ],
+            "pagePath":"/Portfolio/Consulting/Startups",
             "credit": ""
         },
         {
         "id": "TheVolunteerCircle",
         "title": "The Volunteer Circle",
         "imageUrl": "../../assets/images/TheVolunteerCircle.png",
-        "type": "NGO",
-        "paragraph":"",
+        "type": "Business planning,designing and implementing services",
+        "paragraph":"Salem Group helped TVC with the creation of a strategic business plan, providing them with further expansion plans by conducting a detailed market research and a competitor analysis that helped us formulate clear KPIs and value propositions to support our plan with data-driven goals.Following an internal audit and a study of their current internal structure, we helped them draft their new Operational structure.",
         "responsibility": [
             
         ],
+        "pagePath":"/Portfolio/Consulting/Startups",
         "credit": ""
     }
     ],
@@ -752,143 +769,180 @@
             "id": "IRC",
             "title": "IRC",
             "imageUrl": "../../assets/images/IRC.png",
-            "type": "NGO",
-            "paragraph":"The International Rescue Committee responds to the world’s most tragic humanitarian crises and helps people whose lives and livelihoods are shattered by conflicts and disasters to survive, recover, and gain control of their future.            The IRC’s mission is to provide emergency aid and other support to refugees living in unsafe conditions. The IRC also assists vulnerable communities that host refugees.",
+            "type": "Microenterprise Support and Business Development",
+            "paragraph":"With the help of Salem Group, MSMEs and local vendors are now able to determine the challenges they face in expanding their business. The aim of this project was to assist MSME’s in optimizing their performance in terms of sales and marketing, pricing and cost analysis, supplier negotiations and risk management. The curriculum also discussed various topics that would help MSMEs in improving their bookkeeping practices marketing activities and risk mitigation strategies.",
             "responsibility": [
                 
             ],
+            "pagePath":"/Portfolio/Consulting/NGO's",
             "credit": ""
         },
         {
             "id": "CareInternational",
             "title": "Care International",
             "imageUrl": "../../assets/images/Care.png",
-            "type": "NGO",
-            "paragraph":"CARE is a global leader within a worldwide movement dedicated to ending poverty. They are known everywhere for our unshakeable commitment to the dignity of people.They seek a world of hope, inclusion, and social justice, where poverty has been overcome and all people live with dignity and security. They focus on putting women and girls in the center because they know that they cannot overcome poverty until all people have equal rights and opportunities.",
+            "type": "Impact and Sustainability Analysis for MSME’s support Programs in North Lebanon",
+            "paragraph":"Care is an international leader fighting to end poverty worldwide. Salem Group was chosen by Care International and NAWAT Consortium to conduct an assessment to grasp a better understanding of different strategies that were followed previously in order to provide sharpened support programs targeting MSMEs and startups. In order to develop a comprehensive report which serves as a guideline for similar projects to be implemented in the future, Salem Group built a team of economic consultants, data analysts, area coordinators and surveyors to work on this report.",
             "responsibility": [
                 
             ],
+            "pagePath":"/Portfolio/Consulting/NGO's",
             "credit": ""
         },
         {
             "id": "ExpertiseFrance",
             "title": "Expertise France",
             "imageUrl": "../../assets/images/ExpertiseFrance.png",
-            "type": "NGO",
-            "paragraph":"Expertise France is a French public agency created on 1st January 2015 after the merger of  5  public agencies under the tutelage of the French Ministries of Foreign Affairs and Economy and Finance with a strong inter- ministerial vocation. EF offers project engineering and technical assistance by developing and implementing international cooperation actions worldwide. EF operates in various fields of development and institutional cooperation including safety and security reform, post-crisis/ stability, public health, human rights, strengthening of institutions and NGOs and governance.",
+            "type": "Economic Development Consultancy",
+            "paragraph":"Expertise France is a French public agency specialized in offering project engineering and technical assistance by developing and implementing international cooperation actions worldwide. Salem Group developed a training manual for MSMEs and conducted training-of-trainers on business management in times of crisis. We reviewed and compiled information on business management in times of crisis and covered the key themes in this area with a particular focus on MSMEs operating in Lebanon. ",
             "responsibility": [
                 
             ],
+            "pagePath":"/Portfolio/Consulting/NGO's",
             "credit": ""
         },
         {
             "id": "SaveTheChildren",
             "title": "Save The Children",
             "imageUrl": "../../assets/images/SaveTheChildren.png",
-            "type": "NGO",
-            "paragraph":"Save the Children supports families to meet their basic needs, including adequate shelter, and facilitates market driven livelihoods opportunities for youth and caregivers. Save the Children empowers civil society in Lebanon in times of peace and conflict to respond to the needs of all children.",
+            "type": "Business Development Services",
+            "paragraph":"Save the Children is an INGO that tackles families’ basic needs such as adequate shelter. It also aids market driven livelihoods opportunities for youth and caregivers and empowers civil society particularly children. Salem Group was in charge of conducting numerous training sessions tackling Crisis Management and Digital Marketing in addition to assisting participants with their questions about implementing solutions in their day-to-day operations.",
             "responsibility": [
                 
             ],
+            "pagePath":"/Portfolio/Consulting/NGO's",
             "credit": ""
         },
         {
             "id": "OmranFoundation",
             "title": "Omran Foundation",
             "imageUrl": "../../assets/images/OmranFoundation.png",
-            "type": "NGO",
-            "paragraph":"Omran contributes to the establishment of a renaissance society, and works to lead the nation towards leadership and global competition, by investing in valued cultural heritage, and the optimal use of the tools of the age in planning, management, leadership and institutionalization.",
+            "type": "Lebanese Implementing Incubator Partner and Mentor Hub",
+            "paragraph":"Omran is a foundation that seeks to invest in valued cultural heritage as well as perfecting the use of tools in the age of planning, management, leadership and institutionalization. We at Salem Group as incubators developed the soft skills training program as well as the mentoring program which included introductory concepts on developing a startup and developing an MVP. We also hosted webinar sessions to introduce interested startups on the concept and scope of the program.",
             "responsibility": [
                 
             ],
+            "pagePath":"/Portfolio/Consulting/NGO's",
             "credit": ""
         },
         {
             "id": "JafraFoundation",
             "title": "Jafra Foundation",
             "imageUrl": "../../assets/images/JafraFoundation.png",
-            "type": "NGO",
-            "paragraph":"Jafra Foundation is a Palestinian youth organization working on a participatory approach to promote resilience in the Palestinian society in all its places of existence, starting with the role of the youth to assume their responsibilities towards their community and its just causes. In its work, the Foundation relies on humanitarian standards to carry out its activities with integrity, effectiveness, and consistency. Jafra acts as a key strategic partner for several recognized international NGOs implementing humanitarian relief and development projects in Syria and Lebanon;",
+            "type": "Design and Implemented MSME’s and Startups Support Program",
+            "paragraph":"Jafra Foundation is a Palestinian youth organization working on a participatory approach to promote resilience in the Palestinian society in all its places of existence. Jafra acts as a key strategic partner for several recognized international NGOs implementing humanitarian relief and development projects in Syria and Lebanon. As part of supporting MSMEs, Salem Group helped in project implementation through developing a grading matrix that was used as a metric during applications screening and interviews. At the end of the project, we made sure to deliver recommendations and key points before moving to the next cycle which helped us deliver a more efficient project implementation and minimize key performance gaps.",
             "responsibility": [
                 
             ],
+            "pagePath":"/Portfolio/Consulting/NGO's",
             "credit": ""
         },
         {
             "id": "Caritas",
             "title": "Caritas",
             "imageUrl": "../../assets/images/Caritas.png",
-            "type": "NGO",
-            "paragraph":"CARITAS provides economic development, livelihoods, health and social care, education, service to foreign refugees, emergency and crisis intervention, environmental supervision and protection of the needy. CARITAS Lebanon is striving for a developed, sustainable, and environmentally inclusive world. Where people live a peaceful life, in harmony and solidarity between generations. ",
+            "type": "Business Support Program Design and Delivery",
+            "paragraph":"CARITAS provides economic development, livelihoods, health and social care, education, service to foreign refugees, emergency and crisis intervention, environmental supervision and protection of the needy. Salem Group designed a curriculum that included business essential topics such as Accounting, Marketing, HR, Management Key Terms, Importance of handmade products, creativity sessions, market identifications, SWOT analysis, and Brand development.",
             "responsibility": [
                 
             ],
+            "pagePath":"/Portfolio/Consulting/NGO's",
             "credit": ""
         },
         {
             "id": "Zowada",
             "title": "Zowada",
             "imageUrl": "../../assets/images/Zowada.png",
-            "type": "NGO",
-            "paragraph":"Zowada emerged from the fruitful cooperation between ILO (International labor organization) and The LEE Experience, which has been implemented in 8 countries with the aim of improving the opportunities of host communities and forcibly displaced individuals with the support of the government of the Netherlands. Therefore, Zowada mobile app was launched as a digital accelerator and incubator, the first of its kind in the world at the level of integrated business incubators in the development of a strategic vision of an incubator and targeted to a world fit for all of us.",
+            "type": "Business planning,designing and implementing partner",
+            "paragraph":"Zowada is a mobile app that was launched as a digital accelerator and incubator, the first of its kind in the world at the level of integrated business incubators in the development of a strategic vision of an incubator. Salem Group provided business development consultancy on project feasibility, forecasting revenue projections, and developing a clear business model for the five components separately. We also conducted detailed market research and a competitor analysis that helped us formulate clear KPIs and value propositions.",
             "responsibility": [
                 
             ],
+            "pagePath":"/Portfolio/Consulting/NGO's",
+            "credit": ""
+        },
+        {
+            "id": "Basmeh&Zeitooneh1",
+            "title": "Basmeh & Zeitooneh",
+            "imageUrl": "../../assets/images/Basmeh&Zeitooneh.png",
+            "type": "Mapping Services, Market Research, Market Linkages, Programme Development and Implementation",
+            "paragraph":"After implementing a 9 month sewing workshop and training by Basmeh and Zeintooneh’s experts at their center located in the Nabaa area, Salem Group was approached to develop an end of project grant that would support participating women in creating a new income stream that can sustain their household expenses.",
+            "responsibility": [
+                
+            ],
+            "pagePath":"/Portfolio/Consulting/NGO's",
             "credit": ""
         },
         {
             "id": "Akkarouna",
             "title": "Akkarouna",
             "imageUrl": "../../assets/images/Akkarouna.png",
-            "type": "NGO",
-            "paragraph":"Akkarouna is a local non-profit NGO that is managing 3 office in the Northern Region of Lebanon, Namely in Akkar, Tripoli and Baddawi. Its aim is to achieve sustainable socio-economic growth through youth, women and children empowerment by building their capacities, enhancing community networks, implementing development projects and spreading awareness about rights and citizenship under 5 pillars: Shelter, Protection, Social Stability, Livelihood and Governance.",
+            "type": "Business Coaching and Digital Marketing Planning",
+            "paragraph":"Akkarouna is a local non-profit NGO that is managing 3 offices in the Northern Region of Lebanon, namely in Akkar, Tripoli and Baddawi. Salem Group provided general insight into MSME’s market plans, which were designed to promote their goods and services by working directly with each participant to create a digital marketing plan through the following steps: reviewing businesses digital capabilities, setting SMART objectives to grow their online leads and directing their online or offline sales, defining digital marketing methods, defining and allocating resources needed for effective digital marketing.",
             "responsibility": [
                 
             ],
+            "pagePath":"/Portfolio/Consulting/NGO's",
             "credit": ""
         },
         {
             "id": "Dawaer",
             "title": "Dawaer",
             "imageUrl": "../../assets/images/Dawaer.png",
-            "type": "NGO",
-            "paragraph":"Dawaer foundation is a non-governmental, not for profit, non- partisan organization established in 2015, works with educational institutions, families and communities to enhance child and youth rights and freedom of expression and protect youth from violence. Dawaer also collaborates with decision makers to lobby for laws that enhance youth and human rights.",
+            "type": "Business Development to “Our Stories” Platform",
+            "paragraph":"Dawaer foundation is a non-governmental,not for profit, non-partisan organization that works with educational institutions, families and communities to enhance child and youth rights and freedom of expression and protect youth from violence. To optimize their strategies on media outlets, they contacted Salem Group. Salem Group planned, developed and oversaw the overall business strategy. We also monetized the Online Media Platform of Our Stories in order to generate income and cover operational costs, planned the platform’s financial success, determined key business development KPIs, and communicated with potential and existing clients.",
             "responsibility": [
                 
             ],
+            "pagePath":"/Portfolio/Consulting/NGO's",
+            "credit": ""
+        },
+        {
+            "id": "Basmeh&Zeitooneh2",
+            "title": "Basmeh & Zeitooneh",
+            "imageUrl": "../../assets/images/Basmeh&Zeitooneh.png",
+            "type": "Sewing Market Assessment for NABAA office.",
+            "paragraph":"Basmeh and Zeitooneh contacted Salem Group to cater for their needs of expert in business coaching, marketing & market linkage, to assist small businesses in developing their business plans, monitoring their progress while adjusting the business plans if required through conducting field visits to the Basmeh and Zeitooneh centers and providing them with frequent updates, mentorship, and coaching of the owners.Our team suggested a list of measures that focused on reducing business risks and assisting the owners to overcome the financial difficulties that emerged from the economic crisis in Lebanon.",
+            "responsibility": [
+                
+            ],
+            "pagePath":"/Portfolio/Consulting/NGO's",
             "credit": ""
         },
         {
             "id": "ReneMoawadFoundation",
             "title": "Rene Moawad Foundation",
             "imageUrl": "../../assets/images/ReneMoawadFoundation.png",
-            "type": "NGO",
-            "paragraph":"Dawaer foundation is a non-governmental, not for profit, non- partisan organization established in 2015, works with educational institutions, families and communities to enhance child and youth rights and freedom of expression and protect youth from violence. Dawaer also collaborates with decision makers to lobby for laws that enhance youth and human rights.",
+            "type": "Business Development Services",
+            "paragraph":"RMF is implementing a project in Tripoli that aims at enhancing the wood processing sector and generating sustainable income for carpenters through the Minjara platform at the Rachid Karame International Fair. Salem Group conducted a preliminary study on the data and information shared by RMF, advised on the current operational and sales operations for Minjara while highlighting key elements of change and optimization, conducted cost control strategy (salaries, equipment, raw material, operational costs), performed headcount and necessary expenditure on Human Resources, given the long term plan for sustainability, formulated financial forecasting for 24 months on minimum income / sales needed to ensure Minjara continues to operate past January 2023.",
             "responsibility": [
                 
             ],
+            "pagePath":"/Portfolio/Consulting/NGO's",
             "credit": ""
         },
         {
             "id": "Acted",
             "title": "Acted",
             "imageUrl": "../../assets/images/Acted.png",
-            "type": "NGO",
-            "paragraph":"",
+            "type": "Menstrual Hygiene Manufacturing Activities",
+            "paragraph":"Acted aimed to tackle the ongoing issue of period poverty and menstrual hygiene with the help of the UN Women funding. It chose Roof and Roots to establish a manufacturing facility for the production of menstrual products. Salem Group coached Roof And Roots on key business strategies, Organizational Management, Financial Manager,Operations and Management, Sales and Marketing, and mentoring.",
             "responsibility": [
                 
             ],
+            "pagePath":"/Portfolio/Consulting/NGO's",
             "credit": ""
         },
         {
-            "id": "Basmeh&Zeitooneh",
+            "id": "Basmeh&Zeitooneh3",
             "title": "Basmeh & Zeitooneh",
             "imageUrl": "../../assets/images/Basmeh&Zeitooneh.png",
-            "type": "NGO",
-            "paragraph":"",
+            "type": "Fostering Refugee Leadership Program",
+            "paragraph":"Through the Fostering Refugee Leadership Program, the refugee community in Lebanon will have more agency in their lives, to have a say and be able to influence the solutions that suit them. It all starts with them identifying the problems and their roots, their needs, the obstacles, and then decide on the best solutions for their community.Salem Group was responsible for the technical and organizational structural support that included mapping of the refugee lead initiatives, the development of a capacity assessment tool and a delivery of a final report with the key findings and recommendations.",
             "responsibility": [
                 
             ],
+            "pagePath":"/Portfolio/Consulting/NGO's",
             "credit": ""
         }
         
@@ -898,22 +952,24 @@
             "id": "Xylexa",
             "title": "Xylexa",
             "imageUrl": "../../assets/images/Xylexa.png",
-            "type": "Firm",
-            "paragraph":"",
+            "type": "Business Development and Fundraising Consultancy",
+            "paragraph":"Xylexa was looking to expand their clinical trials and services into the MENA region and working on securing deals with investors and clients. Salem Group worked on the business development part with Xylexa’s team as we conducted strong SEO and SEM that helps target potential clinics and hospitals in addition to working on the pricing models introduced according to the countries they want to expand to.",
             "responsibility": [
                 
             ],
+            "pagePath":"/Portfolio/Consulting/Firm",
             "credit": ""
         },
         {
             "id": "ProvenMed",
             "title": "Proven Med",
             "imageUrl": "../../assets/images/ProvenMed.png",
-            "type": "Firm",
-            "paragraph":"",
+            "type": "Business Development and Fundraising Consultancy",
+            "paragraph":"Proven Med was guided along its path by Salem Group, in participating in every webinar and exhibition they entered after receiving feedback, making a professional pitch comparison, and suggesting necessary improvements.They were also introduced to a number of investors helping them expand into new markets.",
             "responsibility": [
                 
             ],
+            "pagePath":"/Portfolio/Consulting/Firm",
             "credit": ""
         }
     ]

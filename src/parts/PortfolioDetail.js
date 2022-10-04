@@ -2,17 +2,32 @@
 /* eslint-disable react/jsx-filename-extension */
 /* eslint-disable react/prop-types */
 import React from 'react';
+import { useHistory } from 'react-router-dom';
 import { useEffect } from 'react';
 import Fade from 'react-reveal/Fade';
-
+import { useState } from 'react';
 import NotFound from 'assets/images/NotFound.png';
-
+import './drop.css';
 import Button from 'elements/Button';
 
 import jsonFile from  "../json/landingPage.json"
 import { useParams } from 'react-router-dom';
 export default function PortfolioDetail({ data }) {
+  
+  const [isHovering, setIsHovering] = useState(false);
 
+  const handleMouseEnter = () => {
+    setIsHovering(true);
+  };
+
+  const handleMouseLeave = () => {
+    setIsHovering(false);
+  };
+
+  const navigate = useHistory()
+  const toPage = (pagePath) => {
+    navigate.push(pagePath)
+  }
   
   if (data === null) {
     return (
@@ -38,15 +53,14 @@ export default function PortfolioDetail({ data }) {
 
   return (
     <section className="container mx-auto">
-      
+     { data.map((item) =>(
       <Fade bottom>
-        <Button type="link" href="/project" className="flex w-40 h-8 text-lg items-center ml-6 sm:ml-20 mt-8 font-light text-gray-400 hover:underline">
-          <svg className="w-5 h-5 text-gray-400 mr-1" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M15 19l-7-7 7-7" />
-          </svg>
-          See All Project
-        </Button>
+        
+        <p onClick={() => toPage(item.pagePath)} id="GoBackBtn" className="flex w-40 h-8 text-lg items-center ml-6 sm:ml-20 mt-8 font-light text-gray-400 hover:underline" onMouseEnter={handleMouseEnter} onMouseLeave={handleMouseLeave}>
+          Go Back
+        </p>
       </Fade>
+      ))}
 
       {
                 data.map((item) => (

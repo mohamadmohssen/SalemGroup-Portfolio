@@ -100,6 +100,10 @@ section {
   display:flex;
 }
 
+.preline{
+  white-space: pre-line;
+}
+
 @media (min-width: 1024px) {
   .header {
     @apply container w-full flex-row py-3 px-5 mt-1  mx-auto items-center content-center border-b border-gray-100;

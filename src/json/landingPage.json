@@ -515,19 +515,19 @@
         {   
             "title": "Strategy & Managment Consulting",
             "imageUrl": "../assets/images/Consulting2.png",
-            "pagePath":"/portfolio/Consulting"
+            "pagePath":"/Portfolio/Consulting"
                
         },
         {
             "title": "Marketing and Digital Presence Division",
             "imageUrl": "../assets/images/Marketing2.png",
-            "pagePath": "/portfolio/Marketing"
+            "pagePath": "/Portfolio/Marketing"
                  
         },
         {
             "title": "Information Technology & Development",
             "imageUrl": "../assets/images/Technologies2.png",
-            "pagePath":"/portfolio/Technologies"
+            "pagePath":"/Portfolio/Technologies"
              
         }
     ],
@@ -553,19 +553,14 @@
     ],
     "portfoliomarketing": [
         {
-            "title": "Content Creation",
-            "imageUrl": "../assets/images/ContentCreation5.png"
-               
-        },
-        {
-            "title": "Social Media Management",
-            "imageUrl": "../assets/images/SocialMediaManagment5.png"
-                 
-        },
-        {
             "title": "Digital Marketing",
-            "imageUrl": "../assets/images/DigitalMarketing.png"
-             
+            "imageUrl": "../assets/images/ContentCreation5.png",
+            "pagePath":"/portfolio/Marketing/DiagitalMarketing"   
+        },
+        {
+            "title": "Branding",
+            "imageUrl": "../assets/images/SocialMediaManagment5.png",
+            "pagePath":"/portfolio/Marketing/Branding"         
         }
     ],
     "portfoliotechnologie": [
@@ -1045,6 +1040,32 @@
                 
             ],
             "pagePath":"/Portfolio/Consulting/Firm",
+            "credit": ""
+        }
+    ],
+    "MrktBranding" : [
+        {
+            "id": "Xylexa",
+            "title": "Xylexa",
+            "imageUrl": "../../assets/images/Xylexa.png",
+            "type": "Business Development and Fundraising Consultancy",
+            "paragraph":"Xylexa was looking to expand their clinical trials and services into the MENA region and working on securing deals with investors and clients. Salem Group worked on the business development part with Xylexa’s team as we conducted strong SEO and SEM that helps target potential clinics and hospitals in addition to working on the pricing models introduced according to the countries they want to expand to.",
+            "responsibility": [
+                
+            ],
+            "pagePath":"/Portfolio/Marketing/Branding",
+            "credit": ""
+        },
+        {
+            "id": "ProvenMed",
+            "title": "Proven Med",
+            "imageUrl": "../../assets/images/ProvenMed.png",
+            "type": "Business Development and Fundraising Consultancy",
+            "paragraph":"Proven Med was guided along its path by Salem Group, in participating in every webinar and exhibition they entered after receiving feedback, making a professional pitch comparison, and suggesting necessary improvements.They were also introduced to a number of investors helping them expand into new markets.",
+            "responsibility": [
+                
+            ],
+            "pagePath":"/portfolio/Marketing/Branding",
             "credit": ""
         }
     ]

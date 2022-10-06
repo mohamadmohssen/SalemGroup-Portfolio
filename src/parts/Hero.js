@@ -20,7 +20,7 @@ export default function Hero() {
           Providing services in a multitude of fields to exponentiate your business
           </p>
 
-          <Button href="/project" type="link" className="flex w-71 h-18 items-center px-14 py-5 text-white text-xl  rounded-lg shadow-2xl  transition duration-200 box" >
+          <Button href="/Portfolio" type="link" className="flex w-71 h-18 items-center px-14 py-5 text-white text-xl  rounded-lg shadow-2xl  transition duration-200 box" >
            
             See Our Work
             <svg className="ml-2 w-7 h-7 text-white animate-bounce-x" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">

@@ -18,22 +18,22 @@ import TechnologiesWebSol from './pages/TechnologiesWebSol';
 import TechnologiesMobSol from './pages/TechnologiesMobSol';
 import TechnologiesOthSol from './pages/TechnologiesOthSol';
 import ConsultingNGOs from './pages/ConsultingNGOs';
+import MarketingBranding from './pages/MarketingBranding';
 import Blog from './pages/Blog';
 import Textblog from './parts/Textblog';
-import BlogDetails from "./pages/BlogDetailPage"
-import ConsultingFirm from './pages/ConsultingFirm'
+import BlogDetails from "./pages/BlogDetailPage";
+import ConsultingFirm from './pages/ConsultingFirm';
 function App() {
   return (
     <Switch>
       <Route exact path="/" component={LandingPage} />
-      <Route exact path="/project" component={ProjectPage} />
-      <Route exact path="/project/:id" component={ProjectDetailPage} />
+      <Route exact path="/Portfolio" component={ProjectPage} />      
       <Route exact path="/team" component={TeamPage} />
       <Route exact path="/discuss-project" component={DiscussProjectPage} />
       <Route exact path="/services/Consulting" component={Consulting} />
       <Route exact path="/services/Marketing" component={Marketing} />
       <Route exact path="/services/Technologies" component={Technologies} />
-      <Route exact path="/portfolio/Consulting" component={Portfolioconsulting} />
+      <Route exact path="/Portfolio/Consulting" component={Portfolioconsulting} />
       <Route exact path="/Portfolio/Marketing" component={Portfoliomarketing} />
       <Route exact path="/Portfolio/Technologies" component={Portfoliotechnologie} />
       <Route exact path="/Portfolio/Consulting/Startups" component={Consultingstartups} />
@@ -42,7 +42,9 @@ function App() {
       <Route exact path="/Portfolio/Technologies/WebSolution" component={TechnologiesWebSol} />
       <Route exact path="/Portfolio/Technologies/MobileSolution" component={TechnologiesMobSol} />
       <Route exact path="/Portfolio/Technologies/OtherSolution" component={TechnologiesOthSol} />
+      <Route exact path="/portfolio/Marketing/Branding" component={MarketingBranding} />
       <Route exact path="/blog" component={Blog} />
+      <Route exact path="/Portfolio/:id" component={ProjectDetailPage} />
       <Route exact path="/blog/textblog/:id" component={BlogDetails} />
       <Route path="" component={NotFoundPage} />
     </Switch>

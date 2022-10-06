@@ -1,10 +1,12 @@
 import React, { Component } from 'react';
+
 import Header from 'parts/Header';
+import BrandingPart from 'parts/BrandingPart';
 import Footer from 'parts/Footer';
-import PortfolioMarketing from 'parts/PortfolioMarketing';
+
 import Data from 'json/landingPage.json';
 
-export default class ProjectPage extends Component {
+export default class LandingPage extends Component {
   componentDidMount() {
     window.scrollTo(0, 0);
   }
@@ -13,7 +15,7 @@ export default class ProjectPage extends Component {
     return (
       <>
         <Header {...this.props} />
-        <PortfolioMarketing data={Data.portfoliomarketing}/>
+        <BrandingPart data={Data.MrktBranding}/>
         <Footer />
       </>
     );

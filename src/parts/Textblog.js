@@ -24,7 +24,7 @@ export default function Textblog({ data }) {
                Project Not Found
              </h1>
              <div className="flex justify-center">
-               <Button href="/project" type="link" className="flex w-30 h-10 px-5 mt-5 bg-theme-blue text-white items-center rounded transform transition duration-500 hover:bg-gray-900">
+               <Button href="/Portfolio" type="link" className="flex w-30 h-10 px-5 mt-5 bg-theme-blue text-white items-center rounded transform transition duration-500 hover:bg-gray-900">
                  Go Back
                </Button>
              </div>

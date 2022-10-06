@@ -10,6 +10,7 @@ import jsonFile from  "../json/landingPage.json"
 import { useParams } from 'react-router-dom';
 
 export default function Textblog({ data }) {
+  
   const id = useParams().id;
   const item = data[id]
   if (data === null) {
@@ -46,6 +47,7 @@ export default function Textblog({ data }) {
         </Button>
       </Fade>
 
+  
 
 
                   <div className="flex flex-col mt-8 justify-center">
@@ -71,7 +73,7 @@ export default function Textblog({ data }) {
                           
                         </h1>
                         {                       
-                        <p className="font-light text-lg text-gray-400 text-justify padding-blog-p">
+                        <p className="font-light text-lg text-gray-400 text-justify padding-blog-p preline">
                           {item.paragraph}
                         </p>
                         }
@@ -188,11 +190,29 @@ export default function Textblog({ data }) {
                         {item.paragraph17}
                       </p>
 
-
                         }
-                        <h1 className="text-xl text-theme-blue font-bold mb-3">
-                        References: 
-                        </h1>
+                        <p className="text-l text-theme-blue font-bold mb-1" style={{paddingTop:"4%"}}>
+                        References:
+                        </p>
+
+                        <p className="font-light text-lg text-gray-400 text-justify padding-blog-p">
+                        {item.reference}
+                      </p>
+                      <p className="font-light text-lg text-gray-400 text-justify padding-blog-p">
+                        {item.reference1}
+                      </p>
+                      <p className="font-light text-lg text-gray-400 text-justify padding-blog-p">
+                        {item.reference2}
+                      </p>
+                      <p className="font-light text-lg text-gray-400 text-justify padding-blog-p">
+                        {item.reference3}
+                      </p>
+                      <p className="font-light text-lg text-gray-400 text-justify padding-blog-p">
+                        {item.reference4}
+                      </p>
+                      <p className="font-light text-lg text-gray-400 text-justify padding-blog-p">
+                        {item.reference5}
+                      </p>
 
                         
                         

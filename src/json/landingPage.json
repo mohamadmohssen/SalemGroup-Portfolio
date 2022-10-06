@@ -1,22 +1,34 @@
 { 
     "ourblog" :
      [ {
-            "title": "Strategy & Managment Consulting",
-            "imageUrl": "../assets/images/Consulting2.png",
+            "title": "Benefits of Hybrid Work in the Company",
+            "imageUrl": "../assets/images/hybridworkblog.jpg",
             "pagePath":"/blog/textblog/0"
              },  
          {
-    "title": "Strategy & Managment Consulting",
-    "imageUrl": "../assets/images/Consulting2.png",
+    "title": "Which is better progress or perfection in the company?",
+    "imageUrl": "../assets/images/progressblog.jpg",
     "pagePath":"/blog/textblog/1"
 
              },  
          {
-    "title": "Strategy & Managment Consulting",
-    "imageUrl": "../assets/images/Consulting2.png",
+    "title": "Connecting at work: The value of human connection",
+    "imageUrl": "../assets/images/importanceblog.jpg",
     "pagePath":"/blog/textblog/2"
 
-        }
+        },  
+         {
+    "title": "Social Entrepreneurship",
+    "imageUrl": "../assets/images/socialenterblog.jpg",
+    "pagePath":"/blog/textblog/3"
+
+        },  
+        {
+   "title": "Benefits of Steady Marketing",
+   "imageUrl": "../assets/images/benefitsblog.jpg",
+   "pagePath":"/blog/textblog/4"
+
+       }
 
         
         ],
@@ -24,8 +36,14 @@
     {
         "id": "0",
         "title": "Benefits of Hybrid Work in the Company",
-        "imageUrl": "../../assets/images/Web.png",
+        "imageUrl": "../../assets/images/hybridworkblog.jpg",
         "type": "30/9/22",
+        "reference":"Why We Spend Two Hours in Traffic - Beirut Today (Beirut-today.com) ",
+        "reference1":" Advantages of Hybrid Working Model: Benefits of Flexible Schedules (avocor.com)",
+        "reference2":"Benefits and disadvantages of the hybrid work model | Envoy ",
+        "reference3":"Benefits and disadvantages of the hybrid work model | Envoy ",
+        "reference4":"8 Benefits of a Hybrid Workplace | AgilQuest ",
+        "reference5":" Benefits and disadvantages of the hybrid work model | Envoy",
         "writter":" Farah Barakat",
         "title1":"What is hybrid work?",
         "title2":"What are the benefits of hybrid work?",
@@ -64,8 +82,13 @@
     {
         "id": "1",
         "title": "Which is better progress or perfection in the company?",
-        "imageUrl": "../../assets/images/Web.png",
+        "imageUrl": "../../assets/images/progressblog.jpg",
         "type": "30/9/22",
+        "reference":"Progress vs. Perfection (coachcampus.com) ",
+        "reference1":" 5 Ways To Turn Your Mistake Into A Valuable Life Lesson (forbes.com)",
+        "reference2":"Progress vs Perfection | Wellbeing People",
+        "reference3":"In Business, Progress Is Better Than Perfection | YFS Magazine ",
+         
         "writter":" Farah Barakat",
         "title1":"",
         "title2":"What is the difference between progress and perfection?",
@@ -104,10 +127,118 @@
     },
     {
         "id": "2",
-        "title": "Eflow",
-        "imageUrl": "../../assets/images/Web.png",
+        "title": "Connecting at work: The value of human connection",
+        "imageUrl": "../../assets/images/importanceblog.jpg",
         "type": "Startup",
-        "paragraph":"3",
+        "reference":"The Value of Human Connection in the Workplace (alliant.edu) ",
+        "reference1":" Connections at Work: They Matter - The Enlightened Workplace Project - ROI (roico.com)",
+        "writter":" Farah Barakat",
+        "title1":" ",
+        "title2":" ",
+        "subtitle":"How valuable is the human connection at work? ",
+        "subtitle2":"How to maintain relationships at work? ",
+        
+        "paragraph":"The switch in the workplace got more popular when the pandemic first started in 2020. It dictates a need for switching the workforce to a virtual place known as “at home working”. Online working poses so many challenges in terms of understanding, as it increases the risk of misunderstanding. ",
+        "paragraph1":"When we communicate, we give many attributes that aid in delivering a message. These attributes are the tone we use when we talk, the tone can set the type of conversation, as most meetings require a serious tone. Another attribute is the physical cues or body language which aids in the understanding of the message or task. It is easier to include more questions when you are meeting with your coworkers and supervisors face-to-face, rather than forming emails to ask for interpretations.  ",
+        "paragraph2":"Digital communication can cause miscommunication and misunderstandings which can negatively affect the workplace, it would make a toxic workplace arise.  " ,
+        "paragraph3":" ",
+        "paragraph4":"We, as humans, require a human connection in our daily life, as we live and function in a society as it is our way of living. As I discussed before, working face-to-face misunderstandings would be less likely to arise. The nature of the flow of conversation back and forth with questions and inquiries is different from emails which limit it, and delays responses from emails.  ",
+        "paragraph5":"The essence of human connection builds a positive environment. The human connection is crucial to building the basis for trust, teamwork, and thriving within the company for growth seeking. The human connection cannot be replaced by any alternative. It is also beneficial for you to help you solve a problem within your work by reaching out to colleagues who you built a solid connection with over time. Such connection does not occur with online working. Forming a web of connection is the goal, getting to know your colleagues and managers would help you expand your work and perspectives. ",
+        "paragraph6":"Conversations at work can also foster creativity. While conversing with a colleague, you get a new perspective from them. This can foster creativity in the sense that you can find new ways to work on projects differently. Creativity is needed to stand up in a changing world, as new ideas are valued more than ever. Sometimes some digital communication is needed for quick or emergency meetings. Therefore, digital communication should not be abandoned altogether for the sake of pure human face-to-face connection. It should be used to aid and facilitate work when certain circumstances ask for digital communication.  ",
+        "paragraph7":"Maintaining a healthy relationship at work takes time and effort. It can simply build from remembering a birthday, using simple encouragement words, or drinking coffee together.  ",
+        "paragraph8":"- Maintain relationships by asking about your colleagues’ weekends or plans. ",
+        "paragraph9":"- Ask about your colleagues’ feelings and check on them from time to time.",
+        "paragraph10":"- Remember key and distinct information related to your colleagues’ lives.",
+        "paragraph11":"- Invite them over for coffee or sit in a café.",
+        
+       
+        "responsibility": [
+            
+        ],
+        "credit": ""
+    },
+    {
+        "id": "3",
+        "title": "Social Entrepreneurship",
+        "imageUrl": "../../assets/images/socialenterblog.jpg",
+        "type": "30/9/22",
+        "reference":"Social Entrepreneurship: Definition, Types, and Examples - Harappa ",
+       
+        "writter":" Farah Barakat",
+        "title1":" ",
+        "title2":" Benefits of Social Entrepreneurship:",
+        "subtitle":" ",
+        "subtitle2":" ",
+        "subtitle3":" ",
+        "subtitle4":"Characteristics of social entrepreneurs",
+        "subtitle5":" ",
+        "subtitle6":"Types of social entrepreneurship:  ",
+        "subtitle7":"  ",
+        "subtitle8":"  ",
+        "paragraph":"Companies have added a new element to their businesses, which is a social cause. This element has added some new values that companies are adapting. This made the company seek more than profit but seek much further benefit for society. Thus, it contributes and gives back the society either by volunteering or supporting a cause. Social entrepreneurs are changing the world around them. ",
+        "paragraph1":" ",
+        "paragraph2":" " ,
+        "paragraph3":" ",
+        "paragraph4":"- Includes collective efforts that benefit society. ",
+        "paragraph5":"- It aims to produce services that solve a problem. ",
+        "paragraph6":"- Focuses on solutions rather than demands or trends in business. ",
+        "paragraph7":"- The performance is measured based on how much influence it had.",
+        "paragraph8":"- Encourage the intended cause and enhance society. ",
+        "paragraph9":"Social entrepreneur has some traits that characterize them. ",
+        "paragraph10":"● They are leaders who can influence others, and they can regulate their emotions in a way that does not affect their decisions. ",
+        "paragraph11":"● They are multitaskers with a vision focusing on long-term outcomes.  ",
+        "paragraph12":"● Social entrepreneurs are those people who know exactly that they need to tap into other experts who have skills in some aspect and eventually collaborate with them.  ",
+        "paragraph13":"There are mainly four types of social entrepreneurship: ",
+        "paragraph14":"● Community social is focused on immediate change. It adapts causes that can be addressed immediately such as hunger, or planting. It can also include volunteering opportunities. ",
+        "paragraph15":"● Nonprofit social which includes giving back the profit to the cause. When gaining from teaching underprivileged students, the profit made is used to benefit even more underprivileged students.  ",
+        "paragraph16":"● Transformational Social: it is where the business transforms an initial plan issued by the government and is continued by the company. ",
+        "paragraph17":"● Global Social: it is when the scale is much larger socially which puts responsibility above profit. ",
+       
+        "responsibility": [
+            
+        ],
+        "credit": ""
+    },
+    {
+        "id": "4",
+        "title": "Benefits of Steady Marketing",
+        "imageUrl": "../../assets/images/benefitsblog.jpg",
+        "type": "30/9/22",
+        "reference":"7 Benefits of Growth Marketing For Your Company - Relevance ",
+        "reference1":" What Is Marketing? Definition, Benefits, and Strategies (cyberclick.net)",
+        "reference2":" ",
+        "reference3":" ",
+        "reference4":" ",
+        "reference5":" ",
+        "writter":" Farah Barakat",
+        "title1":" ",
+        "title2":"Benefits of Steady Marketing",
+        "subtitle":"1- Establishing the brand name and service ",
+        "subtitle2":"2- Increasing the searchability  ",
+        "subtitle3":"3- Providing more credibility ",
+        "subtitle4":"4- Understanding the targeted customers ",
+        "subtitle5":"5- Interest adding up ",
+        "subtitle6":"6- Gives a briefing  ",
+        "subtitle7":" ",
+        "subtitle8":" ",
+        "paragraph":"Marketing help grows businesses. It is the action that companies take to increase their customer range and scope. Marketing includes promoting a product or a service the company provides, after some extensive market research and advertising. It is needed to achieve growth and the goals set by the company. Social media has been adapted recently as a means for marketing products and services, it allowed an opportunity for start-up businesses to market their products without additional charge. Marketing is seen as ads on TV, ads on highways, and word-of-mouth. Steady marketing is beneficial for the growth of the company and goes hand in hand with the saying “Slow and steady wins the race”.",
+        "paragraph1":"  ",
+        "paragraph2":" " ,
+        "paragraph3":" ",
+        "paragraph4":"Growth marketing is about gradually increasing the brand’s reach. The most important part is to define the brand and the service it provides. Once enough people know the product very well and have already tried it, then the brand can grow more. During this wait time, testing and evaluating the product happens. ",
+        "paragraph5":" ",
+        "paragraph6":" ",
+        "paragraph7":"As the company produces more content, like blog writing, it is more likely to show in search engines. This will increase the company’s exposure through SEO or search engine optimization. Choosing a trendy topic to include in your content also helps top the algorithm. ",
+        "paragraph8":"Many huge companies have websites that are rich in hundreds of blogs and content. This shows how much the company puts effort into its work, and growth, and can relate to the customers the company is targeting. By providing free content, the company is giving back some advice and insight, this increases its credibility and authority. ",
+        "paragraph9":"With steady marketing, you are constantly searching and evolving by providing new ideas to see how people react to them. This brings essential data to see what the target audience needs, and the gaps that are in the industry in some of the products or services.  ",
+        "paragraph10":" ",
+        "paragraph11":"The company that provides more content also creates a more trusting image. When someone looks up a certain topic that is trending, and your company is at the top of the search results, this would familiarize the person with your company. Over time, with constant marketing, more people would trust the company, as it targets customer satisfaction.  ",
+        "paragraph12":" ",
+        "paragraph13":"Content marketing is a constant process over time. This process would help your company a lot. It is beneficial in terms of introduction to your company and its services. It also shows the effort and care you put into your company. Not only does it introduce your company through the website, but it also provides all the answers with a click of a button.   ",
+        "paragraph14":" ",
+        "paragraph15":" ",
+        "paragraph16":" ",
+        "paragraph17":" ",
        
         "responsibility": [
             

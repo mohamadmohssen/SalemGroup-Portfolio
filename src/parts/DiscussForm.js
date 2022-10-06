@@ -27,10 +27,10 @@ export default function DiscussForm(props) {
   const [subject, setSubject] = useState("")
 
   const submitEmail = () => {
-    const { name, company, email, phone, projectIdea } = data;
+    const { name, company, email, phone, projectIdea, subject } = data;
 
     const templateParams = {
-      from_name: `${name} - ${company} ( ${phone} - ${email} )`,
+      from_name: `${name} - ${company} ( ${phone} - ${email}- ${subject} )`,
       to_name: "Racxstudio",
       message: projectIdea,
     };
@@ -40,6 +40,7 @@ export default function DiscussForm(props) {
       company !== "" &&
       email !== "" &&
       phone !== "" &&
+      subject !==""&&
       projectIdea !== ""
     ) {
       emailjs
@@ -81,7 +82,7 @@ export default function DiscussForm(props) {
                     <li className="font-light text-lg text-gray-500 text-center m-12">
                     <p className="discuss_form_a">
                     <span className="sidebar"><FaPhoneAlt  size="3x"/></span>  
-                    <span className="ml-7"> (961) 752 071 </span>
+                    <span className="ml-7"> (961) 71 243 618 </span>
                     </p>
                     </li>
 
@@ -194,7 +195,7 @@ export default function DiscussForm(props) {
                   <Drop subject={subject} setSubject={setSubject}/>
                 </div>
                 {subject === "Other" && <div className="text-area">
-                <input type="text" placeholder="Your Subject"class="p-4 font-light text-lg text-theme-blue rounded border border-gray-400 focus:outline-none focus:ring-1 focus:#367588 " />
+                <input type="text" placeholder="Your Subject" value={data.subject} class="p-4 font-light text-lg text-theme-blue rounded border border-gray-400 focus:outline-none focus:ring-1 focus:#367588 " />
                 </div>}
               </div>
               <div className="mx-auto">

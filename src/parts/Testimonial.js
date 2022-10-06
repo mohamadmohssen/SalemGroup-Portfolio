@@ -14,7 +14,7 @@ export default function Testimonial({ data }) {
         <h1 className="text-5xl text-theme-blue text-center font-bold color">Testimonials</h1>
 
         <p className="font-light text-lg text-gray-400 text-center mb-3 sm:mb-3 xl:mb-4">
-          What they said about us.
+          What they say about us.
         </p>
 
         <Splide

@@ -26,7 +26,7 @@ export default function Portfolio({ data }) {
         {
                     data.map((item, index) => (
                       <Fade bottom delay={500 * index}>
-                        <Button type="link" href={`/Portfolio/Branding/${item.id}`}>
+                        <Button type="link" href={`/Portfolio/DigitalMarketing/${item.id}`}>
                         <div onClick={() => toPage(item.pagePath)}>
                           <div className="group rounded-2xl shadow-xl w-auto w-11/12 m-3 transform transition duration-500 hover:scale-110 portofolio-card">
                             <div className="relative"> 

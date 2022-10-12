@@ -68,12 +68,10 @@ export default function Header(props) {
           
 
           <li className="py-2 lg:py-0">
-            <a href="/#services">
-          <Button
-              className={`${path === '/services' ? 'active-link' : ''} text-lg px-5 no-underline hover:underline`}
-            >
+            <a href="/#services" className={`${path === '/services' ? 'active-link' : ''} text-lg px-5 no-underline hover:underline`}>
+                     
               Services
-            </Button>
+            
             </a>
           </li>
           <li className="py-2 lg:py-0">

@@ -2,30 +2,30 @@
     "ourblog" :
      [ {
             "title": "Benefits of Hybrid Work in the Company",
-            "imageUrl": "../assets/images/hybridworkblog.jpg",
+            "imageUrl": "../assets/images/sg3.jpg",
             "pagePath":"/blog/textblog/0"
              },  
          {
     "title": "Which is better progress or perfection in the company?",
-    "imageUrl": "../assets/images/progressblog.jpg",
+    "imageUrl": "../assets/images/sg4.jpg",
     "pagePath":"/blog/textblog/1"
 
              },  
          {
     "title": "Connecting at work: The value of human connection",
-    "imageUrl": "../assets/images/importanceblog.jpg",
+    "imageUrl": "../assets/images/sg5.jpg",
     "pagePath":"/blog/textblog/2"
 
         },  
          {
     "title": "Social Entrepreneurship",
-    "imageUrl": "../assets/images/socialenterblog.jpg",
+    "imageUrl": "../assets/images/sg2.jpg",
     "pagePath":"/blog/textblog/3"
 
         },  
         {
    "title": "Benefits of Steady Marketing",
-   "imageUrl": "../assets/images/benefitsblog.jpg",
+   "imageUrl": "../assets/images/sg1.jpg",
    "pagePath":"/blog/textblog/4"
 
        }
@@ -425,7 +425,7 @@
         {
             "name": "Ali Abou Melhem",
             "position": "Chief Technology Officer",
-            "imageUrl": "assets/images/am.jpg"
+            "imageUrl": "assets/images/am1.jpg"
         }
     ],
     "team": [
@@ -458,7 +458,7 @@
         {
             "name": "Mohammad Mohsen",
             "position": "",
-            "imageUrl": "assets/images/mohsen1.jpg"
+            "imageUrl": "assets/images/mohsen.jpg"
         },
         {
             "name": "Alex Tachdjian",

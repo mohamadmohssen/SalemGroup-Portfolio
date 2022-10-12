@@ -1,6 +1,6 @@
 /* eslint-disable react/jsx-filename-extension */
 import React from 'react';
-
+import "../assets/css/styles.css"
 import BrandIcon from 'parts/BrandIcon';
 import Button from 'elements/Button';
 
@@ -10,8 +10,8 @@ export default function Footer() {
       <div className="container flex-col mx-auto ">
         <div className="flex flex-col sm:flex-row mt-8 justify-center">
           <div className="w-1/3 flex-col ml-16 mr-8">
-            <BrandIcon />
-            <p className="w-full text-lg text-gray-400 font-light" style={{marginLeft:"19%", fontSize:"13px"}}>
+            <BrandIcon className="responsive-footer" />
+            <p className="responsive-footer w-full text-lg text-gray-400 font-light " style={{marginLeft:"19%", fontSize:"13px"}}>
             WE'RE STRATEGIC <br />
             WE'RE CREATIVE  <br />
             WE'RE SOLUTION-DRIVEN

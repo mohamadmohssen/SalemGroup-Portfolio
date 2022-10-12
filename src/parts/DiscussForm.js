@@ -65,7 +65,7 @@ export default function DiscussForm(props) {
   };
 
   return (
-    <section className="flex flex-col container mx-auto  justify-center">
+    <section className="flex flex-col container mx-auto  justify-center ">
       <Fade bottom>
         <div className="discuss_container">
           <div className="left">
@@ -88,7 +88,7 @@ export default function DiscussForm(props) {
 
 
                     <li className="font-light text-lg text-gray-500 text-center m-12">
-                      <a href="https://www.google.com/maps/place/Salem+Group/@33.8956728,35.4867213,17z/data=!4m5!3m4!1s0x151f17afb9efd533:0x1aa5f682dd3f1b45!8m2!3d33.8956745!4d35.4909154" className="discuss_form_a">
+                      <a href="https://www.google.com/maps/place/Salem+Group/@33.8956728,35.4867213,17z/data=!4m5!3m4!1s0x151f17afb9efd533:0x1aa5f682dd3f1b45!8m2!3d33.8956745!4d35.4909154" className="discuss_form_a responsive-links">
                       <span className="sidebar"><FaMapMarkerAlt size="3x"/></span>  
                      <span className="ml-7">  Location </span>
                       </a>
@@ -104,7 +104,7 @@ export default function DiscussForm(props) {
   </li> */}
                     
                    <li className="font-light text-lg text-gray-500 text-center m-12">
-                   <a href="https://www.linkedin.com/company/salemgroup/" className="discuss_form_a">
+                   <a href="https://www.linkedin.com/company/salemgroup/" className="discuss_form_a responsive-links">
                       <span className="sidebar"><FaLinkedin size="3x"/></span>
                       <span className="ml-7">  Linkedin </span>
                       </a>

@@ -3,7 +3,7 @@ import React from 'react';
 
 import Fade from 'react-reveal/Fade';
 
-import Team from 'assets/images/team.png';
+import Team from 'assets/images/teamF.png';
 
 export default function HeroTeam() {
   return (

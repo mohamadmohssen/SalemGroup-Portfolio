@@ -114,3 +114,35 @@ section {
   }
 }
 
+@media only screen and (max-width: 768px){
+    .discuss_container{
+      flex-direction: column-reverse;
+    }
+    .side-nav-bar {
+      margin-left: 7%;
+      margin-top: 5%;
+      width: 90%;
+      height: 20%;
+      padding-bottom: 1%;
+      padding-top: 1%;
+    }
+    .discuss_form_a{
+      justify-content: center;
+    }
+    .responsive-links{
+      margin-right: 12%;
+    }
+    .drop{
+      margin-left: 21%;
+    }
+    .text-area{
+      margin-top: 16%;
+      margin-right: 28%;
+    }
+    .drop-right{
+     
+    }
+    .responsive-footer{
+      margin-left: 0 !important;
+    }
+}

@@ -194,24 +194,13 @@ export default function Textblog({ data }) {
                         <p className="text-l text-theme-blue font-bold mb-1" style={{paddingTop:"4%"}}>
                         References:
                         </p>
-
-                        <p className="font-light text-lg text-gray-400 text-justify padding-blog-p">
-                        {item.reference}
-                      </p>
-                      <p className="font-light text-lg text-gray-400 text-justify padding-blog-p">
-                        {item.reference1}
-                      </p>
-                      <p className="font-light text-lg text-gray-400 text-justify padding-blog-p">
-                        {item.reference2}
-                      </p>
-                      <p className="font-light text-lg text-gray-400 text-justify padding-blog-p">
-                        {item.reference3}
-                      </p>
-                      <p className="font-light text-lg text-gray-400 text-justify padding-blog-p">
-                        {item.reference4}
-                      </p>
-                      <p className="font-light text-lg text-gray-400 text-justify padding-blog-p">
-                        {item.reference5}
+                      <p  className="font-light text-m text-gray-400 text-justify padding-blog-p">
+                        <Button type="link" href={item.reference} target="_blank" className="" isExternal>{item.reference}</Button></p>
+                        <p className="font-light text-m text-gray-400 text-justify padding-blog-p"><Button type="link" href={item.reference1} target="_blank" className="" isExternal>{item.reference1}</Button></p>
+                        <p className="font-light text-m text-gray-400 text-justify padding-blog-p"><Button type="link" href={item.reference2} target="_blank" className="" isExternal>{item.reference2}</Button></p>
+                        <p className="font-light text-m text-gray-400 text-justify padding-blog-p"><Button type="link" href={item.reference3} target="_blank" className="" isExternal>{item.reference3}</Button></p>
+                        <p className="font-light text-m text-gray-400 text-justify padding-blog-p"><Button type="link" href={item.reference4} target="_blank" className="" isExternal>{item.reference4}</Button></p>
+                        <p className="font-light text-m text-gray-400 text-justify padding-blog-p"><Button type="link" href={item.reference5} target="_blank" className="" isExternal>{item.reference5}</Button>
                       </p>
 
                         
@@ -238,10 +227,9 @@ export default function Textblog({ data }) {
                       Written By: 
                        {item.writter}
                        
-                        
+                       </p> 
                         {' '}
-                        <Button type="link" href={item.credit} target="_blank" className="text-theme-purple" isExternal>{item.credit}</Button>
-                      </p>
+                        
                     </Fade>
                   </div>
                 

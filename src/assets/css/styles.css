@@ -145,4 +145,10 @@ section {
     .responsive-footer{
       margin-left: 0 !important;
     }
+    .hr:before{
+      width: 90px;
+    }
+    .hr:after{
+      width: 90px;
+    }
 }

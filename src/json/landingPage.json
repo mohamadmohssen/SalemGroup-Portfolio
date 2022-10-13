@@ -1176,6 +1176,19 @@
     ],
     "MrktBranding" : [
         {
+            "id": "SalemGroup",
+            "title": "Salem Group",
+            "imageUrl": "../../assets/images/SalemGroup.png",
+            "type": "",
+            "paragraph":"",
+            "logo":"../../assets/images/LogoSalemGroup.png",
+            "responsibility": [
+                
+            ],
+            "pagePath":"/portfolio/Marketing/Branding",
+            "credit": ""
+        },
+        {
             "id": "Sakura",
             "title": "Sakura",
             "imageUrl": "../../assets/images/SAKURA.png",
@@ -1217,12 +1230,13 @@
     ],
     "MrktDigital" : [
         {
-            "id": "Sakur",
-            "title": "Sakura",
+            "id": "Karya1",
+            "title": "Karya",
             "imageUrl": "../../assets/images/KaryaINSTA.png",
+            "imageUrl1": "../../assets/images/KaryaINSTA1.png",
             "type": "",
             "paragraph":"",
-            "logo":"../../assets/images/LogoSakura.png",
+            "logo":"../../assets/images/KaryaLogo.png",
             "responsibility": [
                 
             ],
@@ -1230,12 +1244,13 @@
             "credit": ""
         },
         {
-            "id": "Nea",
-            "title": "Neat",
-            "imageUrl": "../../assets/images/Neat.png",
+            "id": "Nitchd1",
+            "title": "Nitchd",
+            "imageUrl": "../../assets/images/NitchdINSTA.png",
+            "imageUrl1": "../../assets/images/NitchdINSTA1.png",
             "type": "",
             "paragraph":"",
-            "logo":"../../assets/images/LogoNeat.png",
+            "logo":"../../assets/images/NitchdLogo.png",
             "responsibility": [
                 
             ],
@@ -1243,12 +1258,69 @@
             "credit": ""
         },
         {
-            "id": "Kiosh",
-            "title": "Kioshi",
-            "imageUrl": "../../assets/images/Kioshi.png",
+            "id": "DonaLeb2",
+            "title": "DonaLeb",
+            "imageUrl": "../../assets/images/DonaLebINSTA.png",
+            "imageUrl1": "../../assets/images/DonaLebINSTA1.png",
             "type": "",
             "paragraph":"",
-            "logo":"../../assets/images/LogoKioshi.png",
+            "logo":"../../assets/images/DonaLeb.png",
+            "responsibility": [
+                
+            ],
+            "pagePath":"/Portfolio/Marketing/DigitalMarketing",
+            "credit": ""
+        },
+        {
+            "id": "SkinFoodHairFood",
+            "title": "Skin Food Hair Food",
+            "imageUrl": "../../assets/images/SkinFood.png",
+            "imageUrl1": "../../assets/images/SkinFood1.png",
+            "type": "",
+            "paragraph":"",
+            "logo":"../../assets/images/SkinFoodLogo.png",
+            "responsibility": [
+                
+            ],
+            "pagePath":"/Portfolio/Marketing/DigitalMarketing",
+            "credit": ""
+        },
+        {
+            "id": "TheVolunteerCircle1",
+            "title": "The Volunteer Circle",
+            "imageUrl": "../../assets/images/TVC.png",
+            "imageUrl1": "../../assets/images/TVC1.png",
+            "type": "",
+            "paragraph":"",
+            "logo":"../../assets/images/TheVolunteerCircle.png",
+            "responsibility": [
+                
+            ],
+            "pagePath":"/Portfolio/Marketing/DigitalMarketing",
+            "credit": ""
+        },
+        {
+            "id": "Hoops",
+            "title": "Hoops",
+            "imageUrl": "../../assets/images/Hoops.png",
+            "imageUrl1": "../../assets/images/Hoops1.png",
+            "type": "",
+            "paragraph":"",
+            "logo":"../../assets/images/HoopsLogo.png",
+            "responsibility": [
+                
+            ],
+            "pagePath":"/Portfolio/Marketing/DigitalMarketing",
+            "credit": ""
+        },
+        {
+            "id": "Eflow1",
+            "title": "Eflow",
+            "imageUrl": "../../assets/images/EflowINSTA.png",
+            "imageUrl1": "../../assets/images/EflowINSTA1.png",
+            "type": "",
+            "paragraph":"",
+            "logo":"../../assets/images/Eflow.png",
             "responsibility": [
                 
             ],

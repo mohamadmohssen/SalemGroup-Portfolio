@@ -10,7 +10,7 @@ const Sidenavbar  = () => {
                 <img src="icons/" alt="" />
                 <h2>showkart</h2>
             </div>
-            <button className="hamburger">
+            <button className="">
                 <span></span>
                 <span></span>
                 <span></span>

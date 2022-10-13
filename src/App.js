@@ -9,6 +9,7 @@ import NotFoundPage from "pages/NotFoundPage";
 import Consulting from './pages/Consulting';
 import Marketing from './pages/Marketing';
 import Technologies from './pages/Technologies';
+import PortfolioBrandingDetail from './pages/PortfolioBrandingDetail';
 import "assets/css/styles.css";
 import Portfolioconsulting from './pages/Portfolioconsulting';
 import Portfoliomarketing from './pages/Portfoliomarketing';
@@ -23,6 +24,8 @@ import Blog from './pages/Blog';
 import Textblog from './parts/Textblog';
 import BlogDetails from "./pages/BlogDetailPage";
 import ConsultingFirm from './pages/ConsultingFirm';
+import MarketingDigital from './pages/MarketingDigital';
+import PortfolioDigitalDetail from './pages/PortfolioDigitalDetail'
 function App() {
   return (
     <Switch>
@@ -43,7 +46,10 @@ function App() {
       <Route exact path="/Portfolio/Technologies/MobileSolution" component={TechnologiesMobSol} />
       <Route exact path="/Portfolio/Technologies/OtherSolution" component={TechnologiesOthSol} />
       <Route exact path="/portfolio/Marketing/Branding" component={MarketingBranding} />
+      <Route exact path="/Portfolio/Marketing/DigitalMarketing" component={MarketingDigital} />
       <Route exact path="/blog" component={Blog} />
+      <Route exact path="/Portfolio/Branding/:id" component={PortfolioBrandingDetail} />
+      <Route exact path="/Portfolio/DigitalMarketing/:id" component={PortfolioDigitalDetail} />
       <Route exact path="/Portfolio/:id" component={ProjectDetailPage} />
       <Route exact path="/blog/textblog/:id" component={BlogDetails} />
       <Route path="" component={NotFoundPage} />

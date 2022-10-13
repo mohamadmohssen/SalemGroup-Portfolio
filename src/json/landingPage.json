@@ -687,7 +687,7 @@
         {
             "title": "Digital Marketing",
             "imageUrl": "../assets/images/ContentCreation5.png",
-            "pagePath":"/portfolio/Marketing/DiagitalMarketing"   
+            "pagePath":"/Portfolio/Marketing/DigitalMarketing"   
         },
         {
             "title": "Branding",
@@ -945,7 +945,7 @@
             "id": "Eflow",
             "title": "Eflow",
             "imageUrl": "../../assets/images/Eflow.png",
-            "type": "Business Development Consultancy",
+            "type": "Business Strategy and Development Consultancy",
             "paragraph":"eFlow offers a cloud based platform powered by an interactive chatbot that enables learning delivery and management by conserving the human element in distance learning through conversational course format. Salem Group provided eFlow with a fresh marketing plan, including benchmarking and competitor analysis across all of their platforms and client-facing methods.Salem Group created new strategies and procedures to follow in order to address and prevent any dangers that eFlow might encounter by recognizing the flaws in the earlier procedures and processes.",
             "responsibility": [
                 
@@ -995,7 +995,7 @@
             "id": "ExpertiseFrance",
             "title": "Expertise France",
             "imageUrl": "../../assets/images/ExpertiseFrance.png",
-            "type": "Economic Development Consultancy",
+            "type": "Economic Sustainability and Development Consultancy",
             "paragraph":"Expertise France is a French public agency specialized in offering project engineering and technical assistance by developing and implementing international cooperation actions worldwide. Salem Group developed a training manual for MSMEs and conducted training-of-trainers on business management in times of crisis. We reviewed and compiled information on business management in times of crisis and covered the key themes in this area with a particular focus on MSMEs operating in Lebanon. ",
             "responsibility": [
                 
@@ -1007,7 +1007,7 @@
             "id": "SaveTheChildren",
             "title": "Save The Children",
             "imageUrl": "../../assets/images/SaveTheChildren.png",
-            "type": "Business Development Services",
+            "type": "Business Strategy and Development Consultancy",
             "paragraph":"Save the Children is an INGO that tackles families’ basic needs such as adequate shelter. It also aids market driven livelihoods opportunities for youth and caregivers and empowers civil society particularly children. Salem Group was in charge of conducting numerous training sessions tackling Crisis Management and Digital Marketing in addition to assisting participants with their questions about implementing solutions in their day-to-day operations.",
             "responsibility": [
                 
@@ -1067,7 +1067,7 @@
             "id": "Basmeh&Zeitooneh1",
             "title": "Basmeh & Zeitooneh",
             "imageUrl": "../../assets/images/Basmeh&Zeitooneh.png",
-            "type": "Mapping Services, Market Research, Market Linkages, Programme Development and Implementation",
+            "type": "Mapping Services, Market Research, Development and Implementation",
             "paragraph":"After implementing a 9 month sewing workshop and training by Basmeh and Zeintooneh’s experts at their center located in the Nabaa area, Salem Group was approached to develop an end of project grant that would support participating women in creating a new income stream that can sustain their household expenses.",
             "responsibility": [
                 
@@ -1103,7 +1103,7 @@
             "id": "Basmeh&Zeitooneh2",
             "title": "Basmeh & Zeitooneh",
             "imageUrl": "../../assets/images/Basmeh&Zeitooneh.png",
-            "type": "Sewing Market Assessment for NABAA office.",
+            "type": "Sewing Market Assessment and Development for Nabaa Office",
             "paragraph":"Basmeh and Zeitooneh contacted Salem Group to cater for their needs of expert in business coaching, marketing & market linkage, to assist small businesses in developing their business plans, monitoring their progress while adjusting the business plans if required through conducting field visits to the Basmeh and Zeitooneh centers and providing them with frequent updates, mentorship, and coaching of the owners.Our team suggested a list of measures that focused on reducing business risks and assisting the owners to overcome the financial difficulties that emerged from the economic crisis in Lebanon.",
             "responsibility": [
                 
@@ -1177,11 +1177,12 @@
     ],
     "MrktBranding" : [
         {
-            "id": "Xylexa",
-            "title": "Xylexa",
-            "imageUrl": "../../assets/images/Xylexa.png",
-            "type": "Business Development and Fundraising Consultancy",
-            "paragraph":"Xylexa was looking to expand their clinical trials and services into the MENA region and working on securing deals with investors and clients. Salem Group worked on the business development part with Xylexa’s team as we conducted strong SEO and SEM that helps target potential clinics and hospitals in addition to working on the pricing models introduced according to the countries they want to expand to.",
+            "id": "Sakura",
+            "title": "Sakura",
+            "imageUrl": "../../assets/images/SAKURA.png",
+            "type": "",
+            "paragraph":"",
+            "logo":"../../assets/images/LogoSakura.png",
             "responsibility": [
                 
             ],
@@ -1189,15 +1190,70 @@
             "credit": ""
         },
         {
-            "id": "ProvenMed",
-            "title": "Proven Med",
-            "imageUrl": "../../assets/images/ProvenMed.png",
-            "type": "Business Development and Fundraising Consultancy",
-            "paragraph":"Proven Med was guided along its path by Salem Group, in participating in every webinar and exhibition they entered after receiving feedback, making a professional pitch comparison, and suggesting necessary improvements.They were also introduced to a number of investors helping them expand into new markets.",
+            "id": "Neat",
+            "title": "Neat",
+            "imageUrl": "../../assets/images/Neat.png",
+            "type": "",
+            "paragraph":"",
+            "logo":"../../assets/images/LogoNeat.png",
             "responsibility": [
                 
             ],
             "pagePath":"/portfolio/Marketing/Branding",
+            "credit": ""
+        },
+        {
+            "id": "Kioshi",
+            "title": "Kioshi",
+            "imageUrl": "../../assets/images/Kioshi.png",
+            "type": "",
+            "paragraph":"",
+            "logo":"../../assets/images/LogoKioshi.png",
+            "responsibility": [
+                
+            ],
+            "pagePath":"/portfolio/Marketing/Branding",
+            "credit": ""
+        }
+    ],
+    "MrktDigital" : [
+        {
+            "id": "Sakur",
+            "title": "Sakura",
+            "imageUrl": "../../assets/images/KaryaINSTA.png",
+            "type": "",
+            "paragraph":"",
+            "logo":"../../assets/images/LogoSakura.png",
+            "responsibility": [
+                
+            ],
+            "pagePath":"/Portfolio/Marketing/DigitalMarketing",
+            "credit": ""
+        },
+        {
+            "id": "Nea",
+            "title": "Neat",
+            "imageUrl": "../../assets/images/Neat.png",
+            "type": "",
+            "paragraph":"",
+            "logo":"../../assets/images/LogoNeat.png",
+            "responsibility": [
+                
+            ],
+            "pagePath":"/Portfolio/Marketing/DigitalMarketing",
+            "credit": ""
+        },
+        {
+            "id": "Kiosh",
+            "title": "Kioshi",
+            "imageUrl": "../../assets/images/Kioshi.png",
+            "type": "",
+            "paragraph":"",
+            "logo":"../../assets/images/LogoKioshi.png",
+            "responsibility": [
+                
+            ],
+            "pagePath":"/Portfolio/Marketing/DigitalMarketing",
             "credit": ""
         }
     ]

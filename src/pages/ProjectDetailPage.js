@@ -22,8 +22,7 @@ export default class ProjectDetailPage extends Component {
     if(detailData.length == 0) detailData= Data.ConsStartup.filter((item) => item.id === `${this.props.match.params.id}`)
     if(detailData.length == 0) detailData= Data.ConsNGOs.filter((item) => item.id === `${this.props.match.params.id}`)
     if(detailData.length == 0) detailData= Data.ConsFirm.filter((item) => item.id === `${this.props.match.params.id}`)
-    if(detailData.length == 0) detailData= Data.Cardsblogs.filter((item) => item.id === `${this.props.match.params.id}`)
-    if(detailData.length == 0) detailData= Data.MrktBranding.filter((item) => item.id === `${this.props.match.params.id}`);
+    if(detailData.length == 0) detailData= Data.Cardsblogs.filter((item) => item.id === `${this.props.match.params.id}`);
 
 
     
@@ -32,7 +31,7 @@ export default class ProjectDetailPage extends Component {
         {/* eslint-disable-next-line react/jsx-props-no-spreading */}
         <Header {...this.props} />
         <PortfolioDetail data={detailData.length === 1 ? [detailData[0]] : null} />
-        <Footer />
+        <Footer />  
       </>
     );
   }

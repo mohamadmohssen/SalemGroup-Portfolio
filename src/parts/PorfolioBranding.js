@@ -98,10 +98,10 @@ export default function PortfolioDetail({ data }) {
                         <h1 className="text-3xl text-theme-blue font-bold mb-5">
                           {item.technologieused}
                         </h1>))}
-                        <div className="flex flex-row ml-1">
+                        <div className="flex flex-row ml-1 ">
                           {
                                             item.responsibility.map((responsibility) => (
-                                              <div className="mr-4 px-6 py-3 text-theme-purple border border-theme-purple rounded-full shadow-lg" style={{color:"#367588",borderColor:"#367588"}}>
+                                              <div className="mr-4 px-6 py-3 text-theme-purple border border-theme-purple rounded-full shadow-lg " style={{color:"#367588",borderColor:"#367588"}}>
                                                 {responsibility}
                                               </div>
                                             ))

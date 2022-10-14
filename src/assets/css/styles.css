@@ -151,4 +151,20 @@ section {
     .hr:after{
       width: 90px;
     }
+    .responsive-portfolioMarketing{
+      width: 390px !important;
+      justify-content: center;
+    }
+    .responsive-digitalMarketing{
+      flex-direction: column !important;
+    }
+    .responsive-img2-digitalMarketing{
+      margin-top: 5%;
+    }
+    .responsive-webtechnologies{
+      flex-direction: column !important;
+    }
+    .responsive-webtechnologies-marginCards{
+      margin-top: 4%;
+    }
 }

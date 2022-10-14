@@ -249,7 +249,7 @@
         ],
     "service" : [
         {
-            "title": "Strategy & Managment Consulting",
+            "title": "Strategy & Management Consulting",
             "imageUrl": "assets/images/Consulting2.png",
             "pagePath": "/services/Consulting"       
         },
@@ -645,7 +645,7 @@
     ],
     "portfolioservices": [
         {   
-            "title": "Strategy & Managment Consulting",
+            "title": "Strategy & Management Consulting",
             "imageUrl": "../assets/images/Consulting2.png",
             "pagePath":"/Portfolio/Consulting"
                
@@ -1238,8 +1238,10 @@
             "type": "",
             "paragraph":"",
             "logo":"../../assets/images/KaryaLogo.png",
+            "technologieused":"Work done:",
             "responsibility": [
-                
+                "Content creation",
+                "Account management"
             ],
             "pagePath":"/Portfolio/Marketing/DigitalMarketing",
             "credit": ""
@@ -1252,8 +1254,9 @@
             "type": "",
             "paragraph":"",
             "logo":"../../assets/images/NitchdLogo.png",
+            "technologieused":"Work done:",
             "responsibility": [
-                
+                "Account management"
             ],
             "pagePath":"/Portfolio/Marketing/DigitalMarketing",
             "credit": ""
@@ -1266,8 +1269,10 @@
             "type": "",
             "paragraph":"",
             "logo":"../../assets/images/DonaLeb.png",
+            "technologieused":"Work done:",
             "responsibility": [
-                
+                "Content creation",
+                "Account management"
             ],
             "pagePath":"/Portfolio/Marketing/DigitalMarketing",
             "credit": ""
@@ -1280,8 +1285,9 @@
             "type": "",
             "paragraph":"",
             "logo":"../../assets/images/SkinFoodLogo.png",
+            "technologieused":"Work done:",
             "responsibility": [
-                
+                "Content creation"
             ],
             "pagePath":"/Portfolio/Marketing/DigitalMarketing",
             "credit": ""
@@ -1294,8 +1300,11 @@
             "type": "",
             "paragraph":"",
             "logo":"../../assets/images/TheVolunteerCircle.png",
+            "technologieused":"Work done:",
             "responsibility": [
-                
+                "Content creation",
+                "Account management",
+                "SEO"
             ],
             "pagePath":"/Portfolio/Marketing/DigitalMarketing",
             "credit": ""
@@ -1308,8 +1317,10 @@
             "type": "",
             "paragraph":"",
             "logo":"../../assets/images/HoopsLogo.png",
+            "technologieused":"Work done:",
             "responsibility": [
-                
+                "Content creation",
+                "Account management"
             ],
             "pagePath":"/Portfolio/Marketing/DigitalMarketing",
             "credit": ""
@@ -1322,8 +1333,10 @@
             "type": "",
             "paragraph":"",
             "logo":"../../assets/images/Eflow.png",
+            "technologieused":"Work done:",
             "responsibility": [
-                
+                "Content creation",
+                "Account management"
             ],
             "pagePath":"/Portfolio/Marketing/DigitalMarketing",
             "credit": ""

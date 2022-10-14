@@ -74,9 +74,9 @@ export default function PortfolioDetail({ data }) {
                     </Fade>
 
                     <Fade bottom delay={300 * 1}>
-                      <div className="flex justify-center xl:mb-6" style={{justifyContent:"center"}}>
+                      <div className="flex justify-center xl:mb-6 responsive-digitalMarketing" style={{justifyContent:"center"}}>
                         <img style={{width:"500px"}} src={`../${item.imageUrl}`} alt="Project" className="flex w-4/5 sm:w-4/6" />
-                        <img style={{width:"500px"}} src={`../${item.imageUrl1}`} alt="Project" className="flex w-4/5 sm:w-4/6" />
+                        <img style={{width:"500px"}} src={`../${item.imageUrl1}`} alt="Project" className="flex w-4/5 sm:w-4/6 responsive-img2-digitalMarketing" />
                       </div>
                       
                     </Fade>

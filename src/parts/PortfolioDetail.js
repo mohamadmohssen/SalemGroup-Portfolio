@@ -9,7 +9,7 @@ import { useState } from 'react';
 import NotFound from 'assets/images/NotFound.png';
 import './drop.css';
 import Button from 'elements/Button';
-
+import '../assets/css/styles.css'
 import jsonFile from  "../json/landingPage.json"
 import { useParams } from 'react-router-dom';
 export default function PortfolioDetail({ data }) {
@@ -98,10 +98,10 @@ export default function PortfolioDetail({ data }) {
                         <h1 className="text-3xl text-theme-blue font-bold mb-5">
                           {item.technologieused}
                         </h1>))}
-                        <div className="flex flex-row ml-1">
+                        <div className="flex flex-row ml-1 responsive-webtechnologies">
                           {
                                             item.responsibility.map((responsibility) => (
-                                              <div className="mr-4 px-6 py-3 text-theme-purple border border-theme-purple rounded-full shadow-lg" style={{color:"#367588",borderColor:"#367588"}}>
+                                              <div className="mr-4 px-6 py-3 text-theme-purple border border-theme-purple rounded-full shadow-lg responsive-webtechnologies-marginCards" style={{color:"#367588",borderColor:"#367588"}}>
                                                 {responsibility}
                                               </div>
                                             ))

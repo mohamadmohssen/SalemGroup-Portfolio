@@ -195,7 +195,15 @@ export default function DiscussForm(props) {
                   <Drop subject={subject} setSubject={setSubject}/>
                 </div>
                 {subject === "Other" && <div className="text-area">
-                <input type="text" placeholder="Your Subject" value={data.subject} class="p-4 font-light text-lg text-theme-blue rounded border border-gray-400 focus:outline-none focus:ring-1 focus:#367588 responsive-mobileDiscussForm" />
+                <Form
+                  id="company"
+                  name="subject"
+                  type="text"
+                  value={data.subject}
+                  placeholder="Your Subject"
+                  className="p-4 font-light text-lg text-theme-blue rounded border border-gray-400 focus:outline-none focus:ring-1 focus:#367588 responsive-mobileDiscussForm"
+                  onChange={props.onChange}
+                />
                 </div>}
               </div>
               <div className="mx-auto">

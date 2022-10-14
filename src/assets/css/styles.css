@@ -173,4 +173,7 @@ section {
     .responsive-mobileDiscussForm{
       margin-left: 6%;
     }
+    .responsive-responsibilityCards{
+      flex-direction: column !important;
+    }
 }

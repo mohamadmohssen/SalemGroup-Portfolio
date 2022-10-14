@@ -167,4 +167,10 @@ section {
     .responsive-webtechnologies-marginCards{
       margin-top: 4%;
     }
+    .drop{
+      margin: 0;
+    }
+    .responsive-mobileDiscussForm{
+      margin-left: 6%;
+    }
 }

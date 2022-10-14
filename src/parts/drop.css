@@ -50,3 +50,13 @@
   #GoBackBtn:hover{
     cursor: pointer;
   }
+  @media only screen and (max-width: 768px){
+    .dropbtn{
+      margin: 0;
+      margin-left: 333%;
+    }
+    .dropdown-content{
+      left: 0;
+      margin-left: 333%;
+    }
+  }

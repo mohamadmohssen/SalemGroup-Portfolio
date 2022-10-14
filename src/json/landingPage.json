@@ -375,8 +375,8 @@
             "imageUrl": "assets/images/malak.png"
         },
         {
-            "name": "Ali Zein El Dinn ",
-            "company": "Founder of Daleel Mozarea",
+            "name": "Ali Zeineddine ",
+            "company": "Consultant at Oliver Wyman",
             "testimoni": "Salem Group has given me the chance to explore my horizons with the development of a strategic business plan!",
             "imageUrl": "assets/images/zizo.png"
         },
@@ -719,7 +719,7 @@
             "id": "OODA",
             "title": "OODA",
             "imageUrl": "../../assets/images/OODA.jpg",
-            "type": "Website",
+            "type": "Booking Platform",
             "paragraph":"OODA is a travel agency headquartered in Lebanon.  OODA wanted to propel forward in the market, by creating a custom booking portal to receive room requests from all over the world.",
             "technologieused":"Technology Used: ",
             "responsibility": [
@@ -736,7 +736,7 @@
             "id": "Aequitas",
             "title": "Aequitas",
             "imageUrl": "../../assets/images/Aequitas.jpg",
-            "type": "Website",
+            "type": "E-Learning",
             "paragraph":"Aequitas is a Learning Management System that offers free education to students enrolled in the Lebanese Baccalaureate system to help them succeed in their official exams.",
             "technologieused":"Technology Used: ",
             "responsibility": [
@@ -752,7 +752,7 @@
             "id": "Nitchd",
             "title": "Nitchd",
             "imageUrl": "../../assets/images/Nitchd.png",
-            "type": "Website",
+            "type": "E-Commerce",
             "paragraph":"NITCHD is an online ecommerce shop that offers a one-stop shop for all clothing designs by Lebanese designers, targeting the Lebanese and MENA market.",
             "technologieused":"Technology Used: ",
             "responsibility": [
@@ -767,7 +767,7 @@
             "id": "GivTrade",
             "title": "Giv Trade",
             "imageUrl": "../../assets/images/GivTrade.png",
-            "type": "Website",
+            "type": "Fintech",
             "paragraph": "Giv Trade provides a variety of trading services and products, including but not limited to stocks, currency, commodities, and digital assets. GivTrade also offers a wide variety of tools to make trading simple and easy for its customers.",
             "technologieused":"Technology Used: ",
             "responsibility": [
@@ -782,7 +782,7 @@
             "id": "VolunteerCircle",
             "title": "The Volunteer Circle",
             "imageUrl": "../../assets/images/VolunteerCircle.png",
-            "type": "Website",
+            "type": "Social Enterprise",
             "paragraph":"The Volunteer Circle is a platform for skill-sharing across all areas of Lebanon. They match enthusiastic volunteers, community service, experience seekers, and multi-talented individuals with the cause that needs them the most. An initiative for the people by the people, we create a community that is readily accessible to support the hard work of NGOs, start-ups, local businesses, and artists.",
             "technologieused":"Technology Used: ",
             "responsibility": [
@@ -797,7 +797,7 @@
             "id": "FreelanceExpress",
             "title": "Freelance Express",
             "imageUrl": "../../assets/images/FreelanceExpress.png",
-            "type": "Website",
+            "type": "Talent Matching Platform",
             "paragraph":"To increase vulnerable youth from the host community and the refugee community's access to education and employment, SG developed a freelancing platform to provide them with the needed opportunities. The website includes success stories and a newsletter.",
             "technologieused":"Technology Used: ",
             "responsibility": [
@@ -811,7 +811,7 @@
             "id": "Signals",
             "title": "Signals",
             "imageUrl": "../../assets/images/Signals.png",
-            "type": "Website",
+            "type": "Fintech",
             "paragraph":"Signals is a digital platform to help traders identify the best time to execute a trading position, efficiently manage their risk, and reliably optimize their returns.",
             "technologieused":"Technology Used: ",
             "responsibility": [
@@ -826,7 +826,7 @@
             "id": "Karya",
             "title": "Karya",
             "imageUrl": "../../assets/images/Karya.png",
-            "type": "Website",
+            "type": "Social Enterprise",
             "paragraph":"Karya social impact tackles multiple stakeholders. It helps increase the economic benefits of rural hosts, integrates and involves women and youth by promoting openness, helps in creating awareness among users on the conservation of environment and cultural heritage and creates a solid rural/urban linkage by giving communities incentives to avoid internal migration.",
             "technologieused":"Technology Used: ",
             "responsibility": [
@@ -841,7 +841,7 @@
         {"id": "GlobalShapers",
             "title": "Global Shapers",
             "imageUrl": "../../assets/images/GlobalShapers.png",
-            "type": "Website",
+            "type": "E-Learning",
             "paragraph":"Global Shapers Beirut Hub is a network of active individuals committed to making a positive impact in their city. We are entrepreneurs, we are scientists, we are engineers, we are artists, we are consultants and more. Our different backgrounds allow us to reach out to the different communities of our society and act as the catalyst for a collaborative outcome. We work towards fostering creativity, innovation and entrepreneurship by developing projects and working collectively to achieve them. We aspire to improve Beirut by focusing on individual and communal potentials and creating a positive image for the youth. ",
             "technologieused":"Technology Used: ",
             "responsibility": [
@@ -858,7 +858,7 @@
             "id": "Notu",
             "title": "Notu",
             "imageUrl": "../../assets/images/Notu.png",
-            "type": "Mobile App",
+            "type": "Peer to Peer Business Card",
             "paragraph":"Notu is a peer-to-peer business card mobile app striving to replace the conventional paper card by employing NFC technology to reduce the environmental cost of throwing away unused business cards. Tap your Notu business card to an iPhone, Android, or any other Notu card to instantly share your information through the mobile app.",
             "technologieused":"Technology Used: ",
             "responsibility": [
@@ -872,7 +872,7 @@
             "id": "DonaLeb",
             "title": "DonaLeb",
             "imageUrl": "../../assets/images/DonaLeb1.png",
-            "type": "Mobile App",
+            "type": "Social Enterprise",
             "paragraph":"DonaLeb is a well-being and fitness app that makes every step count. With every step logged, money is raised for charities connected with the app. Their sponsors receive unrivaled mobile engagement and social amplification with our community of active, healthy, and socially conscious audiences. Move with purpose today and raise money for charity.",
             "technologieused":"Technology Used: ",
             "responsibility": [
@@ -888,7 +888,7 @@
             "id": "KarmaTech",
             "title": "Karma Tech",
             "imageUrl": "../../assets/images/KarmaTech.jpg",
-            "type": "Other Solution",
+            "type": "Medical Imaging Management Software",
             "paragraph":"KarmaTech is a one-stop management software that offers a multitude of features that make running a clinic a breeze. It is used to manage patients, appointments, doctor's schedules, prescriptions, and inventory management.",
             "technologieused":"Technology Used: ",
             "responsibility": [
@@ -902,8 +902,8 @@
             "id": "HMSPro",
             "title": "HMS Pro",
             "imageUrl": "../../assets/images/HMSPro.png",
-            "type": "Other Solution",
-            "paragraph":"HMS Pro is an all-in-one hospital management system that provides access to management of all hospital-related activities. including but not limited to: management of patients' records; doctors, nurses, and other personnel; stock and availability of the medications; availability of the wards and beds; and financial transactions.",
+            "type": "Hospital Management System",
+            "paragraph":"HMS Pro is an all-in-one hospital management system that provides access to management of all hospital-related activities. including but not limited to: management of patients' records; doctors, nurses, and other personnel; stock and availability of the medications, availability of the wards and beds; and financial transactions.",
             "technologieused":"Technology Used: ",
             "responsibility": [
                 "Front-End: React",
@@ -916,7 +916,7 @@
             "id": "Terogy",
             "title": "Terogy",
             "imageUrl": "../../assets/images/Terogy.png",
-            "type": "Other Solution",
+            "type": "Hospital Management System",
             "paragraph":"TEROGY is a web platform designed to connect hospitals in the MENA region to certified Lebanese radiologists who will provide them with fast and superior remote radiology services. TEROGY's mission is to provide cost-effective, timely and superior teleradiology services to hospitals in the MENA region.",
             "technologieused":"Technology Used: ",
             "responsibility": [
@@ -934,7 +934,7 @@
             "title": "DonaLeb",
             "imageUrl": "../../assets/images/DonaLeb.png",
             "type": "Business Development and Fundraising Consultancy",
-            "paragraph":"Donaleb is a new innovative startup introducing a new business model aiming to combine CSR activity with a healthy lifestyle promotion through a donation feature to NGOs. Salem Group helped DonaLeb develop and define the business model, allocate suitable partnerships and sponsorships and coached them on investor pitching and pitch decks. We also shared potential customers databases following our market research to efficiently target brands and corporations ",
+            "paragraph":"Donaleb is a new innovative startup introducing a new business model aiming to combine CSR activity with a healthy lifestyle promotion through a donation feature to NGOs. Salem Group helped DonaLeb develop and define the business model, allocate suitable partnerships and sponsorships and coached them on investor pitching and pitch decks. We also shared potential customers databases following our market research to efficiently target brands and corporations.",
             "responsibility": [
                 
             ],
@@ -946,7 +946,7 @@
             "title": "Eflow",
             "imageUrl": "../../assets/images/Eflow.png",
             "type": "Business Strategy and Development Consultancy",
-            "paragraph":"eFlow offers a cloud based platform powered by an interactive chatbot that enables learning delivery and management by conserving the human element in distance learning through conversational course format. Salem Group provided eFlow with a fresh marketing plan, including benchmarking and competitor analysis across all of their platforms and client-facing methods.Salem Group created new strategies and procedures to follow in order to address and prevent any dangers that eFlow might encounter by recognizing the flaws in the earlier procedures and processes.",
+            "paragraph":"eFlow offers a cloud based platform powered by an interactive chatbot that enables learning delivery and management by conserving the human element in distance learning through conversational course format. Salem Group provided eFlow with a fresh marketing plan, including benchmarking and competitor analysis across all of their platforms and client-facing methods. Salem Group created new strategies and procedures to follow in order to address and prevent any dangers that eFlow might encounter by recognizing the flaws in the earlier procedures and processes.",
             "responsibility": [
                 
             ],
@@ -958,7 +958,7 @@
         "title": "The Volunteer Circle",
         "imageUrl": "../../assets/images/TheVolunteerCircle.png",
         "type": "Business planning,designing and implementing services",
-        "paragraph":"Salem Group helped TVC with the creation of a strategic business plan, providing them with further expansion plans by conducting a detailed market research and a competitor analysis that helped us formulate clear KPIs and value propositions to support our plan with data-driven goals.Following an internal audit and a study of their current internal structure, we helped them draft their new Operational structure.",
+        "paragraph":"Salem Group helped TVC with the creation of a strategic business plan, providing them with further expansion plans by conducting a detailed market research and a competitor analysis that helped us formulate clear KPIs and value propositions to support our plan with data-driven goals. Following an internal audit and a study of their current internal structure, we helped them draft their new operational structure.",
         "responsibility": [
             
         ],
@@ -1104,7 +1104,7 @@
             "title": "Basmeh & Zeitooneh",
             "imageUrl": "../../assets/images/Basmeh&Zeitooneh.png",
             "type": "Sewing Market Assessment and Development for Nabaa Office",
-            "paragraph":"Basmeh and Zeitooneh contacted Salem Group to cater for their needs of expert in business coaching, marketing & market linkage, to assist small businesses in developing their business plans, monitoring their progress while adjusting the business plans if required through conducting field visits to the Basmeh and Zeitooneh centers and providing them with frequent updates, mentorship, and coaching of the owners.Our team suggested a list of measures that focused on reducing business risks and assisting the owners to overcome the financial difficulties that emerged from the economic crisis in Lebanon.",
+            "paragraph":"Basmeh and Zeitooneh contacted Salem Group to cater for their needs of expert in business coaching, marketing & market linkage, to assist small businesses in developing their business plans, monitoring their progress while adjusting the business plans if required through conducting field visits to the Basmeh and Zeitooneh centers and providing them with frequent updates, mentorship, and coaching of the owners. Our team suggested a list of measures that focused on reducing business risks and assisting the owners to overcome the financial difficulties that emerged from the economic crisis in Lebanon.",
             "responsibility": [
                 
             ],
@@ -1140,7 +1140,7 @@
             "title": "Basmeh & Zeitooneh",
             "imageUrl": "../../assets/images/Basmeh&Zeitooneh.png",
             "type": "Fostering Refugee Leadership Program",
-            "paragraph":"Through the Fostering Refugee Leadership Program, the refugee community in Lebanon will have more agency in their lives, to have a say and be able to influence the solutions that suit them. It all starts with them identifying the problems and their roots, their needs, the obstacles, and then decide on the best solutions for their community.Salem Group was responsible for the technical and organizational structural support that included mapping of the refugee lead initiatives, the development of a capacity assessment tool and a delivery of a final report with the key findings and recommendations.",
+            "paragraph":"Through the Fostering Refugee Leadership Program, the refugee community in Lebanon will have more agency in their lives, to have a say and be able to influence the solutions that suit them. It all starts with them identifying the problems and their roots, their needs, the obstacles, and then decide on the best solutions for their community. Salem Group was responsible for the technical and organizational structural support that included mapping of the refugee lead initiatives, the development of a capacity assessment tool and a delivery of a final report with the key findings and recommendations.",
             "responsibility": [
                 
             ],
@@ -1167,7 +1167,7 @@
             "title": "Proven Med",
             "imageUrl": "../../assets/images/ProvenMed.png",
             "type": "Business Development and Fundraising Consultancy",
-            "paragraph":"Proven Med was guided along its path by Salem Group, in participating in every webinar and exhibition they entered after receiving feedback, making a professional pitch comparison, and suggesting necessary improvements.They were also introduced to a number of investors helping them expand into new markets.",
+            "paragraph":"Proven Med was guided along its path by Salem Group, in participating in every webinar and exhibition they entered after receiving feedback, making a professional pitch comparison, and suggesting necessary improvements. They were also introduced to a number of investors helping them expand into new markets.",
             "responsibility": [
                 
             ],

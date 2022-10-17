@@ -31,7 +31,7 @@ export default function Service({ data, Title,paragraph, className }) {
                 <Fade bottom delay={500 * index}>
                   <div onClick={() => toPage(item.pagePath)}>
 
-                    <div className="bg-white group rounded-2xl shadow-2xl border border-light-theme-purple transform transition duration-500 hover:scale-105">
+                    <div className="bg-white group rounded-2xl shadow-2xl border border-light-theme-blue transform transition duration-500 hover:scale-105">
                       <img src={item.imageUrl} alt="Service" className="w-full rounded-t-2xl" />
                       <h2 className="text-theme-blue text-center text-xl py-7 rounded-b-2xl">{item.title}</h2>
                     </div>

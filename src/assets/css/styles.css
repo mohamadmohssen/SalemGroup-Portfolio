@@ -207,4 +207,7 @@ section {
     justify-content: center;
       
     }
+    .responsive-explainproject{
+      width: 250px;
+    }
 }

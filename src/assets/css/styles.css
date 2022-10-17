@@ -210,4 +210,7 @@ section {
     .responsive-explainproject{
       width: 330px;
     }
+    .responsive-portfoliomarketing-img{
+      height: auto !important;
+    }
 }

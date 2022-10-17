@@ -25,14 +25,14 @@ export default function Service({ data, Title,paragraph, className }) {
             <p className="font-light text-lg text-gray-400 text-center mb-12">{paragraph}
             </p>
           </Fade>
-          <div className="grid grid-rows-3 px-20 gap-8 sm:grid-cols-2 sm:grid-rows-1 sm:gap-6 xl:gap-16" style={{textAlign:"-webkit-center"}}>
+          <div className="responsive-portfoliomarketing grid grid-rows-3 px-20 gap-8 sm:grid-cols-2 sm:grid-rows-1 sm:gap-6 xl:gap-16" style={{textAlign:"-webkit-center"}}>
             {
               data.map((item, index) => (
                 <Fade bottom delay={500 * index}>
                   <div onClick={() => toPage(item.pagePath)}>
 
-                    <div className="bg-white group rounded-2xl shadow-2xl border border-light-theme-purple transform transition duration-500 hover:scale-105 responsive-portfolioMarketing" style={{width:"450px"}}>
-                      <img style={{height:"300px",width:"600px"}} src={item.imageUrl} alt="Service" className="w-full rounded-t-2xl" />
+                    <div className="responsive-portfoliomarketing-img bg-white group rounded-2xl shadow-2xl border border-light-theme-purple transform transition duration-500 hover:scale-105 responsive-portfolioMarketing" style={{width:"450px"}}>
+                      <img style={{height:"300px",width:"600px"}} src={item.imageUrl} alt="Service" className="responsive-portfoliomarketing-img w-full rounded-t-2xl" />
                       <h2 className="text-theme-blue text-center text-xl py-7 rounded-b-2xl">{item.title}</h2>
                     </div>
 

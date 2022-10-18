@@ -228,7 +228,7 @@ export default function DiscussForm(props) {
                   type="textarea"
                   value={data.projectIdea}
                   placeholder="Explain about your project idea"
-                  className=""
+                  className="responsive-explainproject"
                   onChange={props.onChange}
                 />
               </div>

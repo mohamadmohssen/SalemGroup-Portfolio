@@ -20,7 +20,7 @@ export default function AllTeam({ data, team }) {
         {data.map((item, index) => (
           <Fade bottom delay={200 * index}>
             <div>
-              <div className="flex flex-col w-44 h-60 sm:w-56 sm:h-72 rounded-xl shadow-xl border border-light-theme-purple justify-center transform transition duration-500 hover:scale-105">
+              <div className="flex flex-col w-44 h-60 sm:w-56 sm:h-72 rounded-xl shadow-xl focus:#367588 border border-light-theme-blue justify-center transform transition duration-500 hover:scale-105" >
                 <div className="flex justify-center xl:mb-5">
                   <img
                     src={item.imageUrl}
@@ -54,7 +54,7 @@ export default function AllTeam({ data, team }) {
         {team.map((item, index) => (
           <Fade bottom delay={200 * index}>
             <div>
-              <div className="flex flex-col w-44 h-60 sm:w-56 sm:h-72 rounded-xl shadow-xl border border-light-theme-purple justify-center transform transition duration-500 hover:scale-105">
+              <div className="flex flex-col w-44 h-60 sm:w-56 sm:h-72 rounded-xl shadow-xl focus:#367588 justify-center transform transition duration-500 hover:scale-105">
                 <div className="flex justify-center xl:mb-5">
                   <img
                     src={item.imageUrl}

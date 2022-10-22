@@ -12,6 +12,7 @@ import Button from 'elements/Button';
 import '../assets/css/styles.css'
 import jsonFile from  "../json/landingPage.json"
 import { useParams } from 'react-router-dom';
+
 export default function PortfolioDetail({ data }) {
   
   const [isHovering, setIsHovering] = useState(false);
@@ -42,7 +43,7 @@ export default function PortfolioDetail({ data }) {
             </h1>
             <div className="flex justify-center">
               <Button href="/Portfolio" type="link" className="flex w-30 h-10 px-5 mt-5 bg-theme-blue text-white items-center rounded transform transition duration-500 hover:bg-gray-900">
-                Go Back
+                 Go Back
               </Button>
             </div>
           </div>

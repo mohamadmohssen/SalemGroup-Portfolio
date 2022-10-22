@@ -28,7 +28,7 @@ export default function Service({ data, Title, paragraph, className }) {
             {data.map((item, index) => (
               <Fade bottom delay={500 * index}>
                 <div onClick={() => toPage(item.pagePath)}>
-                  <div className="bg-white group rounded-2xl shadow-2xl border border-light-theme-purple transform transition duration-500 hover:scale-105">
+                  <div className="bg-white group rounded-2xl shadow-2xl border transform transition duration-500 hover:scale-105">
                     <img
                       src={item.imageUrl}
                       alt="Service"

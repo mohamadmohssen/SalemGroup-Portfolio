@@ -194,18 +194,33 @@ export default function DiscussForm(props) {
   
                   <Drop subject={subject} setSubject={setSubject}/>
                 </div>
-                {subject === "Other" && <div className="text-area">
+                {/* desktop view */}
+                {subject === "Other" && <div className="text-area desktop-drop">
                 <Form
                   id="company"
                   name="subject"
                   type="text"
                   value={data.subject}
                   placeholder="Your Subject"
-                  className="p-4 font-light text-lg text-theme-blue rounded border border-gray-400 focus:outline-none focus:ring-1 focus:#367588 responsive-mobileDiscussForm"
+                  className=" p-4 font-light text-lg text-theme-blue rounded border border-gray-400 focus:outline-none focus:ring-1 focus:#367588 responsive-mobileDiscussForm"
                   onChange={props.onChange}
                 />
                 </div>}
+                {/*  */}
               </div>
+              {/* mobile view */}
+              {subject === "Other" && <div className="text-area">
+                <Form
+                  id="company"
+                  name="subject"
+                  type="text"
+                  value={data.subject}
+                  placeholder="Your Subject"
+                  className="mobile-drop p-4 font-light text-lg text-theme-blue rounded border border-gray-400 focus:outline-none focus:ring-1 focus:#367588 responsive-mobileDiscussForm"
+                  onChange={props.onChange}
+                />
+                </div>}
+                {/*  */}
               <div className="mx-auto">
                 <Form
                   id="projectIdea"
@@ -213,7 +228,7 @@ export default function DiscussForm(props) {
                   type="textarea"
                   value={data.projectIdea}
                   placeholder="Explain about your project idea"
-                  className=""
+                  className="responsive-explainproject"
                   onChange={props.onChange}
                 />
               </div>

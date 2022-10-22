@@ -130,7 +130,7 @@
         "id": "0",
         "title": "Connecting at work: The value of human connection",
         "imageUrl": "../../assets/images/importanceblog.jpg",
-        "type": "Startup",
+        "type": "17/10/2022",
         "reference":"https://www.alliant.edu/blog/value-human-connection-workplace ",
         "reference1":" https://roico.com/2021/07/21/connections-at-work-they-matter/",
         "writter":" Farah Barakat",
@@ -254,7 +254,7 @@
             "pagePath": "/services/Consulting"       
         },
         {
-            "title": "Marketing and Digital Presence Division",
+            "title": "Marketing and Digital Presence ",
             "imageUrl": "assets/images/Marketing2.png",
             "pagePath": "/services/Marketing"       
         },
@@ -364,7 +364,7 @@
         },
         {
             "name": "Yasmine Darwich",
-            "company": "Founder of Donaleb",
+            "company": "Founder of DonaLeb",
             "testimoni": "I'd like to express gratitude for the outstanding contributions made by SG to the development of our mobile app. Salem Group’s professional & timely commitment to helping us achieve our goal is exemplary. We're grateful for their effort and look forward to continue making an impact together!",
             "imageUrl": "assets/images/yasmine.jpg"
         },
@@ -382,32 +382,32 @@
         },
         {
             "name": "Tarek Mohammad",
-            "company": "Co-founder OF GivTrade",
+            "company": "Co-founder Of GivTrade",
             "testimoni": "In a matter of a few weeks Salem Group delivered our agreed upon deliverables making my business ready for customers immediatly.",
             "imageUrl": "assets/images/tarek.png"
         }
         ,
         {
             "name": "John Tamer",
-            "company": "Founder of Tamer freres",
+            "company": "Founder of Tamer Frères",
             "testimoni": "The team at Salem Group has consistently delivered outstanding results.",
             "imageUrl": "assets/images/jhonntammer.png"
         },
         {
             "name": "Shahid Abbasi",
             "company": "Founder of Xylexa",
-            "testimoni": "I couldn’t be more pleased with the work delivered by Salem Group on this project. A very professional and responsive Team!",
+            "testimoni": "I couldn’t be more pleased with the work delivered by Salem Group on this project. A very professional and responsive team!",
             "imageUrl": "assets/images/shahid.png"
         },
         {
             "name": "Amine Staali",
             "company": "ProvenMed",
-            "testimoni": "Salem Group did a great job and were incredibly flexible with my requirements as they evolved over time. They fully encompassed my business needs whether they were technical or marketing.",
+            "testimoni": "Salem Group did a great job, and were incredibly flexible with my requirements as the evolved over time. They fully encompassed my business needs whether they were technical or marketing.",
             "imageUrl": "assets/images/amine.png"
         },
         {
             "name": "Abed Kaderi",
-            "company": "Owner of Shark & Co",
+            "company": "Owner of Sharks & Co",
             "testimoni": "It is a pleasure to work with Salem Group and their talented developers. They deliver high quality work in a very timely manner.",
             "imageUrl": "assets/images/abed.png"
         }
@@ -553,7 +553,7 @@
             "imageUrl": "../assets/images/ContentCreation2.png"
         },
         {
-            "name": "Social Media Managment",            
+            "name": "Social Media Management",            
             "imageUrl": "../assets/images/SocialMediaManagment2.png"
         },
         {
@@ -589,7 +589,7 @@
             "imageUrl": "../assets/images/AppSearchOptimizaton2.png"
         },
         {
-            "name": "Online Reputation Managment",
+            "name": "Online Reputation Management",
             "imageUrl": "../assets/images/OnlineReputationManagment2.png"
         }
     ],
@@ -651,7 +651,7 @@
                
         },
         {
-            "title": "Marketing and Digital Presence Division",
+            "title": "Marketing and Digital Presence ",
             "imageUrl": "../assets/images/Marketing2.png",
             "pagePath": "/Portfolio/Marketing"
                  
@@ -903,7 +903,7 @@
             "title": "HMS Pro",
             "imageUrl": "../../assets/images/HMSPro.png",
             "type": "Hospital Management System",
-            "paragraph":"HMS Pro is an all-in-one hospital management system that provides access to management of all hospital-related activities. including but not limited to: management of patients' records; doctors, nurses, and other personnel; stock and availability of the medications, availability of the wards and beds; and financial transactions.",
+            "paragraph":"HMS Pro is an all-in-one hospital management system that provides access to management of all hospital-related activities. Including but not limited to: management of patients' records; doctors, nurses, and other personnel; stock and availability of the medications, availability of the wards and beds; and financial transactions.",
             "technologieused":"Technology Used: ",
             "responsibility": [
                 "Front-End: React",
@@ -934,7 +934,7 @@
             "title": "DonaLeb",
             "imageUrl": "../../assets/images/DonaLeb.png",
             "type": "Business Development and Fundraising Consultancy",
-            "paragraph":"Donaleb is a new innovative startup introducing a new business model aiming to combine CSR activity with a healthy lifestyle promotion through a donation feature to NGOs. Salem Group helped DonaLeb develop and define the business model, allocate suitable partnerships and sponsorships and coached them on investor pitching and pitch decks. We also shared potential customers databases following our market research to efficiently target brands and corporations.",
+            "paragraph":"DonaLeb is a new innovative startup introducing a new business model aiming to combine CSR activity with a healthy lifestyle promotion through a donation feature to NGOs. Salem Group helped DonaLeb develop and define the business model, allocate suitable partnerships and sponsorships and coached them on investor pitching and pitch decks. We also shared potential customers databases following our market research to efficiently target brands and corporations.",
             "responsibility": [
                 
             ],
@@ -943,7 +943,7 @@
         },
         {
             "id": "Eflow",
-            "title": "Eflow",
+            "title": "eflow",
             "imageUrl": "../../assets/images/Eflow.png",
             "type": "Business Strategy and Development Consultancy",
             "paragraph":"eFlow offers a cloud based platform powered by an interactive chatbot that enables learning delivery and management by conserving the human element in distance learning through conversational course format. Salem Group provided eFlow with a fresh marketing plan, including benchmarking and competitor analysis across all of their platforms and client-facing methods. Salem Group created new strategies and procedures to follow in order to address and prevent any dangers that eFlow might encounter by recognizing the flaws in the earlier procedures and processes.",
@@ -957,8 +957,8 @@
         "id": "TheVolunteerCircle",
         "title": "The Volunteer Circle",
         "imageUrl": "../../assets/images/TheVolunteerCircle.png",
-        "type": "Business planning,designing and implementing services",
-        "paragraph":"Salem Group helped TVC with the creation of a strategic business plan, providing them with further expansion plans by conducting a detailed market research and a competitor analysis that helped us formulate clear KPIs and value propositions to support our plan with data-driven goals. Following an internal audit and a study of their current internal structure, we helped them draft their new operational structure.",
+        "type": "Business planning, designing, and implementing services",
+        "paragraph":"Salem Group helped TVC with the creation of a strategic business plan, providing them with further expansion plans by conducting a detailed market research, and a competitor analysis that helped us formulate clear KPIs, and value propositions to support our plan with data-driven goals. Following an internal audit, and a study of their current internal structure, we helped them draft their new operational structure.",
         "responsibility": [
             
         ],
@@ -1044,7 +1044,7 @@
             "title": "Caritas",
             "imageUrl": "../../assets/images/Caritas.png",
             "type": "Business Support Program Design and Delivery",
-            "paragraph":"CARITAS provides economic development, livelihoods, health and social care, education, service to foreign refugees, emergency and crisis intervention, environmental supervision and protection of the needy. Salem Group designed a curriculum that included business essential topics such as Accounting, Marketing, HR, Management Key Terms, Importance of handmade products, creativity sessions, market identifications, SWOT analysis, and Brand development.",
+            "paragraph":"CARITAS provides economic development, livelihoods, health and social care, education, service to foreign refugees, emergency and crisis intervention, environmental supervision and protection of the needy. Salem Group designed a curriculum that included business essential topics such as Accounting, Marketing, HR, Management Key Terms, importance of handmade products, creativity sessions, market identifications, SWOT analysis, and Brand development.",
             "responsibility": [
                 
             ],
@@ -1055,7 +1055,7 @@
             "id": "Zowada",
             "title": "Zowada",
             "imageUrl": "../../assets/images/Zowada.png",
-            "type": "Business planning,designing and implementing partner",
+            "type": "Business planning, designing, and implementing partner",
             "paragraph":"Zowada is a mobile app that was launched as a digital accelerator and incubator, the first of its kind in the world at the level of integrated business incubators in the development of a strategic vision of an incubator. Salem Group provided business development consultancy on project feasibility, forecasting revenue projections, and developing a clear business model for the five components separately. We also conducted detailed market research and a competitor analysis that helped us formulate clear KPIs and value propositions.",
             "responsibility": [
                 
@@ -1080,7 +1080,7 @@
             "title": "Akkarouna",
             "imageUrl": "../../assets/images/Akkarouna.png",
             "type": "Business Coaching and Digital Marketing Planning",
-            "paragraph":"Akkarouna is a local non-profit NGO that is managing 3 offices in the Northern Region of Lebanon, namely in Akkar, Tripoli and Baddawi. Salem Group provided general insight into MSME’s market plans, which were designed to promote their goods and services by working directly with each participant to create a digital marketing plan through the following steps: reviewing businesses digital capabilities, setting SMART objectives to grow their online leads and directing their online or offline sales, defining digital marketing methods, defining and allocating resources needed for effective digital marketing.",
+            "paragraph":"Akkarouna is a local non-profit NGO that is managing 3 offices in the Northern Region of Lebanon, mamely in Akkar, Tripoli and Baddawi. Salem Group provided general insight into MSME’s market plans, which were designed to promote their goods and services by working directly with each participant to create a digital marketing plan through the following steps: reviewing businesses digital capabilities, setting SMART objectives to grow their online leads and directing their online or offline sales, defining digital marketing methods, defining and allocating resources needed for effective digital marketing.",
             "responsibility": [
                 
             ],
@@ -1092,7 +1092,7 @@
             "title": "Dawaer",
             "imageUrl": "../../assets/images/Dawaer.png",
             "type": "Business Development to “Our Stories” Platform",
-            "paragraph":"Dawaer foundation is a non-governmental,not for profit, non-partisan organization that works with educational institutions, families and communities to enhance child and youth rights and freedom of expression and protect youth from violence. To optimize their strategies on media outlets, they contacted Salem Group. Salem Group planned, developed and oversaw the overall business strategy. We also monetized the Online Media Platform of Our Stories in order to generate income and cover operational costs, planned the platform’s financial success, determined key business development KPIs, and communicated with potential and existing clients.",
+            "paragraph":"Dawaer foundation is a non-governmental, not for profit, non-partisan organization that works with educational institutions, families and communities to enhance child and youth rights and freedom of expression and protect youth from violence. To optimize their strategies on media outlets, they contacted Salem Group. Salem Group planned, developed and oversaw the overall business strategy. We also monetized the Online Media Platform of Our Stories in order to generate income and cover operational costs, planned the platform’s financial success, determined key business development KPIs, and communicated with potential and existing clients.",
             "responsibility": [
                 
             ],
@@ -1128,7 +1128,7 @@
             "title": "Acted",
             "imageUrl": "../../assets/images/Acted.png",
             "type": "Menstrual Hygiene Manufacturing Activities",
-            "paragraph":"Acted aimed to tackle the ongoing issue of period poverty and menstrual hygiene with the help of the UN Women funding. It chose Roof and Roots to establish a manufacturing facility for the production of menstrual products. Salem Group coached Roof And Roots on key business strategies, Organizational Management, Financial Manager,Operations and Management, Sales and Marketing, and mentoring.",
+            "paragraph":"Acted aimed to tackle the ongoing issue of period poverty and menstrual hygiene with the help of the UN Women funding. It chose Roof and Roots to establish a manufacturing facility for the production of menstrual products. Salem Group coached Roof And Roots on key business strategies, Organizational Management, Financial Manager, Operations and Management, Sales and Marketing, and mentoring.",
             "responsibility": [
                 
             ],
@@ -1339,7 +1339,7 @@
         },
         {
             "id": "Eflow1",
-            "title": "Eflow",
+            "title": "eflow",
             "imageUrl": "../../assets/images/EflowINSTA.png",
             "imageUrl1": "../../assets/images/EflowINSTA1.png",
             "type": "",

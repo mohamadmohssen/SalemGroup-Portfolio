@@ -249,17 +249,17 @@
         ],
     "service" : [
         {
-            "title": "Strategy & Management Consulting",
+            "title": "Strategy & Management Consulting Division",
             "imageUrl": "assets/images/Consulting2.png",
             "pagePath": "/services/Consulting"       
         },
         {
-            "title": "Marketing and Digital Presence ",
+            "title": "Marketing & Digital Presence Division",
             "imageUrl": "assets/images/Marketing2.png",
             "pagePath": "/services/Marketing"       
         },
         {
-            "title": "Information Technology & Development",
+            "title": "Information Technology & Development Division",
             "imageUrl": "assets/images/Technologies2.png",
             "pagePath": "/services/Technologies"       
         }
@@ -645,19 +645,19 @@
     ],
     "portfolioservices": [
         {   
-            "title": "Strategy & Management Consulting",
+            "title": "Strategy & Management Consulting Division",
             "imageUrl": "../assets/images/Consulting2.png",
             "pagePath":"/Portfolio/Consulting"
                
         },
         {
-            "title": "Marketing and Digital Presence ",
+            "title": "Marketing & Digital Presence Division",
             "imageUrl": "../assets/images/Marketing2.png",
             "pagePath": "/Portfolio/Marketing"
                  
         },
         {
-            "title": "Information Technology & Development",
+            "title": "Information Technology & Development Division",
             "imageUrl": "../assets/images/Technologies2.png",
             "pagePath":"/Portfolio/Technologies"
              

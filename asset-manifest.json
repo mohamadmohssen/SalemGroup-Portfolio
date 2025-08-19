@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mohamadmohssen/SalemGroup-Portfolio/static/css/main.2622d1a6.css",
+    "main.js": "/mohamadmohssen/SalemGroup-Portfolio/static/js/main.1778b555.js",
+    "static/js/453.63e4aded.chunk.js": "/mohamadmohssen/SalemGroup-Portfolio/static/js/453.63e4aded.chunk.js",
+    "static/media/teamF.png": "/mohamadmohssen/SalemGroup-Portfolio/static/media/teamF.0b3c76ba2ac6e2237e11.png",
+    "static/media/NotFound.png": "/mohamadmohssen/SalemGroup-Portfolio/static/media/NotFound.67759b4097c5294d1ab9.png",
+    "static/media/portfolioHero.png": "/mohamadmohssen/SalemGroup-Portfolio/static/media/portfolioHero.bd16fbc2ddbc062780ac.png",
+    "static/media/Startup2.png": "/mohamadmohssen/SalemGroup-Portfolio/static/media/Startup2.47df373f21c27eab5951.png",
+    "static/media/instagram-icon.png": "/mohamadmohssen/SalemGroup-Portfolio/static/media/instagram-icon.e80dd0bf91b7be13ec82.png",
+    "static/media/location-icon.png": "/mohamadmohssen/SalemGroup-Portfolio/static/media/location-icon.a405c2668c55f74c09be.png",
+    "static/media/twitter-icon.png": "/mohamadmohssen/SalemGroup-Portfolio/static/media/twitter-icon.8e65601e69067aadfe55.png",
+    "index.html": "/mohamadmohssen/SalemGroup-Portfolio/index.html",
+    "main.2622d1a6.css.map": "/mohamadmohssen/SalemGroup-Portfolio/static/css/main.2622d1a6.css.map",
+    "main.1778b555.js.map": "/mohamadmohssen/SalemGroup-Portfolio/static/js/main.1778b555.js.map",
+    "453.63e4aded.chunk.js.map": "/mohamadmohssen/SalemGroup-Portfolio/static/js/453.63e4aded.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2622d1a6.css",
+    "static/js/main.1778b555.js"
+  ]
+}
